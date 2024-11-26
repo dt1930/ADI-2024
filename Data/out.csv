@@ -1,0 +1,821 @@
+home_type,posted,home_URL,home_status,home_price,home_address,home_zipcode,num_beds,num_baths,home_area
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/78-Ronald-Ave-Staten-Island-NY-10303/32299181_zpid/,FOR_SALE,"$629,900","78 Ronald Ave, Staten Island, NY 10303",10303,3,2,1205
+CONDO,152,https://www.zillow.com/homedetails/100-W-57th-St-17IH-New-York-NY-10019/72519078_zpid/,FOR_SALE,"$475,000","100 W 57th St #17IH, New York, NY 10019",10019,3,3,1800
+CONDO,70,https://www.zillow.com/homedetails/212-E-Tremont-Ave-9-Bronx-NY-10457/2054481177_zpid/,FOR_SALE,"$275,000","212 E Tremont Ave #9, Bronx, NY 10457",10457,3,1,1100
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/6013-Huxley-Ave-Bronx-NY-10471/29853681_zpid/,FOR_SALE,"$649,000","6013 Huxley Avenue, Bronx, NY 10471",10471,4,2,
+CONDO,56,https://www.zillow.com/homedetails/219-W-144th-St-APT-34-New-York-NY-10030/88061828_zpid/,FOR_SALE,"$275,000","219 W 144th St APT 34, New York, NY 10030",10030,3,1,0
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/142-53-122nd-Ave-Jamaica-NY-11436/2062360990_zpid/,FOR_SALE,"$599,000","142-53 122nd Ave, Jamaica, NY 11436",11436,3,3,1100
+CONDO,7,https://www.zillow.com/homedetails/100-W-57th-St-APT-10-N-New-York-NY-10019/80619971_zpid/,FOR_SALE,"$239,000","100 W 57th St APT 10-N, New York, NY 10019",10019,2,2,1200
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/644-E-49th-St-Brooklyn-NY-11203/30655689_zpid/,FOR_SALE,"$179,000","644 E 49th Street, East Flatbush, NY 11203",11203,2,2,
+SINGLE_FAMILY,146,https://www.zillow.com/homedetails/115-30-116th-St-South-Ozone-Park-NY-11420/2078094339_zpid/,FOR_SALE,"$274,000","115-30 116th St, South Ozone Park, NY 11420",11420,3,1,1556
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/6254-84th-Pl-Flushing-NY-11379/31995256_zpid/,FOR_SALE,"$873,800","62-54 84th Place, Middle Village, NY 11379",11379,4,3,1650
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/1195-Buddle-Rd-Richfield-Springs-NY-13439/216225734_zpid/,FOR_SALE,"$159,900","1195 Buddle Rd, Richfield Springs, NY 13439",13439,2,1,1378
+SINGLE_FAMILY,12,https://www.zillow.com/homedetails/23-Kingdom-Ave-Staten-Island-NY-10312/32367215_zpid/,FOR_SALE,"$899,999","23 Kingdom Ave, Staten Island, NY 10312",10312,4,3,1578
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/563-E-32nd-St-Brooklyn-NY-11203/442716736_zpid/,FOR_SALE,"$279,000","563 E 32nd Street, East Flatbush, NY 11203",11203,4,2,
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/79-Woodland-Ave-Staten-Island-NY-10308/32351447_zpid/,FOR_SALE,"$775,000","79 Woodland Ave, Staten Island, NY 10308",10308,4,4,2320
+MULTI_FAMILY,83,https://www.zillow.com/homedetails/1020-Richmond-Rd-Staten-Island-NY-10304/32324224_zpid/,FOR_SALE,"$499,000","1020 Richmond Rd, Staten Island, NY 10304",10304,7,3,3692
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/197-Gates-Ave-Brooklyn-NY-11238/30613636_zpid/,FOR_SALE,"$1,495,000","197 Gates Ave, Brooklyn, NY 11238",11238,10,4,4048
+SINGLE_FAMILY,0,https://www.zillow.com/homedetails/188-Woods-Of-Arden-Rd-Staten-Island-NY-10312/32350308_zpid/,FOR_SALE,"$748,000","188 Woods Of Arden Rd, Staten Island, NY 10312",10312,3,1,1196
+CONDO,19,https://www.zillow.com/homedetails/23-20-Bell-Blvd-UNIT-5F-Bayside-NY-11360/441148051_zpid/,FOR_SALE,"$349,000","23-20 Bell Blvd UNIT 5F, Bayside, NY 11360",11360,2,2,
+SINGLE_FAMILY,8,https://www.zillow.com/homedetails/1618-E-35th-St-Brooklyn-NY-11234/30756954_zpid/,FOR_SALE,"$838,000","1618 E 35th St, Brooklyn, NY 11234",11234,3,3,1568
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/658-Delafield-Ave-Staten-Island-NY-10310/32276749_zpid/,FOR_SALE,"$699,000","658 Delafield Ave, Staten Island, NY 10310",10310,6,3,2224
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/9310-Glenwood-Rd-1-Brooklyn-NY-11236/442124807_zpid/,FOR_SALE,"$675,000","9310 Glenwood Rd #1, Brooklyn, NY 11236",11236,3,2,2499
+MULTI_FAMILY,9,https://www.zillow.com/homedetails/3978-Amundson-Ave-Bronx-NY-10466/29835426_zpid/,FOR_SALE,"$650,000","3978 Amundson Avenue, Bronx, NY 10466",10466,5,2,
+SINGLE_FAMILY,12,https://www.zillow.com/homedetails/863-Delafield-Ave-Staten-Island-NY-10310/32277143_zpid/,FOR_SALE,"$499,000","863 Delafield Ave, Staten Island, NY 10310",10310,3,2,1116
+CONDO,36,https://www.zillow.com/homedetails/212-E-Tremont-Ave-APT-8-Bronx-NY-10457/215948953_zpid/,FOR_SALE,"$169,000","212 E Tremont Ave APT 8, Bronx, NY 10457",10457,2,1,1200
+SINGLE_FAMILY,322,https://www.zillow.com/homedetails/241-6-137th-Ave-Rosedale-NY-11422/2056637647_zpid/,FOR_SALE,"$250,000","241-6 137th Ave, Rosedale, NY 11422",11422,4,2,1676
+CONDO,84,https://www.zillow.com/homedetails/46-W-65th-St-APT-1-C-New-York-NY-10023/2078576184_zpid/,FOR_SALE,"$399,000","46 W 65th St APT 1-C, New York, NY 10023",10023,1,1,525
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/2523-87th-St-East-Elmhurst-NY-11369/2093459240_zpid/,FOR_SALE,"$490,000","2523 87th St, East Elmhurst, NY 11369",11369,4,2,1450
+CONDO,119,https://www.zillow.com/homedetails/100-W-57th-St-APT-3B-New-York-NY-10019/2078575921_zpid/,FOR_SALE,"$99,000","100 W 57th St APT 3B, New York, NY 10019",10019,0,1,600
+SINGLE_FAMILY,96,https://www.zillow.com/homedetails/131-36-132nd-St-South-Ozone-Park-NY-11420/2062695224_zpid/,FOR_SALE,"$290,000","131-36 132nd St, South Ozone Park, NY 11420",11420,3,2,0
+CONDO,6,https://www.zillow.com/homedetails/205-E-63rd-St-APT-9B-New-York-NY-10065/442728661_zpid/,FOR_SALE,"$650,000","205 E 63rd St APT 9B, New York, NY 10065",10065,3,2,1689
+CONDO,70,https://www.zillow.com/homedetails/103-E-84th-St-PENTHOUSE-New-York-NY-10028/219695419_zpid/,FOR_SALE,"$199,000","103 E 84th St #PENTHOUSE, New York, NY 10028",10028,0,1,0
+CONDO,83,https://www.zillow.com/homedetails/3015-Riverdale-Ave-APT-2K-Bronx-NY-10463/122143656_zpid/,FOR_SALE,"$269,995","3015 Riverdale Ave APT 2K, Bronx, NY 10463",10463,2,1,875
+SINGLE_FAMILY,75,https://www.zillow.com/homedetails/46-Lincoln-Ave-Staten-Island-NY-10306/32329994_zpid/,FOR_SALE,"$575,000","46 Lincoln Ave, Staten Island, NY 10306",10306,4,3,1344
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/8417-Midland-Pkwy-Jamaica-NY-11432/32135741_zpid/,FOR_SALE,"$1,495,000","84-17 Midland Parkway, Jamaica Estates, NY 11432",11432,4,5,2639
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/58-57-57th-Rd-Maspeth-NY-11378/2068571481_zpid/,FOR_SALE,"$599,900","58-57 57th Road, Maspeth, NY 11378",11378,3,3,
+CONDO,41,https://www.zillow.com/homedetails/2285-Bragg-St-APT-2C-Brooklyn-NY-11229/442033454_zpid/,FOR_SALE,"$199,000","2285 Bragg St APT 2C, Brooklyn, NY 11229",11229,3,1,1100
+MULTI_FAMILY,7,https://www.zillow.com/homedetails/5754-75th-St-Flushing-NY-11379/31989797_zpid/,FOR_SALE,"$938,000","57-54 75th Street, Elmhurst, NY 11379",11379,5,3,
+MULTI_FAMILY,167,https://www.zillow.com/homedetails/131-W-118th-St-New-York-NY-10026/31551652_zpid/,FOR_SALE,"$1,100,000","131 W 118th St, New York, NY 10026",10026,4,5,4740
+TOWNHOUSE,259,https://www.zillow.com/homedetails/15-E-63rd-St-New-York-NY-10065/344214383_zpid/,FOR_SALE,"$44,500,000","15 E 63rd St, New York, NY 10065",10065,7,12,18000
+SINGLE_FAMILY,49,https://www.zillow.com/homedetails/1167-E-40th-St-Brooklyn-NY-11210/30760479_zpid/,FOR_SALE,"$1,449,000","1167 E 40th St, Brooklyn, NY 11210",11210,4,4,2380
+CONDO,188,https://www.zillow.com/homedetails/432-Park-Ave-PENTHOUSE-New-York-NY-10022/2069500049_zpid/,FOR_SALE,"$105,000,000","432 Park Ave #PENTHOUSE, New York, NY 10022",10022,6,9,8255
+CONDO,69,https://www.zillow.com/homedetails/50-Gramercy-Park-N-15AB-New-York-NY-10010/321904083_zpid/,FOR_SALE,"$4,000,000","50 Gramercy Park N #15AB, New York, NY 10010",10010,3,3,3809
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/37-Pitney-Ave-Staten-Island-NY-10309/59821011_zpid/,FOR_SALE,"$1,188,888","37 Pitney Ave, Staten Island, NY 10309",10309,3,4,1920
+MULTI_FAMILY,136,https://www.zillow.com/homedetails/2105-Seward-Ave-Bronx-NY-10473/29792899_zpid/,FOR_SALE,"$299,999","2105 Seward Avenue, Bronx, NY 10473",10473,6,2,2880
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/8507-Aspen-Pl-Jamaica-NY-11432/32134016_zpid/,FOR_SALE,"$975,000","85-07 Aspen Pl, Jamaica Estates, NY 11432",11432,4,2,1895
+CONDO,258,https://www.zillow.com/homedetails/100-W-57th-St-UNIT-4JK-Manhattan-NY-10019/306707664_zpid/,FOR_SALE,"$329,000","100 W 57th St UNIT 4JK, Manhattan, NY 10019",10019,3,3,2200
+CONDO,96,https://www.zillow.com/homedetails/22618-88th-Ave-FLOOR-2-Queens-Village-NY-11427/439272059_zpid/,FOR_SALE,"$270,000","22618 88th Ave UNIT 2, Queens Village, NY 11427",11427,2,1,
+CONDO,214,https://www.zillow.com/homedetails/100-W-57th-St-APT-12H-New-York-NY-10019/79497850_zpid/,FOR_SALE,"$169,000","100 W 57th St APT 12H, New York, NY 10019",10019,1,1,950
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/22-Duncan-St-Staten-Island-NY-10304/32293967_zpid/,FOR_SALE,"$799,000","22 Duncan St, Staten Island, NY 10304",10304,3,3,1911
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/26019-80th-Ave-Glen-Oaks-NY-11004/32102118_zpid/,FOR_SALE,"$859,000","260-19 80th Avenue, Glen Oaks, NY 11004",11004,4,2,
+SINGLE_FAMILY,3,https://www.zillow.com/homedetails/94-Hamilton-Ave-Staten-Island-NY-10301/32270671_zpid/,FOR_SALE,"$299,000","94 Hamilton Ave, Staten Island, NY 10301",10301,2,1,2288
+MULTI_FAMILY,111,https://www.zillow.com/homedetails/13026-150th-St-Jamaica-NY-11436/83052639_zpid/,FOR_SALE,"$250,000","13026 150th St, Jamaica, NY 11436",11436,6,2,0
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/97-Crabtree-Ave-Staten-Island-NY-10309/119284930_zpid/,FOR_SALE,"$788,000","97 Crabtree Ave, Staten Island, NY 10309",10309,4,4,2102
+MULTI_FAMILY,13,https://www.zillow.com/homedetails/711-Pine-St-Brooklyn-NY-11208/30649926_zpid/,FOR_SALE,"$999,000","711 Pine St, Brooklyn, NY 11208",11208,8,3,3075
+CONDO,225,https://www.zillow.com/homedetails/217-W-57th-St-127-128-New-York-NY-10019/2068952873_zpid/,FOR_SALE,"$150,000,000","217 W 57th St #127/128, New York, NY 10019",10019,8,10,11535
+TOWNHOUSE,241,https://www.zillow.com/homedetails/48-W-69th-St-New-York-NY-10023/31518780_zpid/,FOR_SALE,"$85,000,000","48 W 69th St, New York, NY 10023",10023,5,11,19600
+CONDO,24,https://www.zillow.com/homedetails/59-W-87th-St-4-New-York-NY-10024/442302957_zpid/,FOR_SALE,"$950,000","59 W 87th St #4, New York, NY 10024",10024,5,2,1541
+CONDO,133,https://www.zillow.com/homedetails/111-W-57th-St-PENTHOUSE-76-New-York-NY-10019/442155685_zpid/,FOR_SALE,"$49,000,000","111 W 57th St #PENTHOUSE 76, New York, NY 10019",10019,4,5,6512
+MULTI_FAMILY,3,https://www.zillow.com/homedetails/7007-67th-St-Glendale-NY-11385/32013959_zpid/,FOR_SALE,"$879,000","70-07 67th Street, Glendale, NY 11385",11385,5,2,1760
+MULTI_FAMILY,0,https://www.zillow.com/homedetails/2608-Avenue-X-Brooklyn-NY-11235/30748237_zpid/,FOR_SALE,"$800,000","2608 Avenue X, Brooklyn, NY 11235",11235,3,2,1912
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/314-Montreal-Ave-Staten-Island-NY-10306/32343830_zpid/,FOR_SALE,"$879,900","314 Montreal Ave, Staten Island, NY 10306",10306,5,4,2400
+CONDO,68,https://www.zillow.com/homedetails/2271-Knapp-St-APT-1F-Brooklyn-NY-11229/440534938_zpid/,FOR_SALE,"$219,999","2271 Knapp St APT 1F, Brooklyn, NY 11229",11229,3,1,1058
+TOWNHOUSE,5,https://www.zillow.com/homedetails/4728-190th-St-Flushing-NY-11358/32051386_zpid/,FOR_SALE,"$899,000","47-28 190th Street, Flushing, NY 11358",11358,3,2,
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/216-Justin-Ave-Staten-Island-NY-10306/32345087_zpid/,FOR_SALE,"$795,000","216 Justin Ave, Staten Island, NY 10306",10306,5,3,1800
+SINGLE_FAMILY,54,https://www.zillow.com/homedetails/209-31-112-Avenue-2-Queens-Village-NY-11429/441167294_zpid/,FOR_SALE,"$849,000","209-31-112 Avenue 2, Queens Village, NY 11429",11429,5,4,3355
+SINGLE_FAMILY,54,https://www.zillow.com/homedetails/1513-Lexington-Ave-APT-4S-New-York-NY-10029/441149607_zpid/,FOR_SALE,"$515,000","1513 Lexington Ave APT 4S, New York, NY 10029",10029,2,1,0
+CONDO,7,https://www.zillow.com/homedetails/221-E-76th-St-APT-1B-New-York-NY-10021/244826248_zpid/,FOR_SALE,"$275,000","221 E 76th St APT 1B, New York, NY 10021",10021,0,1,0
+CONDO,74,https://www.zillow.com/homedetails/190-E-72nd-St-APT-35B-New-York-NY-10021/440263326_zpid/,FOR_SALE,"$649,000","190 E 72nd St APT 35B, New York, NY 10021",10021,2,2,0
+SINGLE_FAMILY,3,https://www.zillow.com/homedetails/101-Preston-Ave-Staten-Island-NY-10312/32349740_zpid/,FOR_SALE,"$829,998","101 Preston Ave, Staten Island, NY 10312",10312,3,2,888
+MULTI_FAMILY,55,https://www.zillow.com/homedetails/58-Saint-Nicholas-Ave-6-Brooklyn-NY-11237/440959976_zpid/,FOR_SALE,"$450,000","58 Saint Nicholas Ave #6, Brooklyn, NY 11237",11237,8,6,4800
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/255-Brehaut-Ave-Staten-Island-NY-10307/32377524_zpid/,FOR_SALE,"$795,000","255 Brehaut Ave, Staten Island, NY 10307",10307,3,3,1540
+SINGLE_FAMILY,3,https://www.zillow.com/homedetails/1516-Roselle-St-Bronx-NY-10461/29813895_zpid/,FOR_SALE,"$599,000","1516 Roselle Street, Bronx, NY 10461",10461,5,2,1368
+CONDO,117,https://www.zillow.com/homedetails/318-E-151st-St-APT-4B-Bronx-NY-10451/119913294_zpid/,FOR_SALE,"$90,000","318 E 151st St APT 4B, Bronx, NY 10451",10451,1,1,0
+CONDO,110,https://www.zillow.com/homedetails/504-W-55th-St-APT-2W-New-York-NY-10019/418274070_zpid/,FOR_SALE,"$470,000","504 W 55th St APT 2W, New York, NY 10019",10019,1,1,0
+CONDO,320,https://www.zillow.com/homedetails/465-Park-Ave-APT-6E-New-York-NY-10022/244881756_zpid/,FOR_SALE,"$500,000","465 Park Ave APT 6E, New York, NY 10022",10022,2,2,1200
+SINGLE_FAMILY,27,https://www.zillow.com/homedetails/177-Benedict-Rd-Staten-Island-NY-10304/32294383_zpid/,FOR_SALE,"$18,000,000","177 Benedict Rd, Staten Island, NY 10304",10304,8,17,33000
+CONDO,24,https://www.zillow.com/homedetails/170-E-88th-St-APT-4H-New-York-NY-10128/87803902_zpid/,FOR_SALE,"$999,999","170 E 88th St APT 4H, New York, NY 10128",10128,2,2,1050
+CONDO,206,https://www.zillow.com/homedetails/8829-155th-Ave-APT-1H-Howard-Beach-NY-11414/349785606_zpid/,FOR_SALE,"$218,000","8829 155th Ave APT 1H, Howard Beach, NY 11414",11414,2,1,915
+CONDO,14,https://www.zillow.com/homedetails/420-E-51st-St-APT-8D-New-York-NY-10022/244827334_zpid/,FOR_SALE,"$550,000","420 E 51st St APT 8D, New York, NY 10022",10022,3,3,0
+SINGLE_FAMILY,47,https://www.zillow.com/homedetails/10-10-Avenue-1de-New-York-NY-10159/441704071_zpid/,FOR_SALE,"$118,000","10-10 Ave 1De Septiemb, Other, OC 01159",10159,3,3,
+MULTI_FAMILY,131,https://www.zillow.com/homedetails/4216-Wickham-Ave-Bronx-NY-10466/29837244_zpid/,FOR_SALE,"$589,000","4216 Wickham Ave, Bronx, NY 10466",10466,4,3,2000
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/50-Winham-Ave-Staten-Island-NY-10306/32334792_zpid/,FOR_SALE,"$499,000","50 Winham Ave, Staten Island, NY 10306",10306,3,2,796
+SINGLE_FAMILY,96,https://www.zillow.com/homedetails/503-Minnieford-Ave-Bronx-NY-10464/29850682_zpid/,FOR_SALE,"$589,000","503 Minnieford Avenue, Bronx, NY 10464",10464,3,2,1606
+CONDO,13,https://www.zillow.com/homedetails/67-38-108th-St-D5-Forest-Hills-NY-11375/2062999704_zpid/,FOR_SALE,"$189,000","67-38 108 Street UNIT D5, Forest Hills, NY 11375",11375,1,1,
+TOWNHOUSE,5,https://www.zillow.com/homedetails/28-Holiday-Way-Staten-Island-NY-10314/32302433_zpid/,FOR_SALE,"$438,000","28 Holiday Way, Staten Island, NY 10314",10314,2,2,870
+MULTI_FAMILY,13,https://www.zillow.com/homedetails/2215-Collier-Ave-Far-Rockaway-NY-11691/32223108_zpid/,FOR_SALE,"$499,500","22-15 Collier Avenue, Far Rockaway, NY 11691",11691,6,2,2300
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/48-Lamport-Blvd-Staten-Island-NY-10305/32325049_zpid/,FOR_SALE,"$599,900","48 Lamport Blvd, Staten Island, NY 10305",10305,3,2,1170
+MULTI_FAMILY,7,https://www.zillow.com/homedetails/24362-144th-Ave-Jamaica-NY-11422/32210317_zpid/,FOR_SALE,"$699,000","243-62 144th Avenue, Rosedale, NY 11422",11422,3,2,
+CONDO,43,https://www.zillow.com/homedetails/430-E-58th-St-PENTHOUSE-80-New-York-NY-10022/441781042_zpid/,FOR_SALE,"$65,000,000","430 E 58th St #PENTHOUSE 80, New York, NY 10022",10022,5,7,9191
+SINGLE_FAMILY,41,https://www.zillow.com/homedetails/36-Leroy-St-New-York-NY-10014/31499213_zpid/,FOR_SALE,"$3,900,000","36 Leroy St, New York, NY 10014",10014,2,2,0
+CONDO,76,https://www.zillow.com/homedetails/310-E-46th-St-New-York-NY-10017/300195063_zpid/,FOR_SALE,"$2,850,000","310 E 46th St, New York, NY 10017",10017,6,5,4511
+SINGLE_FAMILY,320,https://www.zillow.com/homedetails/236-E-72nd-St-New-York-NY-10021/31537161_zpid/,FOR_SALE,"$5,295,000","236 E 72nd St, New York, NY 10021",10021,4,4,0
+MULTI_FAMILY,147,https://www.zillow.com/homedetails/119-Rockaway-Pkwy-Brooklyn-NY-11212/30651159_zpid/,FOR_SALE,"$599,900","119 Rockaway Parkway, Brownsville, NY 11212",11212,8,4,3198
+CONDO,6,https://www.zillow.com/homedetails/277-5th-Ave-PENTHOUSE-55-New-York-NY-10016/442365313_zpid/,FOR_SALE,"$20,000,000","277 5th Ave #PENTHOUSE 55, New York, NY 10016",10016,4,5,4520
+TOWNHOUSE,16,https://www.zillow.com/homedetails/4-E-80th-St-New-York-NY-10075/31540062_zpid/,FOR_SALE,"$59,000,000","4 E 80th St, New York, NY 10075",10075,9,12,20000
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/15014-107th-Ave-Jamaica-NY-11433/32138122_zpid/,FOR_SALE,"$709,000","150-14 107th Avenue, Jamaica, NY 11433",11433,5,3,1460
+CONDO,111,https://www.zillow.com/homedetails/100-W-57th-St-APT-2G-Manhattan-NY-10019/72519015_zpid/,FOR_SALE,"$154,900","100 West 57th Street UNIT 2G, New York, NY 10019",10019,1,1,
+CONDO,82,https://www.zillow.com/homedetails/44-55-Kissena-Blvd-6G-Flushing-NY-11355/2063003980_zpid/,FOR_SALE,"$409,998","44-55 Kissena Boulevard UNIT 6G, Flushing, NY 11355",11355,3,2,1150
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/97-33-104th-St-Ozone-Park-NY-11416/2064237611_zpid/,FOR_SALE,"$699,900","97-33 104th Street, Ozone Park, NY 11416",11416,6,4,
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/177-E-31st-St-Brooklyn-NY-11226/30660449_zpid/,FOR_SALE,"$979,000","177 E 31st St, Brooklyn, NY 11226",11226,7,3,2080
+CONDO,8,https://www.zillow.com/homedetails/61-04-255th-St-993-Little-Neck-NY-11362/219877982_zpid/,FOR_SALE,"$439,999","61-04 255th Street UNIT 993, Little Neck, NY 11362",11362,3,1,
+SINGLE_FAMILY,305,https://www.zillow.com/homedetails/12427-Flatlands-Ave-Brooklyn-NY-11208/30649428_zpid/,FOR_SALE,"$469,000","12427 Flatlands Ave, Brooklyn, NY 11208",11208,3,2,0
+CONDO,40,https://www.zillow.com/homedetails/3400-Snyder-Ave-APT-2R-Brooklyn-NY-11203/92427502_zpid/,FOR_SALE,"$300,000","3400 Snyder Ave APT 2R, Brooklyn, NY 11203",11203,2,1,748
+CONDO,21,https://www.zillow.com/homedetails/65-N-8th-St-APT-11-Brooklyn-NY-11211/2130785073_zpid/,FOR_SALE,"$629,000","65 N 8th St APT 11, Brooklyn, NY 11211",11211,2,1,0
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/14706-11th-Ave-Flushing-NY-11357/32026964_zpid/,FOR_SALE,"$1,149,000","147-06 11th Avenue Avenue, Whitestone, NY 11357",11357,6,2,2085
+CONDO,52,https://www.zillow.com/homedetails/385-Adelphi-St-UNIT-A-Brooklyn-NY-11238/442155944_zpid/,FOR_SALE,"$1,310,000","385 Adelphi St UNIT A, Brooklyn, NY 11238",11238,3,2,0
+CONDO,131,https://www.zillow.com/homedetails/32-25-88th-St-D307-East-Elmhurst-NY-11369/401090558_zpid/,FOR_SALE,"$185,000","32-25 88th St #D307, East Elmhurst, NY 11369",11369,1,1,0
+CONDO,243,https://www.zillow.com/homedetails/200-E-75th-St-UNIT-PENTHOUSE-5-New-York-NY-10021/402691573_zpid/,FOR_SALE,"$22,950,000","200 E 75th St UNIT PENTHOUSE 5, New York, NY 10021",10021,6,7,5300
+SINGLE_FAMILY,89,https://www.zillow.com/homedetails/86-Gaylord-Dr-S-Brooklyn-NY-11234/30788047_zpid/,FOR_SALE,"$3,600,000","86 Gaylord Dr S, Brooklyn, NY 11234",11234,5,6,11360
+CONDO,45,https://www.zillow.com/homedetails/583-Putnam-Ave-4-Brooklyn-NY-11221/2103068857_zpid/,FOR_SALE,"$1,250,000","583 Putnam Ave #4, Brooklyn, NY 11221",11221,3,2,1106
+SINGLE_FAMILY,35,https://www.zillow.com/homedetails/1050-Hancock-St-APT-3E-Brooklyn-NY-11221/2113365341_zpid/,FOR_SALE,"$350,000","1050 Hancock St APT 3E, Brooklyn, NY 11221",11221,2,1,0
+SINGLE_FAMILY,2,https://www.zillow.com/homedetails/9109-Avenue-A-Brooklyn-NY-11236/30653991_zpid/,FOR_SALE,"$350,000","9109 Avenue A, Brooklyn, NY 11236",11236,3,2,0
+CONDO,315,https://www.zillow.com/homedetails/72-Richardson-St-APT-19-Brooklyn-NY-11211/2054591891_zpid/,FOR_SALE,"$330,000","72 Richardson St APT 19, Brooklyn, NY 11211",11211,2,1,800
+CONDO,7,https://www.zillow.com/homedetails/220-06-67th-Ave-Oakland-Gardens-NY-11364/442718225_zpid/,FOR_SALE,"$250,000","220-06 67th Avenue UNIT Upper, Oakland Gardens, NY 11364",11364,2,1,
+CONDO,39,https://www.zillow.com/homedetails/80-15-Main-St-APT-1B-Jamaica-NY-11435/80381007_zpid/,FOR_SALE,"$249,900","80-15 Main Street UNIT 1B, Briarwood, NY 11435",11435,3,3,900
+CONDO,76,https://www.zillow.com/homedetails/3255-Randall-Ave-APT-5H-Bronx-NY-10465/244441556_zpid/,FOR_SALE,"$199,000","3255 Randall Avenue UNIT 5H, Bronx, NY 10465",10465,2,1,1200
+CONDO,215,https://www.zillow.com/homedetails/563-W-150th-St-APT-2F-New-York-NY-10031/348493511_zpid/,FOR_SALE,"$150,000","563 W 150th St APT 2F, New York, NY 10031",10031,1,1,0
+CONDO,172,https://www.zillow.com/homedetails/55-Liberty-St-APT-16C-New-York-NY-10038/351718815_zpid/,FOR_SALE,"$795,000","55 Liberty St APT 16C, New York, NY 10038",10038,2,2,1400
+SINGLE_FAMILY,174,https://www.zillow.com/homedetails/4720-Grosvenor-Ave-Bronx-NY-10471/29852769_zpid/,FOR_SALE,"$2,150,000","4720 Grosvenor Ave, Bronx, NY 10471",10471,5,5,4054
+CONDO,14,https://www.zillow.com/homedetails/11050-71st-Rd-SUITE-1L-Flushing-NY-11375/245435178_zpid/,FOR_SALE,"$129,000","11050 71st Rd SUITE 1L, Flushing, NY 11375",11375,1,1,700
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/62-Bennett-Pl-Staten-Island-NY-10312/32366280_zpid/,FOR_SALE,"$999,000","62 Bennett Pl, Staten Island, NY 10312",10312,5,3,2400
+SINGLE_FAMILY,14,https://www.zillow.com/homedetails/10435-205th-St-Jamaica-NY-11412/32155314_zpid/,FOR_SALE,"$589,000","10435 205th St, Jamaica, NY 11412",11412,3,2,1500
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/11407-205th-St-Jamaica-NY-11412/32158816_zpid/,FOR_SALE,"$650,000","114-07 205th Street, Saint Albans, NY 11412",11412,3,2,
+CONDO,4,https://www.zillow.com/homedetails/7-Bond-St-New-York-NY-10012/31497963_zpid/,FOR_SALE,"$8,995,000","7 Bond St, New York, NY 10012",10012,4,3,3067
+CONDO,3,https://www.zillow.com/homedetails/30-Bradley-Ct-A-Staten-Island-NY-10314/2136287525_zpid/,FOR_SALE,"$398,000","30 Bradley Ct #A, Staten Island, NY 10314",10314,2,1,1000
+CONDO,269,https://www.zillow.com/homedetails/173-Rivington-St-UNIT-3D-New-York-NY-10002/442156434_zpid/,FOR_SALE,"$475,000","173 Rivington St UNIT 3D, New York, NY 10002",10002,2,1,0
+CONDO,3,https://www.zillow.com/homedetails/475-Park-Ave-UNIT-3D5-New-York-NY-10022/442793300_zpid/,FOR_SALE,"$250,000","475 Park Ave UNIT 3D5, New York, NY 10022",10022,0,1,0
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/1361-Edwards-Ave-Bronx-NY-10461/29841663_zpid/,FOR_SALE,"$699,999","1361 Edwards Avenue, Bronx, NY 10461",10461,5,2,
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/64-37-210th-St-Oakland-Gardens-NY-11364/2061240796_zpid/,FOR_SALE,"$1,088,000","64-37 210th Street, Oakland Gardens, NY 11364",11364,3,3,1344
+CONDO,76,https://www.zillow.com/homedetails/269-87th-St-3C-New-York-NY-10024/2063269029_zpid/,FOR_SALE,"$1,150,000","269 87th St #3C, New York, NY 10024",10024,2,3,1406
+APARTMENT,371,https://www.zillow.com/homedetails/1100-Clove-Rd-G0-Staten-Island-NY-10301/2094371409_zpid/,FOR_SALE,"$139,900","1100 Clove Rd #G0, Staten Island, NY 10301",10301,2,2,800
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/1922-E-37th-St-Brooklyn-NY-11234/30785094_zpid/,FOR_SALE,"$634,999","1922 E 37th Street, Marine Park, NY 11234",11234,2,1,
+SINGLE_FAMILY,410,https://www.zillow.com/homedetails/131-16-115th-Ave-South-Ozone-Park-NY-11420/2080380845_zpid/,FOR_SALE,"$235,000","131-16 115th Ave, South Ozone Park, NY 11420",11420,3,2,0
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/61-E-80th-St-New-York-NY-10075/31540213_zpid/,FOR_SALE,"$19,800,000","61 E 80th St, New York, NY 10075",10075,4,6,9000
+CONDO,10,https://www.zillow.com/homedetails/155-E-34th-St-APT-8V-New-York-NY-10016/31507040_zpid/,FOR_SALE,"$399,000","155 E 34th St APT 8V, New York, NY 10016",10016,0,1,510
+CONDO,10,https://www.zillow.com/homedetails/204-E-7th-St-G2-New-York-NY-10009/244758554_zpid/,FOR_SALE,"$395,000","204 E 7th St #G2, New York, NY 10009",10009,2,2,0
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/10930-142nd-St-Jamaica-NY-11435/32179398_zpid/,FOR_SALE,"$725,000","109-30 142 Street, Jamaica, NY 11435",11435,3,2,1576
+MULTI_FAMILY,29,https://www.zillow.com/homedetails/379-Timber-Ridge-Dr-Staten-Island-NY-10306/32342737_zpid/,FOR_SALE,"$749,888","379 Timber Ridge Dr, Staten Island, NY 10306",10306,4,3,2142
+CONDO,160,https://www.zillow.com/homedetails/781-5th-Ave-APT-1416-New-York-NY-10022/72527019_zpid/,FOR_SALE,"$295,000","781 5th Ave APT 1416, New York, NY 10022",10022,1,1,375
+APARTMENT,119,https://www.zillow.com/homedetails/62-Pond-Way-Staten-Island-NY-10303/402679041_zpid/,FOR_SALE,"$349,000","62 Pond Way, Staten Island, NY 10303",10303,3,2,1176
+CONDO,36,https://www.zillow.com/homedetails/67-50-Thornton-Pl-APT-1M-Forest-Hills-NY-11375/219856859_zpid/,FOR_SALE,"$549,000","67-50 Thornton Pl APT 1M, Forest Hills, NY 11375",11375,3,2,1150
+SINGLE_FAMILY,17,https://www.zillow.com/homedetails/112-39-177th-St-Jamaica-NY-11433/2061004726_zpid/,FOR_SALE,"$1,200,000","112-39 177th St, Jamaica, NY 11433",11433,4,4,2500
+CONDO,12,https://www.zillow.com/homedetails/2385-Barker-5u-Ave-Bronx-NY-10467/442677706_zpid/,FOR_SALE,"$325,000","2385 barker 5u Ave, Bronx, NY 10467",10467,2,1,950
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/1812-Tomlinson-Ave-Bronx-NY-10461/29815320_zpid/,FOR_SALE,"$949,000","1812 Tomlinson Avenue, Bronx, NY 10461",10461,6,4,2500
+CONDO,63,https://www.zillow.com/homedetails/2545-Sedgwick-Ave-APT-7B-Bronx-NY-10468/244445030_zpid/,FOR_SALE,"$175,000","2545 Sedgwick Ave APT 7B, Bronx, NY 10468",10468,2,1,950
+CONDO,45,https://www.zillow.com/homedetails/2168-35th-St-APT-1H-Astoria-NY-11105/245380022_zpid/,FOR_SALE,"$179,900","21-38 35 Street UNIT 1H, Astoria, NY 11105",11105,2,1,800
+CONDO,215,https://www.zillow.com/homedetails/27-E-65th-St-APT-3A-New-York-NY-10065/244890470_zpid/,FOR_SALE,"$650,000","27 E 65th St APT 3A, New York, NY 10065",10065,2,2,1150
+SINGLE_FAMILY,217,https://www.zillow.com/homedetails/117-Malba-Dr-Malba-NY-11357/32025781_zpid/,FOR_SALE,"$6,999,000","117 Malba Drive, Malba, NY 11357",11357,5,6,8300
+CONDO,40,https://www.zillow.com/homedetails/1431-E-108th-St-APT-10E-Brooklyn-NY-11236/30777868_zpid/,FOR_SALE,"$299,999","1431 E 108th St APT 10E, Brooklyn, NY 11236",11236,2,2,809
+SINGLE_FAMILY,234,https://www.zillow.com/homedetails/178-E-75th-St-New-York-NY-10021/31535475_zpid/,FOR_SALE,"$28,000,000","178 E 75th St, New York, NY 10021",10021,5,6,6600
+MULTI_FAMILY,18,https://www.zillow.com/homedetails/23108-Mentone-Ave-Laurelton-NY-11413/32205678_zpid/,FOR_SALE,"$699,000","231-08 Mentone Avenue, Laurelton, NY 11413",11413,5,3,
+APARTMENT,306,https://www.zillow.com/homedetails/20-Cliff-St-Staten-Island-NY-10305/32318220_zpid/,FOR_SALE,"$299,000","20 Cliff St, Staten Island, NY 10305",10305,2,2,1360
+CONDO,33,https://www.zillow.com/homedetails/9-Alden-Park-9-Bronx-NY-10465/2063503685_zpid/,FOR_SALE,"$199,900","9 Alden Park UNIT 9, Bronx, NY 10465",10465,3,2,1000
+CONDO,7,https://www.zillow.com/homedetails/81-22-Langdale-St-FLOOR-2-New-Hyde-Park-NY-11040/2058047667_zpid/,FOR_SALE,"$399,000","81-22 Langdale Street 2nd fl, New Hyde Park, NY 11040",11040,2,1,
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/208-08-33rd-Ave-Bayside-NY-11361/442143681_zpid/,FOR_SALE,"$938,000","208-08 33rd Avenue, Bayside, NY 11361",11361,3,2,1612
+CONDO,138,https://www.zillow.com/homedetails/217-W-57th-St-126-New-York-NY-10019/338593841_zpid/,FOR_SALE,"$65,000,000","217 W 57th St #126, New York, NY 10019",10019,5,6,7074
+SINGLE_FAMILY,2,https://www.zillow.com/homedetails/2614-E-66th-St-Brooklyn-NY-11234/30788868_zpid/,FOR_SALE,"$949,000","2614 E 66th St, Brooklyn, NY 11234",11234,4,3,2200
+CONDO,4,https://www.zillow.com/homedetails/8-Riverside-Dr-W-1A-New-York-NY-10023/442771540_zpid/,FOR_SALE,"$465,000","8 Riverside Dr W #1A, New York, NY 10023",10023,1,1,0
+SINGLE_FAMILY,54,https://www.zillow.com/homedetails/329-Taylor-St-Staten-Island-NY-10310/32276634_zpid/,FOR_SALE,"$649,000","329 Taylor Street, Staten Island, NY 10310",10310,4,2,1600
+TOWNHOUSE,91,https://www.zillow.com/homedetails/45-W-70th-St-New-York-NY-10023/31518799_zpid/,FOR_SALE,"$14,980,000","45 W 70th St, New York, NY 10023",10023,5,6,8550
+MULTI_FAMILY,33,https://www.zillow.com/homedetails/909-911-Lamb-St-Utica-NY-13502/2058657408_zpid/,FOR_SALE,"$179,900","909-911 Lamb St, Utica, NY 13502",13502,6,2,2304
+SINGLE_FAMILY,8,https://www.zillow.com/homedetails/193-Kiswick-St-Staten-Island-NY-10306/32332650_zpid/,FOR_SALE,"$175,000","193 Kiswick St, Staten Island, NY 10306",10306,2,1,580
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/6-Altamont-St-Staten-Island-NY-10306/32295466_zpid/,FOR_SALE,"$699,999","6 Altamont St, Staten Island, NY 10306",10306,3,3,1440
+CONDO,0,https://www.zillow.com/homedetails/3-Court-Sq-3106-Long-Island-City-NY-11101/2071929512_zpid/,FOR_SALE,"$828,000","3 Court Sq #3106, Long Island City, NY 11101",11101,1,1,
+CONDO,32,https://www.zillow.com/homedetails/140-W-81st-St-PENTHOUSE-New-York-NY-10024/442032673_zpid/,FOR_SALE,"$9,995,000","140 W 81st St #PENTHOUSE, New York, NY 10024",10024,4,5,4025
+CONDO,10,https://www.zillow.com/homedetails/342-W-48th-St-APT-3RW-New-York-NY-10036/244846639_zpid/,FOR_SALE,"$375,000","342 W 48th St APT 3RW, New York, NY 10036",10036,1,1,0
+CONDO,175,https://www.zillow.com/homedetails/40-E-80th-St-APT-21A-New-York-NY-10075/244808481_zpid/,FOR_SALE,"$749,000","40 E 80th St APT 21A, New York, NY 10075",10075,3,3,0
+SINGLE_FAMILY,70,https://www.zillow.com/homedetails/221-57-92nd-Queens-Village-NY-11428/2082301029_zpid/,FOR_SALE,"$749,880","221-57 92 Avenue, Queens Village, NY 11428",11428,3,2,1280
+CONDO,6,https://www.zillow.com/homedetails/428-W-19th-St-9B-New-York-NY-10011/442724290_zpid/,FOR_SALE,"$3,995,000","428 W 19th St #9B, New York, NY 10011",10011,2,2,1504
+CONDO,237,https://www.zillow.com/homedetails/147-Edgewater-Park-D-Bronx-NY-10465/2070299744_zpid/,FOR_SALE,"$55,000","147 Edgewater Park UNIT D, Bronx, NY 10465",10465,2,1,0
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/7520-3rd-Ave-Brooklyn-NY-11209/30695325_zpid/,FOR_SALE,"$110,000","7520 3rd Ave, Brooklyn, NY 11209",11209,,0,1200
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/77-Tenafly-Pl-Staten-Island-NY-10312/112111443_zpid/,FOR_SALE,"$1,250,000","77 Tenafly Pl, Staten Island, NY 10312",10312,5,4,2300
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/22702-112th-Rd-Jamaica-NY-11429/32163775_zpid/,FOR_SALE,"$300,000","22702 112th Rd, Jamaica, NY 11429",11429,3,2,1265
+CONDO,10,https://www.zillow.com/homedetails/59-E-72nd-St-APT-3C-New-York-NY-10021/244781527_zpid/,FOR_SALE,"$685,000","59 E 72nd St APT 3C, New York, NY 10021",10021,2,2,0
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/1458-Blake-Ave-Brooklyn-NY-11208/30646458_zpid/,FOR_SALE,"$809,900","1458 Blake Ave, Brooklyn, NY 11208",11208,,4,2476
+CONDO,42,https://www.zillow.com/homedetails/786-9th-Ave-APT-3R-New-York-NY-10019/441786510_zpid/,FOR_SALE,"$540,000","786 9th Ave APT 3R, New York, NY 10019",10019,2,1,0
+CONDO,199,https://www.zillow.com/homedetails/136-E-36th-St-APT-8B-Manhattan-NY-10016/338301342_zpid/,FOR_SALE,"$999,000","136 E 36th St APT 8B, Manhattan, NY 10016",10016,4,2,2100
+CONDO,118,https://www.zillow.com/homedetails/555-Kappock-St-APT-23S-Bronx-NY-10463/244447391_zpid/,FOR_SALE,"$325,000","555 Kappock St APT 23S, Bronx, NY 10463",10463,2,2,1200
+CONDO,27,https://www.zillow.com/homedetails/2038-E-58th-St-128C-Brooklyn-NY-11234/2062199135_zpid/,FOR_SALE,"$250,000","2038 E 58th St #128C, Brooklyn, NY 11234",11234,2,1,850
+CONDO,10,https://www.zillow.com/homedetails/347-W-44th-St-APT-4RE-New-York-NY-10036/112084313_zpid/,FOR_SALE,"$299,000","347 W 44th St APT 4RE, New York, NY 10036",10036,1,1,0
+CONDO,88,https://www.zillow.com/homedetails/130-E-17th-St-APT-5C-New-York-NY-10003/244788810_zpid/,FOR_SALE,"$299,999","130 E 17th St APT 5C, New York, NY 10003",10003,0,1,
+CONDO,48,https://www.zillow.com/homedetails/1075-Ocean-Pkwy-APT-3E-Brooklyn-NY-11230/216129593_zpid/,FOR_SALE,"$450,000","1075 Ocean Pkwy APT 3E, Brooklyn, NY 11230",11230,3,1,1100
+CONDO,26,https://www.zillow.com/homedetails/27-E-65th-St-5BC-New-York-NY-10065/442232803_zpid/,FOR_SALE,"$995,000","27 E 65th St #5BC, New York, NY 10065",10065,3,3,2100
+CONDO,70,https://www.zillow.com/homedetails/246-E-51st-St-APT-22-Manhattan-NY-10022/72524381_zpid/,FOR_SALE,"$349,000","246 E 51st St APT 22, Manhattan, NY 10022",10022,1,1,
+CONDO,11,https://www.zillow.com/homedetails/59-Pineapple-St-APT-2L-Brooklyn-NY-11201/79721159_zpid/,FOR_SALE,"$550,000","59 Pineapple St APT 2L, Brooklyn, NY 11201",11201,1,1,0
+CONDO,111,https://www.zillow.com/homedetails/74-45-220th-St-UNIT-112A-Oakland-Gardens-NY-11364/416165279_zpid/,FOR_SALE,"$330,000","74-45 220th Street UNIT 112A, Bayside, NY 11364",11364,2,1,
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/819-E-19th-St-Brooklyn-NY-11230/30723931_zpid/,FOR_SALE,"$1,750,000","819 E 19th St, Brooklyn, NY 11230",11230,4,3,4000
+CONDO,70,https://www.zillow.com/homedetails/333-Central-Park-W-APT-11-New-York-NY-10025/72522485_zpid/,FOR_SALE,"$2,300,000","333 Central Park W APT 11, New York, NY 10025",10025,3,3,2000
+SINGLE_FAMILY,74,https://www.zillow.com/homedetails/2634-169th-St-Flushing-NY-11358/32036271_zpid/,FOR_SALE,"$1,175,000","26-34 169th Street, Flushing, NY 11358",11358,4,2,1728
+TOWNHOUSE,35,https://www.zillow.com/homedetails/12-Huntington-St-Brooklyn-NY-11231/30573318_zpid/,FOR_SALE,"$1,738,000","12 Huntington St, Brooklyn, NY 11231",11231,4,2,2304
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/108-22-167th-St-Jamaica-NY-11433/2070073367_zpid/,FOR_SALE,"$1,299,999","108-22 167th Street, Jamaica, NY 11433",11433,8,4,
+CONDO,12,https://www.zillow.com/homedetails/702-Greene-Ave-2-Brooklyn-NY-11221/2058988604_zpid/,FOR_SALE,"$949,000","702 Greene Ave #2, Brooklyn, NY 11221",11221,2,2,934
+SINGLE_FAMILY,68,https://www.zillow.com/homedetails/103-Lenox-Ave-UNIT-2C-New-York-NY-10026/442155942_zpid/,FOR_SALE,"$495,000","103 Lenox Ave UNIT 2C, New York, NY 10026",10026,2,1,810
+TOWNHOUSE,3,https://www.zillow.com/homedetails/39-Hemlock-Ct-Staten-Island-NY-10309/32372064_zpid/,FOR_SALE,"$678,000","39 Hemlock Ct, Staten Island, NY 10309",10309,3,4,1661
+MULTI_FAMILY,0,https://www.zillow.com/homedetails/39-Crowell-Ave-Staten-Island-NY-10314/32281406_zpid/,FOR_SALE,"$1,450,888","39 Crowell Ave, Staten Island, NY 10314",10314,6,5,2704
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/79-18-210th-St-Oakland-Gardens-NY-11364/2063479578_zpid/,FOR_SALE,"$1,588,888","79-18 210th Street, Hollis Hills, NY 11364",11364,3,3,2100
+TOWNHOUSE,32,https://www.zillow.com/homedetails/711-Mac-Donough-St-Brooklyn-NY-11233/30599364_zpid/,FOR_SALE,"$2,088,000","711 Macdonough Street, Bedford-Stuyvesant, NY 11233",11233,5,4,2925
+CONDO,70,https://www.zillow.com/homedetails/303-E-57th-St-APT-36E-New-York-NY-10022/89558487_zpid/,FOR_SALE,"$595,000","303 E 57th St APT 36E, New York, NY 10022",10022,2,3,0
+CONDO,20,https://www.zillow.com/homedetails/9536-Schenck-St-3-Brooklyn-NY-11236/79710230_zpid/,FOR_SALE,$1,"9536 Schenck St #3, Brooklyn, NY 11236",11236,2,1,1400
+MULTI_FAMILY,22,https://www.zillow.com/homedetails/938-E-228th-St-Bronx-NY-10466/29833052_zpid/,FOR_SALE,"$425,000","938 E 228th Street, Bronx, NY 10466",10466,3,2,1584
+SINGLE_FAMILY,98,https://www.zillow.com/homedetails/218-20-112th-Ave-Queens-Village-NY-11429/2079313732_zpid/,FOR_SALE,"$327,000","218-20 112th Ave, Queens Village, NY 11429",11429,4,2,1280
+SINGLE_FAMILY,104,https://www.zillow.com/homedetails/24333-145th-Ave-Jamaica-NY-11422/32210293_zpid/,FOR_SALE,"$276,500","24333 145th Ave, Jamaica, NY 11422",11422,3,1,1678
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/5624-E-Hampton-Blvd-Flushing-NY-11364/32085998_zpid/,FOR_SALE,"$1,180,000","56-24 E Hampton Boulevard, Bayside, NY 11364",11364,4,3,
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/1107-Willowbrook-Rd-Staten-Island-NY-10314/32291636_zpid/,FOR_SALE,"$850,000","1107 Willowbrook Rd, Staten Island, NY 10314",10314,3,4,1440
+SINGLE_FAMILY,290,https://www.zillow.com/homedetails/10-E-67th-St-New-York-NY-10065/31533539_zpid/,FOR_SALE,"$50,000,000","10 E 67th St, New York, NY 10065",10065,8,13,13000
+CONDO,34,https://www.zillow.com/homedetails/508-E-78th-St-APT-6A-New-York-NY-10075/244745095_zpid/,FOR_SALE,"$450,000","508 E 78th St APT 6A, New York, NY 10075",10075,2,1,0
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/280-Slater-Blvd-Staten-Island-NY-10305/32332928_zpid/,FOR_SALE,"$699,999","280 Slater Blvd, Staten Island, NY 10305",10305,3,3,1200
+CONDO,76,https://www.zillow.com/homedetails/1185-Park-Ave-APT-1A-New-York-NY-10128/244841082_zpid/,FOR_SALE,"$725,000","1185 Park Ave APT 1A, New York, NY 10128",10128,2,2,1465
+MULTI_FAMILY,12,https://www.zillow.com/homedetails/41-Fraser-St-Staten-Island-NY-10314/32313711_zpid/,FOR_SALE,"$999,000","41 Fraser St, Staten Island, NY 10314",10314,3,3,3016
+CONDO,7,https://www.zillow.com/homedetails/87-70-173rd-St-APT-3E-Jamaica-NY-11432/72651638_zpid/,FOR_SALE,"$225,000","87-70 173rd Street UNIT 3E, Jamaica, NY 11432",11432,2,1,
+CONDO,320,https://www.zillow.com/homedetails/53-W-53rd-St-PENTHOUSE-76-New-York-NY-10019/440330724_zpid/,FOR_SALE,"$63,815,000","53 W 53rd St #PENTHOUSE 76, New York, NY 10019",10019,4,4,7973
+SINGLE_FAMILY,52,https://www.zillow.com/homedetails/1233-Todt-Hill-Rd-Staten-Island-NY-10304/32295203_zpid/,FOR_SALE,"$1,199,000","1233 Todt Hill Road, Staten Island, NY 10304",10304,5,3,5600
+SINGLE_FAMILY,24,https://www.zillow.com/homedetails/1142-E-35th-St-Brooklyn-NY-11210/30752813_zpid/,FOR_SALE,"$899,000","1142 E 35th St, Brooklyn, NY 11210",11210,3,4,2700
+CONDO,70,https://www.zillow.com/homedetails/853-Macy-Pl-APT-3E-Bronx-NY-10455/2055273179_zpid/,FOR_SALE,"$265,000","853 Macy Pl APT 3E, Bronx, NY 10455",10455,2,2,976
+SINGLE_FAMILY,84,https://www.zillow.com/homedetails/62-48-70th-St-Middle-Village-NY-11379/2062240198_zpid/,FOR_SALE,"$699,000","62-48 70th Street, Middle Village, NY 11379",11379,3,3,
+CONDO,19,https://www.zillow.com/homedetails/301-E-63rd-St-APT-14F-Manhattan-NY-10065/72529094_zpid/,FOR_SALE,"$450,000","301 E 63rd St APT 14F, Manhattan, NY 10065",10065,2,1,962
+CONDO,70,https://www.zillow.com/homedetails/310-W-55th-St-3JK-New-York-NY-10019/2056299877_zpid/,FOR_SALE,"$825,000","310 W 55th St #3JK, New York, NY 10019",10019,2,2,1250
+CONDO,55,https://www.zillow.com/homedetails/100-West-W-57-New-York-NY-10007/441888985_zpid/,FOR_SALE,"$399,000","100 west W 57 St Street UNIT 2 H, New York, NY 10019",10007,1,1,950
+CONDO,6,https://www.zillow.com/homedetails/21-77-33rd-St-3H-Astoria-NY-11105/245426079_zpid/,FOR_SALE,"$429,000","21-77 33rd St #3H, Astoria, NY 11105",11105,3,1,0
+TOWNHOUSE,4,https://www.zillow.com/homedetails/10-Alan-Loop-Staten-Island-NY-10304/32323896_zpid/,FOR_SALE,"$878,000","10 Alan Loop, Staten Island, NY 10304",10304,4,4,2490
+CONDO,248,https://www.zillow.com/homedetails/424-E-115th-St-APT-3C-New-York-NY-10029/345380900_zpid/,FOR_SALE,"$96,400","424 E 115th St APT 3C, New York, NY 10029",10029,0,1,0
+SINGLE_FAMILY,30,https://www.zillow.com/homedetails/2513-Humphrey-St-Flushing-NY-11369/31968352_zpid/,FOR_SALE,"$405,000","2513 Humphrey St, Flushing, NY 11369",11369,3,2,0
+SINGLE_FAMILY,44,https://www.zillow.com/homedetails/9-Russell-St-Staten-Island-NY-10308/32348246_zpid/,FOR_SALE,"$499,999","9 Russell St, Staten Island, NY 10308",10308,3,2,1099
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/8823-75th-St-Jamaica-NY-11421/32107349_zpid/,FOR_SALE,"$639,000","8823 75th St, Jamaica, NY 11421",11421,3,1,1230
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/110-Sunset-Ave-Staten-Island-NY-10314/32308178_zpid/,FOR_SALE,"$639,000","110 Sunset Ave, Staten Island, NY 10314",10314,3,2,1250
+CONDO,30,https://www.zillow.com/homedetails/630-E-14th-St-APT-16-New-York-NY-10009/2061482077_zpid/,FOR_SALE,"$399,000","630 E 14th St APT 16, New York, NY 10009",10009,1,1,0
+CONDO,320,https://www.zillow.com/homedetails/1355-1st-Ave-PH-New-York-NY-10021/442121747_zpid/,FOR_SALE,"$35,000,000","1355 1st Ave #PH, New York, NY 10021",10021,8,12,12000
+TOWNHOUSE,68,https://www.zillow.com/homedetails/11-Cranberry-St-Brooklyn-NY-11201/30567284_zpid/,FOR_SALE,"$21,000,000","11 Cranberry St, Brooklyn, NY 11201",11201,6,6,6374
+SINGLE_FAMILY,115,https://www.zillow.com/homedetails/105-Reade-St-New-York-NY-10013/405529486_zpid/,FOR_SALE,"$24,950,000","105 Reade St, New York, NY 10013",10013,15,15,18740
+CONDO,14,https://www.zillow.com/homedetails/35-20-82nd-St-APT-34-Jackson-Heights-NY-11372/245528328_zpid/,FOR_SALE,"$398,000","35-20 82nd St APT 34, Jackson Heights, NY 11372",11372,2,1,0
+SINGLE_FAMILY,193,https://www.zillow.com/homedetails/444-Underhill-Ave-Bronx-NY-10473/83179197_zpid/,FOR_SALE,"$480,000","444 Underhill Ave, Bronx, NY 10473",10473,4,3,2250
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/231-Bay-22nd-St-Brooklyn-NY-11214/442777186_zpid/,FOR_SALE,"$1,249,000","231 Bay 22nd St, Brooklyn, NY 11214",11214,4,2,
+CONDO,4,https://www.zillow.com/homedetails/220-06-67th-Ave-2-Oakland-Gardens-NY-11364/442771567_zpid/,FOR_SALE,"$250,000","220-06 67th Ave #2, Oakland Gardens, NY 11364",11364,2,1,0
+CONDO,124,https://www.zillow.com/homedetails/1070-Park-Ave-SUITE-1D-New-York-NY-10128/244822552_zpid/,FOR_SALE,"$375,000","1070 Park Ave SUITE 1D, New York, NY 10128",10128,2,1,0
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/4717-215th-St-Flushing-NY-11361/32082441_zpid/,FOR_SALE,"$899,000","47-17 215th Street, Bayside, NY 11361",11361,3,3,1188
+SINGLE_FAMILY,187,https://www.zillow.com/homedetails/40-E-76th-St-New-York-NY-10021/143147746_zpid/,FOR_SALE,"$50,000,000","40 E 76th St, New York, NY 10021",10021,6,13,0
+SINGLE_FAMILY,15,https://www.zillow.com/homedetails/994-E-54th-St-Brooklyn-NY-11234/30758327_zpid/,FOR_SALE,"$530,000","994 E 54th St, Brooklyn, NY 11234",11234,3,2,3000
+CONDO,20,https://www.zillow.com/homedetails/18-50-211th-St-APT-3D-Bayside-NY-11360/219869218_zpid/,FOR_SALE,"$255,000","18-50 211 Street UNIT 3D, Bayside, NY 11360",11360,3,2,
+CONDO,6,https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-2020-New-York-NY-10017/72525145_zpid/,FOR_SALE,"$465,000","25 Tudor City Pl APT 2020, New York, NY 10017",10017,1,1,0
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/71-Groton-St-Staten-Island-NY-10312/32349337_zpid/,FOR_SALE,"$889,000","71 Groton St, Staten Island, NY 10312",10312,3,3,2340
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/47-Raymond-Ave-Staten-Island-NY-10314/32281416_zpid/,FOR_SALE,"$668,888","47 Raymond Ave, Staten Island, NY 10314",10314,3,2,1200
+CONDO,301,https://www.zillow.com/homedetails/17528-89th-Ave-APT-C-Jamaica-NY-11432/89025516_zpid/,FOR_SALE,$175K,"175-28 89th Avenue UNIT C, Jamaica, NY 11432",11432,2,2,646
+SINGLE_FAMILY,135,https://www.zillow.com/homedetails/99-57-164th-Ave-Howard-Beach-NY-11414/2056774367_zpid/,FOR_SALE,"$439,000","99-57 164th Avenue, Howard Beach, NY 11414",11414,3,2,
+CONDO,7,https://www.zillow.com/homedetails/715-9th-Ave-APT-2FN-New-York-NY-10019/244702928_zpid/,FOR_SALE,"$415,000","715 9th Ave APT 2FN, New York, NY 10019",10019,2,1,0
+MULTI_FAMILY,11,https://www.zillow.com/homedetails/485-Jansen-St-Staten-Island-NY-10312/32366991_zpid/,FOR_SALE,"$1,499,999","485 Jansen St, Staten Island, NY 10312",10312,4,5,4256
+SINGLE_FAMILY,140,https://www.zillow.com/homedetails/435-E-51st-St-Brooklyn-NY-11203/30653529_zpid/,FOR_SALE,"$575,000","435 E 51st St, Brooklyn, NY 11203",11203,3,2,1300
+CONDO,39,https://www.zillow.com/homedetails/311-E-25th-St-APT-6F-New-York-NY-10010/244872273_zpid/,FOR_SALE,"$309,000","311 E 25th St APT 6F, New York, NY 10010",10010,1,1,0
+TOWNHOUSE,108,https://www.zillow.com/homedetails/106-W-81st-St-New-York-NY-10024/31524380_zpid/,FOR_SALE,"$3,750,000","106 W 81st St, New York, NY 10024",10024,5,3,3028
+CONDO,39,https://www.zillow.com/homedetails/424-E-115th-St-APT-3D-Manhattan-NY-10029/441543099_zpid/,FOR_SALE,"$164,900","424 E 115th St APT 3D, Manhattan, NY 10029",10029,1,1,0
+CONDO,76,https://www.zillow.com/homedetails/100-Jay-St-UNIT-PENTHOUSE-Brooklyn-NY-11201/440314746_zpid/,FOR_SALE,"$7,600,000","100 Jay St UNIT PENTHOUSE, Brooklyn, NY 11201",11201,3,4,2936
+MULTI_FAMILY,19,https://www.zillow.com/homedetails/4123-156th-St-Flushing-NY-11355/83054481_zpid/,FOR_SALE,"$2,299,000","41-23 156th Street, Flushing, NY 11355",11355,9,8,3960
+SINGLE_FAMILY,29,https://www.zillow.com/homedetails/120-Halyan-Rd-Yorktown-Heights-NY-10598/58429513_zpid/,FOR_SALE,"$450,000","120 Halyan Rd, Yorktown Heights, NY 10598",10598,3,2,0
+CONDO,150,https://www.zillow.com/homedetails/764-Saint-Nicholas-Ave-C1C2-New-York-NY-10031/2062738006_zpid/,FOR_SALE,"$649,000","764 Saint Nicholas Ave #C1C2, New York, NY 10031",10031,3,3,2431
+CONDO,229,https://www.zillow.com/homedetails/14205-Roosevelt-Ave-APT-334-Flushing-NY-11354/245472902_zpid/,FOR_SALE,"$398,000","142-05 Roosevelt Ave UNIT 334, Flushing, NY 11354",11354,2,1,
+MULTI_FAMILY,24,https://www.zillow.com/homedetails/10550-88th-St-Jamaica-NY-11417/32114580_zpid/,FOR_SALE,"$605,000","105-50 88th Street, Ozone Park, NY 11417",11417,5,2,
+TOWNHOUSE,9,https://www.zillow.com/homedetails/4-Rumson-Rd-Staten-Island-NY-10314/32316137_zpid/,FOR_SALE,"$335,000","4 Rumson Rd, Staten Island, NY 10314",10314,2,2,1116
+MULTI_FAMILY,13,https://www.zillow.com/homedetails/14728-20th-Ave-Flushing-NY-11357/32030251_zpid/,FOR_SALE,"$1,449,898","147-28 20th Avenue, Whitestone, NY 11357",11357,6,5,
+CONDO,19,https://www.zillow.com/homedetails/30-Park-Pl-UNIT-PENTHOUSE-81-New-York-NY-10007/442754951_zpid/,FOR_SALE,"$45,000,000","30 Park Pl UNIT PENTHOUSE 81, New York, NY 10007",10007,4,5,5443
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/7106-Ingram-St-Forest-Hills-NY-11375/32004463_zpid/,FOR_SALE,"$3,775,000","71-06 Ingram Street, Forest Hills, NY 11375",11375,5,5,
+SINGLE_FAMILY,8,https://www.zillow.com/homedetails/3925-222nd-St-Bayside-NY-11361/2061244859_zpid/,FOR_SALE,"$1,150,000","39-25 222nd Street, Bayside, NY 11361",11361,3,3,1640
+CONDO,18,https://www.zillow.com/homedetails/35-E-68th-St-APT-2A-New-York-NY-10065/244715891_zpid/,FOR_SALE,"$3,850,000","35 E 68th St APT 2A, New York, NY 10065",10065,3,2,1710
+MULTI_FAMILY,115,https://www.zillow.com/homedetails/24-Ferguson-Ct-Staten-Island-NY-10307/58579440_zpid/,FOR_SALE,"$774,900","24 Ferguson Ct, Staten Island, NY 10307",10307,4,2,2900
+SINGLE_FAMILY,15,https://www.zillow.com/homedetails/155-Sandywood-Cir-Grand-Island-NY-14072/442741513_zpid/,FOR_SALE,"$629,000","155 Sandywood Cir, Grand Island, NY 14072",14072,4,3,2732
+CONDO,14,https://www.zillow.com/homedetails/83-Walker-St-5-New-York-NY-10013/321899095_zpid/,FOR_SALE,"$2,495,000","83 Walker St #5, New York, NY 10013",10013,2,2,1397
+CONDO,695,https://www.zillow.com/homedetails/1200-E-53rd-St-APT-4X-Brooklyn-NY-11234/80277302_zpid/,FOR_SALE,"$350,000","1200 E 53rd Street UNIT 4X, Brooklyn, NY 11234",11234,3,2,1100
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/1231-E-29th-St-Brooklyn-NY-11210/30754229_zpid/,FOR_SALE,"$850,000","1231 E 29th Street, Midwood, NY 11210",11210,3,2,2065
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/190-Vanderbilt-Ave-Staten-Island-NY-10304/32319498_zpid/,FOR_SALE,"$585,000","190 Vanderbilt Ave, Staten Island, NY 10304",10304,3,2,1152
+CONDO,81,https://www.zillow.com/homedetails/601-Pelham-Pkwy-N-APT-305-Bronx-NY-10467/244461061_zpid/,FOR_SALE,"$150,000","601 Pelham Parkway N UNIT 305, Bronx, NY 10467",10467,1,1,900
+CONDO,19,https://www.zillow.com/homedetails/305-5th-Ave-APT-3A-Brooklyn-NY-11215/245037202_zpid/,FOR_SALE,"$845,000","305 5th Ave APT 3A, Brooklyn, NY 11215",11215,2,2,0
+MULTI_FAMILY,7,https://www.zillow.com/homedetails/14-42-33rd-Ave-T-Astoria-NY-11106/442701896_zpid/,FOR_SALE,"$1,449,000","14-42 33rd Ave #T, Astoria, NY 11106",11106,5,3,0
+SINGLE_FAMILY,62,https://www.zillow.com/homedetails/6429-58th-Rd-Flushing-NY-11378/31988104_zpid/,FOR_SALE,"$699,999","64-29 58th Road, Maspeth, NY 11378",11378,3,2,
+CONDO,12,https://www.zillow.com/homedetails/162-E-2nd-St-3BB-New-York-NY-10009/442579456_zpid/,FOR_SALE,"$439,000","162 E 2nd St #3BB, New York, NY 10009",10009,1,1,0
+CONDO,11,https://www.zillow.com/homedetails/219-W-80th-St-APT-4D-New-York-NY-10024/31525265_zpid/,FOR_SALE,"$995,000","219 W 80th St APT 4D, New York, NY 10024",10024,2,2,800
+CONDO,0,https://www.zillow.com/homedetails/1740-W-4th-St-APT-6H-Brooklyn-NY-11223/112500909_zpid/,FOR_SALE,"$1,100,000","1740 W 4th St APT 6H, Brooklyn, NY 11223",11223,3,3,1735
+TOWNHOUSE,17,https://www.zillow.com/homedetails/1060-Olympia-Blvd-Staten-Island-NY-10306/32333364_zpid/,FOR_SALE,"$469,000","1060 Olympia Blvd, Staten Island, NY 10306",10306,3,2,1710
+CONDO,154,https://www.zillow.com/homedetails/50-Central-Park-S-30-31-New-York-NY-10019/55502051_zpid/,FOR_SALE,"$70,000,000","50 Central Park S #30/31, New York, NY 10019",10019,3,6,10875
+CONDO,70,https://www.zillow.com/homedetails/9430-Ridge-Blvd-APT-6D-Brooklyn-NY-11209/245056210_zpid/,FOR_SALE,"$179,000","9430 Ridge Blvd APT 6D, Brooklyn, NY 11209",11209,0,1,325
+TOWNHOUSE,320,https://www.zillow.com/homedetails/34-E-63rd-St-New-York-NY-10065/2057913006_zpid/,FOR_SALE,"$55,000,000","34 E 63rd St, New York, NY 10065",10065,10,11,15875
+CONDO,66,https://www.zillow.com/homedetails/2610-Ocean-Pkwy-APT-2B-Brooklyn-NY-11235/245013140_zpid/,FOR_SALE,"$320,000","2610 Ocean Pkwy APT 2B, Brooklyn, NY 11235",11235,2,1,950
+SINGLE_FAMILY,83,https://www.zillow.com/homedetails/363-Warren-St-Brooklyn-NY-11201/30571332_zpid/,FOR_SALE,"$3,995,000","363 Warren St, Brooklyn, NY 11201",11201,5,5,3290
+CONDO,21,https://www.zillow.com/homedetails/167-Sands-St-APT-205-Brooklyn-NY-11201/89459682_zpid/,FOR_SALE,"$340,000","167 Sands St APT 205, Brooklyn, NY 11201",11201,2,1,500
+SINGLE_FAMILY,14,https://www.zillow.com/homedetails/4228-196th-St-Flushing-NY-11358/32045875_zpid/,FOR_SALE,"$939,000","4228 196th Street, Flushing, NY 11358",11358,3,2,1260
+SINGLE_FAMILY,107,https://www.zillow.com/homedetails/73-Caroll-St-Bronx-NY-10464/29850489_zpid/,FOR_SALE,"$797,000","73 Caroll St, Bronx, NY 10464",10464,4,2,1620
+CONDO,70,https://www.zillow.com/homedetails/87-15-165th-St-2A-Jamaica-NY-11432/2078378522_zpid/,FOR_SALE,"$120,000","87-15 165th St #2A, Jamaica, NY 11432",11432,0,1,0
+CONDO,9,https://www.zillow.com/homedetails/13915-83rd-Ave-APT-337-Jamaica-NY-11435/245373042_zpid/,FOR_SALE,"$179,000","139-15 83rd Avenue UNIT 337, Briarwood, NY 11435",11435,1,1,
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/5756-80th-St-Flushing-NY-11379/31989916_zpid/,FOR_SALE,"$898,000","57-56 80th Street, Middle Village, NY 11379",11379,4,3,2130
+CONDO,96,https://www.zillow.com/homedetails/100-W-57th-St-APT-7I-New-York-NY-10019/439273234_zpid/,FOR_SALE,"$139,000","100 W 57th St APT 7I, New York, NY 10019",10019,0,1,650
+CONDO,3,https://www.zillow.com/homedetails/5-Tudor-City-Pl-UNIT-PENTHOUSE-4-New-York-NY-10017/442165707_zpid/,FOR_SALE,"$3,750,000","5 Tudor City Pl UNIT PENTHOUSE 4, New York, NY 10017",10017,2,2,0
+CONDO,76,https://www.zillow.com/homedetails/205-E-63rd-St-APT-5H-New-York-NY-10065/72528517_zpid/,FOR_SALE,"$250,000","205 E 63rd St APT 5H, New York, NY 10065",10065,0,1,0
+TOWNHOUSE,320,https://www.zillow.com/homedetails/9-W-54th-St-New-York-NY-10019/2057926072_zpid/,FOR_SALE,"$49,500,000","9 W 54th St, New York, NY 10019",10019,11,10,24000
+SINGLE_FAMILY,70,https://www.zillow.com/homedetails/184-Ascan-Ave-Flushing-NY-11375/32005253_zpid/,FOR_SALE,"$2,188,000","184 Ascan Ave, Flushing, NY 11375",11375,5,4,2640
+SINGLE_FAMILY,108,https://www.zillow.com/homedetails/120-Bay-St-Staten-Island-NY-10301/442258143_zpid/,FOR_SALE,"$5,100","120 Bay St, Staten Island, NY 10301",10301,,0,1933
+CONDO,320,https://www.zillow.com/homedetails/955-Lexington-Ave-5C-New-York-NY-10021/244727818_zpid/,FOR_SALE,"$1,000,000","955 Lexington Ave #5C, New York, NY 10021",10021,2,2,0
+CONDO,176,https://www.zillow.com/homedetails/21-Arden-St-APT-5A-New-York-NY-10040/2054303228_zpid/,FOR_SALE,"$149,900","21 Arden St APT 5A, New York, NY 10040",10040,2,1,604
+CONDO,203,https://www.zillow.com/homedetails/424-E-115th-St-APT-4C-New-York-NY-10029/349447002_zpid/,FOR_SALE,"$99,000","424 E 115th St APT 4C, New York, NY 10029",10029,0,1,0
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/363-Collfield-Ave-Staten-Island-NY-10314/32284026_zpid/,FOR_SALE,"$659,900","363 Collfield Ave, Staten Island, NY 10314",10314,3,2,1485
+CONDO,70,https://www.zillow.com/homedetails/6712-Yellowstone-Blvd-APT-D8-Flushing-NY-11375/94883576_zpid/,FOR_SALE,"$410,000","6712 Yellowstone Blvd APT D8, Flushing, NY 11375",11375,2,1,0
+SINGLE_FAMILY,74,https://www.zillow.com/homedetails/92-07-69th-Ave-Forest-Hills-NY-11375/2064409865_zpid/,FOR_SALE,"$1,180,000","92-07 69th Ave, Forest Hills, NY 11375",11375,3,2,1680
+CONDO,18,https://www.zillow.com/homedetails/201-W-70th-St-APT-5D-New-York-NY-10023/72521264_zpid/,FOR_SALE,"$375,000","201 W 70th St APT 5D, New York, NY 10023",10023,1,1,750
+SINGLE_FAMILY,40,https://www.zillow.com/homedetails/86-Crooke-Ave-Brooklyn-NY-11226/30665718_zpid/,FOR_SALE,"$2,295,000","86 Crooke Ave, Brooklyn, NY 11226",11226,5,4,3800
+CONDO,96,https://www.zillow.com/homedetails/58-03-Van-Cleef-St-3C-Corona-NY-11368/2080565398_zpid/,FOR_SALE,"$289,900","58-03 Van Cleef Street UNIT 3C, Flushing, NY 11368",11368,2,2,
+SINGLE_FAMILY,38,https://www.zillow.com/homedetails/1668-83rd-St-Brooklyn-NY-11214/145591590_zpid/,FOR_SALE,"$850,000","1668 83rd St, Brooklyn, NY 11214",11214,3,2,1040
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/26-Aster-Ct-Brooklyn-NY-11229/143067262_zpid/,FOR_SALE,"$499,000","26 Aster Ct, Brooklyn, NY 11229",11229,4,2,1332
+CONDO,41,https://www.zillow.com/homedetails/78-Bedford-St-APT-5C-New-York-NY-10014/2110313326_zpid/,FOR_SALE,"$1,695,000","78 Bedford St APT 5C, New York, NY 10014",10014,2,1,0
+TOWNHOUSE,320,https://www.zillow.com/homedetails/11-E-74th-St-New-York-NY-10021/143147683_zpid/,FOR_SALE,"$43,000,000","11 E 74th St, New York, NY 10021",10021,6,11,0
+CONDO,7,https://www.zillow.com/homedetails/965-5th-Ave-OFC-1B-New-York-NY-10075/2096225549_zpid/,FOR_SALE,"$1,495,000","965 5th Ave OFC 1B, New York, NY 10075",10075,3,3,0
+CONDO,76,https://www.zillow.com/homedetails/2025-Valentine-Ave-6B-Bronx-NY-10457/215949256_zpid/,FOR_SALE,"$85,000","2025 Valentine Ave #6B, Bronx, NY 10457",10457,0,1,550
+SINGLE_FAMILY,76,https://www.zillow.com/homedetails/16016-73rd-Ave-Flushing-NY-11366/32072808_zpid/,FOR_SALE,"$899,000","16016 73rd Ave, Flushing, NY 11366",11366,3,3,
+CONDO,110,https://www.zillow.com/homedetails/1012-Faile-St-1012A-Bronx-NY-10459/29780874_zpid/,FOR_SALE,"$255,000","1012 Faile St #1012A, Bronx, NY 10459",10459,2,1,766
+CONDO,35,https://www.zillow.com/homedetails/251-Pacific-St-APT-21-Brooklyn-NY-11201/245011027_zpid/,FOR_SALE,"$995,000","251 Pacific St APT 21, Brooklyn, NY 11201",11201,3,1,0
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/2253-Edsall-Ave-Bronx-NY-10463/29851539_zpid/,FOR_SALE,"$970,000","2253 Edsall Ave, Bronx, NY 10463",10463,3,2,1246
+TOWNHOUSE,369,https://www.zillow.com/homedetails/260-Hicks-St-Brooklyn-NY-11201/2054252491_zpid/,FOR_SALE,"$2,499,999","260 Hicks Street, Brooklyn Heights, NY 11201",11201,9,9,
+CONDO,69,https://www.zillow.com/homedetails/5425-Valles-Ave-APT-1L-Bronx-NY-10471/120560939_zpid/,FOR_SALE,"$245,000","5425 Valles Ave APT 1L, Bronx, NY 10471",10471,2,1,1100
+CONDO,92,https://www.zillow.com/homedetails/2000-Daly-Ave-APT-5B-Bronx-NY-10460/439578156_zpid/,FOR_SALE,"$230,000","2000 Daly Ave APT 5B, Bronx, NY 10460",10460,3,1,1157
+CONDO,22,https://www.zillow.com/homedetails/77-Greenwich-St-APT-23A-New-York-NY-10006/338880084_zpid/,FOR_SALE,"$2,995,000","77 Greenwich St APT 23A, New York, NY 10006",10006,3,3,1721
+CONDO,11,https://www.zillow.com/homedetails/303-Warren-St-UNIT-GARDEN-Brooklyn-NY-11201/442630308_zpid/,FOR_SALE,"$2,995,000","303 Warren St UNIT GARDEN, Brooklyn, NY 11201",11201,3,3,2156
+SINGLE_FAMILY,17,https://www.zillow.com/homedetails/34-Allison-Ave-Staten-Island-NY-10306/32337018_zpid/,FOR_SALE,"$1,280,000","34 Allison Ave, Staten Island, NY 10306",10306,4,4,2702
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/3801-Paulding-Ave-A-Bronx-NY-10469/442762290_zpid/,FOR_SALE,"$758,990","3801 Paulding Ave #A, Bronx, NY 10469",10469,4,3,1958
+CONDO,281,https://www.zillow.com/homedetails/506-W-145th-St-4D-New-York-NY-10031/2059103741_zpid/,FOR_SALE,"$125,000","506 W 145th St #4D, New York, NY 10031",10031,1,1,0
+CONDO,145,https://www.zillow.com/homedetails/675-Walton-Ave-APT-2K-Bronx-NY-10451/336965182_zpid/,FOR_SALE,"$99,000","675 Walton Ave APT 2K, Bronx, NY 10451",10451,0,1,
+CONDO,49,https://www.zillow.com/homedetails/111-Hudson-St-APT-3B-New-York-NY-10013/89334443_zpid/,FOR_SALE,"$1,750,000","111 Hudson St APT 3B, New York, NY 10013",10013,4,4,3000
+CONDO,18,https://www.zillow.com/homedetails/611-W-56th-St-APT-21B-New-York-NY-10019/338880984_zpid/,FOR_SALE,"$2,375,000","611 W 56th St APT 21B, New York, NY 10019",10019,3,3,1547
+SINGLE_FAMILY,237,https://www.zillow.com/homedetails/13-29-Malba-Dr-Whitestone-NY-11357/2072176105_zpid/,FOR_SALE,"$1,598,000","13-29 Malba Drive, Whitestone, NY 11357",11357,4,4,2500
+CONDO,8,https://www.zillow.com/homedetails/61-Morningside-Ave-APT-2-Manhattan-NY-10027/333728979_zpid/,FOR_SALE,"$450,000","61 Morningside Ave APT 2, Manhattan, NY 10027",10027,3,2,0
+CONDO,29,https://www.zillow.com/homedetails/114-20-Queens-Blvd-51-Forest-Hills-NY-11375/442112898_zpid/,FOR_SALE,"$349,000","114-20 Queens Blvd #51, Forest Hills, NY 11375",11375,2,1,0
+CONDO,101,https://www.zillow.com/homedetails/299-Riverside-Dr-APT-3E-New-York-NY-10025/305329357_zpid/,FOR_SALE,"$999,000","299 Riverside Dr APT 3E, New York, NY 10025",10025,2,2,1100
+SINGLE_FAMILY,67,https://www.zillow.com/homedetails/123-E-69th-St-New-York-NY-10021/31534950_zpid/,FOR_SALE,"$11,995,000","123 E 69th St, New York, NY 10021",10021,7,7,8000
+MULTI_FAMILY,63,https://www.zillow.com/homedetails/57-70-80th-St-Middle-Village-NY-11379/31989922_zpid/,FOR_SALE,"$958,000","57-70 80th St, Middle Village, NY 11379",11379,5,3,2043
+CONDO,126,https://www.zillow.com/homedetails/7720-Austin-St-APT-5F-Forest-Hills-NY-11375/246035903_zpid/,FOR_SALE,"$225,000","7720 Austin St APT 5F, Forest Hills, NY 11375",11375,1,1,675
+SINGLE_FAMILY,272,https://www.zillow.com/homedetails/124-W-118th-St-New-York-NY-10026/342168251_zpid/,FOR_SALE,"$2,600,000","124 W 118th St, New York, NY 10026",10026,6,4,4500
+CONDO,111,https://www.zillow.com/homedetails/33-04-93rd-St-1W-Jackson-Heights-NY-11372/384456616_zpid/,FOR_SALE,"$380,000","33-04 93rd Street UNIT 1W, Jackson Heights, NY 11372",11372,2,2,
+CONDO,86,https://www.zillow.com/homedetails/243-W-End-Ave-APT-103-New-York-NY-10023/244781943_zpid/,FOR_SALE,"$315,000","243 W End Ave APT 103, New York, NY 10023",10023,0,1,0
+CONDO,6,https://www.zillow.com/homedetails/278-Nagle-Ave-APT-2E-New-York-NY-10034/2138665328_zpid/,FOR_SALE,"$250,000","278 Nagle Avenue UNIT 2E, New York, NY 10034",10034,2,1,0
+CONDO,76,https://www.zillow.com/homedetails/56-Leonard-St-PH52A-New-York-NY-10013/439965021_zpid/,FOR_SALE,"$19,995,000","56 Leonard St #PH52A, New York, NY 10013",10013,4,5,3658
+CONDO,320,https://www.zillow.com/homedetails/51-34-30th-Ave-Woodside-NY-11377/346670952_zpid/,FOR_SALE,"$350,000","51-34 30th Ave, Woodside, NY 11377",11377,2,1,0
+CONDO,4,https://www.zillow.com/homedetails/2504-Olinville-Ave-APT-2C-Bronx-NY-10467/442771621_zpid/,FOR_SALE,"$435,000","2504 Olinville Ave APT 2C, Bronx, NY 10467",10467,3,2,1100
+CONDO,118,https://www.zillow.com/homedetails/2711-Avenue-X-APT-2F-Brooklyn-NY-11235/122973065_zpid/,FOR_SALE,"$368,000","2711 Avenue X APT 2F, Brooklyn, NY 11235",11235,2,1,1000
+APARTMENT,432,https://www.zillow.com/homedetails/162-Arlo-Rd-A-Staten-Island-NY-10301/217911698_zpid/,FOR_SALE,"$229,998","162 Arlo Rd #A, Staten Island, NY 10301",10301,2,1,860
+CONDO,199,https://www.zillow.com/homedetails/246-E-90th-St-APT-5B-Manhattan-NY-10128/94639449_zpid/,FOR_SALE,"$320,000","246 E 90th St APT 5B, Manhattan, NY 10128",10128,1,1,0
+CONDO,64,https://www.zillow.com/homedetails/2569-W-2nd-St-APT-4C-Brooklyn-NY-11223/245068374_zpid/,FOR_SALE,"$198,000","2569 W 2nd St APT 4C, Brooklyn, NY 11223",11223,1,1,750
+CONDO,14,https://www.zillow.com/homedetails/300-8th-Ave-APT-2N-Brooklyn-NY-11215/245070543_zpid/,FOR_SALE,"$259,000","300 8th Ave APT 2N, Brooklyn, NY 11215",11215,0,1,500
+MULTI_FAMILY,76,https://www.zillow.com/homedetails/33-52-59th-St-1-2-Woodside-NY-11377/440198867_zpid/,FOR_SALE,"$799,999","33-52 59th St #1-2, Woodside, NY 11377",11377,4,3,1800
+CONDO,59,https://www.zillow.com/homedetails/1777-Madison-Ave-APT-24-New-York-NY-10035/244766511_zpid/,FOR_SALE,"$185,000","1777 Madison Ave APT 24, New York, NY 10035",10035,0,1,400
+CONDO,285,https://www.zillow.com/homedetails/775-Lafayette-Ave-APT-4A-Brooklyn-NY-11221/2057809051_zpid/,FOR_SALE,"$340,000","775 Lafayette Ave APT 4A, Brooklyn, NY 11221",11221,1,1,667
+SINGLE_FAMILY,73,https://www.zillow.com/homedetails/121-86th-St-Brooklyn-NY-11209/30699457_zpid/,FOR_SALE,"$1,048,000","121 86th St, Brooklyn, NY 11209",11209,3,3,1957
+CONDO,17,https://www.zillow.com/homedetails/1116-Hoe-Ave-APT-1B-Bronx-NY-10459/442455957_zpid/,FOR_SALE,"$189,000","1116 Hoe Avenue UNIT 1B, Bronx, NY 10459",10459,4,1,1075
+CONDO,4,https://www.zillow.com/homedetails/417-E-87th-St-APT-4A-New-York-NY-10128/219700632_zpid/,FOR_SALE,"$289,000","417 E 87th St APT 4A, New York, NY 10128",10128,0,1,0
+CONDO,38,https://www.zillow.com/homedetails/251-W-19th-St-A1-New-York-NY-10011/2060329115_zpid/,FOR_SALE,"$1,900,000","251 W 19th St #A1, New York, NY 10011",10011,3,3,2256
+MULTI_FAMILY,360,https://www.zillow.com/homedetails/344-W-121st-St-New-York-NY-10027/31552229_zpid/,FOR_SALE,"$1,249,000","344 W 121st Street, New York, NY 10027",10027,6,2,3600
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/58-Gina-Ct-Staten-Island-NY-10314/442555014_zpid/,FOR_SALE,"$599,000","58 Gina Ct, Staten Island, NY 10314",10314,2,2,1158
+SINGLE_FAMILY,3,https://www.zillow.com/homedetails/170-Newman-Ave-Bronx-NY-10473/29790433_zpid/,FOR_SALE,"$449,000","170 Newman Avenue, Bronx, NY 10473",10473,2,2,1400
+CONDO,192,https://www.zillow.com/homedetails/57-Montague-St-APT-2A-Brooklyn-NY-11201/244996436_zpid/,FOR_SALE,"$1,375,000","57 Montague St APT 2A, Brooklyn, NY 11201",11201,2,2,1090
+CONDO,45,https://www.zillow.com/homedetails/620-Park-Ave-FLOOR-14-New-York-NY-10065/299332123_zpid/,FOR_SALE,"$19,750,000","620 Park Ave FLOOR 14, New York, NY 10065",10065,4,5,0
+CONDO,7,https://www.zillow.com/homedetails/170-Hicks-St-APT-2-Brooklyn-NY-11201/30567487_zpid/,FOR_SALE,"$3,300,000","170 Hicks St APT 2, Brooklyn, NY 11201",11201,3,2,1940
+CONDO,230,https://www.zillow.com/homedetails/305-E-108th-St-APT-2E-New-York-NY-10029/31546777_zpid/,FOR_SALE,"$1,000,000","305 E 108th St APT 2E, New York, NY 10029",10029,4,2,1700
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/1806-Undercliff-Ave-Bronx-NY-10453/29782438_zpid/,FOR_SALE,"$550,000","1806 Undercliff Avenue, Bronx, NY 10453",10453,4,1,1450
+SINGLE_FAMILY,10,https://www.zillow.com/homedetails/131-Ridgeway-Ave-Staten-Island-NY-10314/64752147_zpid/,FOR_SALE,"$558,000","131 Ridgeway Ave, Staten Island, NY 10314",10314,3,3,1806
+SINGLE_FAMILY,14,https://www.zillow.com/homedetails/53-15-205th-St-Oakland-Gardens-NY-11364/442532858_zpid/,FOR_SALE,"$795,000","53-15 205th St, Oakland Gardens, NY 11364",11364,2,2,1300
+MULTI_FAMILY,0,https://www.zillow.com/homedetails/490-Hancock-St-1-Brooklyn-NY-11233/442916493_zpid/,FOR_SALE,"$1,900,000","490 Hancock St #1, Brooklyn, NY 11233",11233,5,3,2756
+CONDO,320,https://www.zillow.com/homedetails/11-E-68th-St-New-York-NY-10065/121192535_zpid/,FOR_SALE,"$33,500,000","11 E 68th St, New York, NY 10065",10065,5,6,6189
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/21420-45th-Rd-Bayside-NY-11361/32082014_zpid/,FOR_SALE,"$1,550,000","214-20 45th Road, Bayside, NY 11361",11361,5,5,
+TOWNHOUSE,56,https://www.zillow.com/homedetails/18-19-215th-St-25-Bayside-NY-11360/342487795_zpid/,FOR_SALE,"$658,888","1819 215th Street UNIT 25, Bayside, NY 11360",11360,3,3,1270
+CONDO,76,https://www.zillow.com/homedetails/325-Marine-Ave-APT-C3-Brooklyn-NY-11209/245024494_zpid/,FOR_SALE,"$359,000","325 Marine Ave APT C3, Brooklyn, NY 11209",11209,2,1,820
+CONDO,14,https://www.zillow.com/homedetails/170-5th-Ave-UNIT-PENTHOUSE-New-York-NY-10010/442532860_zpid/,FOR_SALE,"$25,000,000","170 5th Ave UNIT PENTHOUSE, New York, NY 10010",10010,5,5,5777
+SINGLE_FAMILY,45,https://www.zillow.com/homedetails/12-Middlemay-Cir-Forest-Hills-NY-11375/32004658_zpid/,FOR_SALE,"$2,198,000","12 Middlemay Cir, Forest Hills, NY 11375",11375,4,4,2714
+SINGLE_FAMILY,25,https://www.zillow.com/homedetails/20801-33rd-Ave-Flushing-NY-11361/32059157_zpid/,FOR_SALE,"$950,000","20801 33rd Ave, Flushing, NY 11361",11361,3,2,2958
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/10215-215th-St-Jamaica-NY-11429/32160721_zpid/,FOR_SALE,"$285,000","10215 215th St, Jamaica, NY 11429",11429,2,1,1380
+SINGLE_FAMILY,178,https://www.zillow.com/homedetails/305-Arkansas-Dr-Brooklyn-NY-11234/30787905_zpid/,FOR_SALE,$1.25M,"305 Arkansas Dr, Brooklyn, NY 11234",11234,4,5,3100
+SINGLE_FAMILY,210,https://www.zillow.com/homedetails/161-27-118th-Ave-Jamaica-NY-11434/2056689029_zpid/,FOR_SALE,"$650,000","161-27 118th Avenue, Jamaica, NY 11434",11434,4,2,2100
+SINGLE_FAMILY,241,https://www.zillow.com/homedetails/835-Dean-Ave-Bronx-NY-10465/29846246_zpid/,FOR_SALE,"$895,000","835 Dean Avenue, Bronx, NY 10465",10465,4,3,1870
+CONDO,160,https://www.zillow.com/homedetails/142-W-10th-St-APT-2B-New-York-NY-10014/69524143_zpid/,FOR_SALE,"$2,250,000","142 W 10th St APT 2B, New York, NY 10014",10014,2,1,0
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/42-Michael-Loop-Staten-Island-NY-10304/59820411_zpid/,FOR_SALE,"$1,499,999","42 Michael Loop, Staten Island, NY 10304",10304,5,5,3024
+MULTI_FAMILY,24,https://www.zillow.com/homedetails/169-Underhill-Ave-UNIT-TOWNHOUSE-Brooklyn-NY-11238/442295856_zpid/,FOR_SALE,"$2,995,000","169 Underhill Ave UNIT TOWNHOUSE, Brooklyn, NY 11238",11238,6,4,3536
+SINGLE_FAMILY,97,https://www.zillow.com/homedetails/314-Beach-84th-St-Rockaway-Beach-NY-11693/32225309_zpid/,FOR_SALE,"$375,000","314 Beach 84th Street, Rockaway Beach, NY 11693",11693,3,1,1268
+CONDO,59,https://www.zillow.com/homedetails/253-W-73rd-St-APT-2G-New-York-NY-10023/2132305356_zpid/,FOR_SALE,"$1,599,000","253 W 73rd St APT 2G, New York, NY 10023",10023,2,2,1263
+CONDO,7,https://www.zillow.com/homedetails/3636-Greystone-Ave-APT-6M-Bronx-NY-10463/244464326_zpid/,FOR_SALE,"$299,000","3636 Greystone Avenue UNIT 6M, Bronx, NY 10463",10463,2,2,1068
+SINGLE_FAMILY,73,https://www.zillow.com/homedetails/1062-E-93rd-St-1-Brooklyn-NY-11236/440331176_zpid/,FOR_SALE,"$550,000","1062 E 93rd St #1, Brooklyn, NY 11236",11236,3,2,954
+CONDO,64,https://www.zillow.com/homedetails/401-Hicks-St-A3A-Brooklyn-NY-11201/442154286_zpid/,FOR_SALE,"$2,875,000","401 Hicks St #A3A, Brooklyn, NY 11201",11201,3,3,3044
+TOWNHOUSE,59,https://www.zillow.com/homedetails/842-Carroll-St-Brooklyn-NY-11215/30587047_zpid/,FOR_SALE,"$15,000,000","842 Carroll St, Brooklyn, NY 11215",11215,12,9,7098
+CONDO,84,https://www.zillow.com/homedetails/740-E-232nd-St-APT-1F-Bronx-NY-10466/439920400_zpid/,FOR_SALE,"$180,000","740 232nd Street UNIT 1F, Bronx, NY 10466",10466,2,1,950
+MULTI_FAMILY,11,https://www.zillow.com/homedetails/2812-Dudley-Ave-Bronx-NY-10461/29842236_zpid/,FOR_SALE,"$1,195,000","2812 Dudley Avenue, Bronx, NY 10461",10461,11,5,
+APARTMENT,7,https://www.zillow.com/homedetails/28-Fenway-Cir-APT-1-3-Staten-Island-NY-10308/32354357_zpid/,FOR_SALE,"$299,999","28 Fenway Cir APT 1-3, Staten Island, NY 10308",10308,2,1,905
+CONDO,22,https://www.zillow.com/homedetails/260-60-73rd-Ave-UNIT-84-B-Glen-Oaks-NY-11004/442337566_zpid/,FOR_SALE,"$299,999","260-60 73 Avenue UNIT 84 B, Glen Oaks, NY 11004",11004,2,1,607
+TOWNHOUSE,126,https://www.zillow.com/homedetails/17-E-9th-St-New-York-NY-10003/401990447_zpid/,FOR_SALE,"$36,500,000","17 E 9th St, New York, NY 10003",10003,6,10,9103
+CONDO,76,https://www.zillow.com/homedetails/21-37-33rd-St-APT-5B-Astoria-NY-11105/341650003_zpid/,FOR_SALE,"$260,000","21-37 33rd St APT 5B, Astoria, NY 11105",11105,2,1,0
+CONDO,67,https://www.zillow.com/homedetails/123-E-88th-St-APT-1A-New-York-NY-10128/123271033_zpid/,FOR_SALE,"$435,000","123 E 88th St APT 1A, New York, NY 10128",10128,2,1,0
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/373-Richard-Ave-Staten-Island-NY-10309/32374608_zpid/,FOR_SALE,"$599,999","373 Richard Ave, Staten Island, NY 10309",10309,3,1,1008
+CONDO,133,https://www.zillow.com/homedetails/1991-Broadway-4BCD-New-York-NY-10023/2079029912_zpid/,FOR_SALE,"$2,000,000","1991 Broadway #4BCD, New York, NY 10023",10023,4,3,1900
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/331-Washington-Ave-Brooklyn-NY-11205/30612549_zpid/,FOR_SALE,"$6,250,000","331 Washington Ave, Brooklyn, NY 11205",11205,4,5,4538
+MULTI_FAMILY,25,https://www.zillow.com/homedetails/4018-209th-St-Flushing-NY-11361/32061849_zpid/,FOR_SALE,"$1,299,000","40-18 209th Street, Bayside, NY 11361",11361,4,3,1800
+CONDO,257,https://www.zillow.com/homedetails/144-55-Melbourne-Ave-3J-Flushing-NY-11367/245367083_zpid/,FOR_SALE,"$150,000","144-55 Melbourne Ave #3J, Flushing, NY 11367",11367,1,1,0
+CONDO,59,https://www.zillow.com/homedetails/360-W-36th-St-APT-12-New-York-NY-10018/122659516_zpid/,FOR_SALE,"$5,995,000","360 W 36th St APT 12, New York, NY 10018",10018,4,4,4000
+CONDO,84,https://www.zillow.com/homedetails/251-E-32nd-St-21F-New-York-NY-10016/119916778_zpid/,FOR_SALE,"$295,000","251 E 32nd St #21F, New York, NY 10016",10016,0,1,0
+SINGLE_FAMILY,320,https://www.zillow.com/homedetails/145-Reade-St-New-York-NY-10013/31493608_zpid/,FOR_SALE,"$34,000,000","145 Reade St, New York, NY 10013",10013,4,11,10582
+CONDO,7,https://www.zillow.com/homedetails/6538-Booth-St-APT-3H-Flushing-NY-11374/72542753_zpid/,FOR_SALE,"$204,888","6538 Booth St APT 3H, Flushing, NY 11374",11374,1,1,775
+SINGLE_FAMILY,18,https://www.zillow.com/homedetails/11563-203rd-St-Jamaica-NY-11412/32159665_zpid/,FOR_SALE,"$629,000","115-63 203rd Street, Saint Albans, NY 11412",11412,3,2,1280
+CONDO,167,https://www.zillow.com/homedetails/2106-35th-St-3C-Astoria-NY-11105/2097062460_zpid/,FOR_SALE,"$359,800","2106 35th St #3C, Astoria, NY 11105",11105,2,1,0
+SINGLE_FAMILY,147,https://www.zillow.com/homedetails/15806-85th-St-Jamaica-NY-11414/32214828_zpid/,FOR_SALE,"$2,900,000","15806 85th St, Jamaica, NY 11414",11414,4,6,4725
+SINGLE_FAMILY,214,https://www.zillow.com/homedetails/145-70-220th-St-Springfield-Gardens-NY-11413/348544093_zpid/,FOR_SALE,"$350,000","145-70 220 Street, Springfield Gdns, NY 11413",11413,3,2,934
+CONDO,69,https://www.zillow.com/homedetails/36-Broadway-APT-1A-Brooklyn-NY-11249/64582080_zpid/,FOR_SALE,"$1,099,000","36 Broadway UNIT 1A, Williamsburg, NY 11249",11249,3,3,1330
+SINGLE_FAMILY,55,https://www.zillow.com/homedetails/119-18-Park-Ln-S-Kew-Gardens-NY-11415/440975227_zpid/,FOR_SALE,"$1,795,500","119-18 Park Ln S, Kew Gardens, NY 11415",11415,5,4,2815
+CONDO,11,https://www.zillow.com/homedetails/132-Heron-Ln-355-Bronx-NY-10473/94718470_zpid/,FOR_SALE,"$425,000","132 Heron Lane UNIT 355, Bronx, NY 10473",10473,3,2,1206
+CONDO,46,https://www.zillow.com/homedetails/15517-Sanford-Ave-APT-2F-Flushing-NY-11355/245396382_zpid/,FOR_SALE,"$258,000","15517 Sanford Ave APT 2F, Flushing, NY 11355",11355,2,1,0
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/235-Oder-Ave-Staten-Island-NY-10304/442725777_zpid/,FOR_SALE,"$888,000","235 Oder Ave, Staten Island, NY 10304",10304,3,4,2008
+CONDO,34,https://www.zillow.com/homedetails/512-W-156th-St-APT-33-New-York-NY-10032/342536663_zpid/,FOR_SALE,"$220,000","512 W 156th St APT 33, New York, NY 10032",10032,3,1,0
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/8-Tier-St-Bronx-NY-10464/29850580_zpid/,FOR_SALE,"$1,550,000","8 Tier St, Bronx, NY 10464",10464,4,2,2400
+SINGLE_FAMILY,46,https://www.zillow.com/homedetails/4-Chesebrough-St-Staten-Island-NY-10312/32355534_zpid/,FOR_SALE,"$598,000","4 Chesebrough St, Staten Island, NY 10312",10312,2,2,2176
+CONDO,6,https://www.zillow.com/homedetails/333-E-91st-St-APT-9B-New-York-NY-10128/110284679_zpid/,FOR_SALE,"$1,200,000","333 E 91st St APT 9B, New York, NY 10128",10128,2,2,1198
+SINGLE_FAMILY,2,https://www.zillow.com/homedetails/40-29-216th-St-Bayside-NY-11361/2078516700_zpid/,FOR_SALE,"$1,100,000","40-29 216th St, Bayside, NY 11361",11361,4,4,2095
+MULTI_FAMILY,157,https://www.zillow.com/homedetails/155-Evergreen-Ave-Brooklyn-NY-11221/2100117745_zpid/,FOR_SALE,"$895,000","155 Evergreen Ave, Brooklyn, NY 11221",11221,12,6,3900
+CONDO,8,https://www.zillow.com/homedetails/18-Seth-Ct-A-Staten-Island-NY-10301/244596141_zpid/,FOR_SALE,"$229,000","18 Seth Ct #A, Staten Island, NY 10301",10301,1,1,660
+CONDO,121,https://www.zillow.com/homedetails/11-01-162nd-St-APT-8B-Whitestone-NY-11357/79733224_zpid/,FOR_SALE,"$425,000","11-01 162nd St APT 8B, Whitestone, NY 11357",11357,2,1,0
+TOWNHOUSE,67,https://www.zillow.com/homedetails/59-E-66th-St-New-York-NY-10065/31533530_zpid/,FOR_SALE,"$32,000,000","59 E 66th St, New York, NY 10065",10065,6,8,7250
+CONDO,6,https://www.zillow.com/homedetails/175-45-88th-Ave-UNIT-4M-Jamaica-NY-11432/2060953416_zpid/,FOR_SALE,"$170,000","175-45 88th Ave UNIT 4M, Jamaica, NY 11432",11432,1,1,0
+CONDO,73,https://www.zillow.com/homedetails/708-Greenwich-St-2-3G-New-York-NY-10014/440330428_zpid/,FOR_SALE,"$3,995,000","708 Greenwich St #2/3G, New York, NY 10014",10014,4,3,3000
+SINGLE_FAMILY,67,https://www.zillow.com/homedetails/85-Noel-St-Staten-Island-NY-10312/32350796_zpid/,FOR_SALE,"$1,248,000","85 Noel St, Staten Island, NY 10312",10312,4,4,2700
+CONDO,21,https://www.zillow.com/homedetails/84-70-129th-St-APT-2R-Kew-Gardens-NY-11415/72651420_zpid/,FOR_SALE,"$199,999","84-70 129th St APT 2R, Kew Gardens, NY 11415",11415,1,1,0
+CONDO,75,https://www.zillow.com/homedetails/8915-Parsons-Blvd-APT-2A-Jamaica-NY-11432/245446514_zpid/,FOR_SALE,"$125,000","89-15 Parsons Boulevard UNIT 2A, Jamaica, NY 11432",11432,,1,
+CONDO,83,https://www.zillow.com/homedetails/204-W-92nd-St-UNIT-PH5F-New-York-NY-10025/439925540_zpid/,FOR_SALE,"$899,000","204 W 92nd St UNIT PH5F, New York, NY 10025",10025,1,1,1300
+CONDO,70,https://www.zillow.com/homedetails/16-Warren-St-PENTHOUSE-New-York-NY-10007/2070347339_zpid/,FOR_SALE,"$4,000,000","16 Warren St #PENTHOUSE, New York, NY 10007",10007,3,4,3381
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/14253-122nd-Ave-Jamaica-NY-11436/32182983_zpid/,FOR_SALE,"$599,000","14253 122nd Ave, Jamaica, NY 11436",11436,3,3,980
+SINGLE_FAMILY,56,https://www.zillow.com/homedetails/16318-25th-Dr-Flushing-NY-11358/32035691_zpid/,FOR_SALE,"$1,138,000","163-18 25th Drive, Flushing, NY 11358",11358,3,2,1392
+CONDO,73,https://www.zillow.com/homedetails/98-120-Queens-Blvd-APT-6K-Rego-Park-NY-11374/72650173_zpid/,FOR_SALE,"$425,000","98-120 Queens Blvd APT 6K, Rego Park, NY 11374",11374,2,2,1250
+MULTI_FAMILY,19,https://www.zillow.com/homedetails/116-Crescent-Ave-Staten-Island-NY-10301/32271417_zpid/,FOR_SALE,"$319,900","116 Crescent Ave, Staten Island, NY 10301",10301,3,1,2730
+CONDO,70,https://www.zillow.com/homedetails/518-W-135th-St-APT-2B-New-York-NY-10031/2053228753_zpid/,FOR_SALE,"$350,000","518 W 135th St APT 2B, New York, NY 10031",10031,3,1,1000
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/1598-Bergen-St-Brooklyn-NY-11213/30595913_zpid/,FOR_SALE,"$1,275,000","1598 Bergen St, Brooklyn, NY 11213",11213,5,3,2657
+MULTI_FAMILY,16,https://www.zillow.com/homedetails/227-Vineland-Ave-Staten-Island-NY-10312/112111423_zpid/,FOR_SALE,"$1,475,000","227 Vineland Ave, Staten Island, NY 10312",10312,4,5,2464
+CONDO,27,https://www.zillow.com/homedetails/42-62-Hunter-St-4C-Long-Island-City-NY-11101/442145275_zpid/,FOR_SALE,"$935,000","42-62 Hunter St #4C, Long Island City, NY 11101",11101,2,2,0
+CONDO,76,https://www.zillow.com/homedetails/175-Adams-St-APT-2F-Brooklyn-NY-11201/245057720_zpid/,FOR_SALE,"$399,000","175 Adams St APT 2F, Brooklyn, NY 11201",11201,1,1,750
+SINGLE_FAMILY,320,https://www.zillow.com/homedetails/765-E-224th-St-Bronx-NY-10466/29832006_zpid/,FOR_SALE,"$399,888","765 E 224th St, Bronx, NY 10466",10466,3,4,1613
+CONDO,47,https://www.zillow.com/homedetails/196-07-Dunton-Ave-APT-2C-Hollis-NY-11423/2056759081_zpid/,FOR_SALE,"$279,000","196-07 Dunton Avenue UNIT 2C, Holliswood, NY 11423",11423,2,1,
+CONDO,138,https://www.zillow.com/homedetails/250-S-End-Ave-APT-3B-New-York-NY-10280/31491129_zpid/,FOR_SALE,"$850,000","250 S End Ave APT 3B, New York, NY 10280",10280,2,2,830
+CONDO,68,https://www.zillow.com/homedetails/513-12th-St-APT-4-Brooklyn-NY-11215/82388329_zpid/,FOR_SALE,"$1,995,000","513 12th St APT 4, Brooklyn, NY 11215",11215,4,2,1680
+CONDO,147,https://www.zillow.com/homedetails/89-0-170th-St-12-Jamaica-NY-11432/353941522_zpid/,FOR_SALE,"$109,999","89-00 170 Street UNIT 12, Jamaica, NY 11432",11432,1,1,
+CONDO,163,https://www.zillow.com/homedetails/67-31-223rd-Pl-1A-Oakland-Gardens-NY-11364/352289015_zpid/,FOR_SALE,"$329,000","67-31 223 Pl UNIT 1A, Oakland Gardens, NY 11364",11364,2,1,
+SINGLE_FAMILY,157,https://www.zillow.com/homedetails/336-Burns-St-Forest-Hills-Gardens-NY-11375/32006181_zpid/,FOR_SALE,"$1,449,000","336 Burns St, Forest Hills Gardens, NY 11375",11375,4,3,2160
+CONDO,125,https://www.zillow.com/homedetails/215-30-47th-Ave-2D-Bayside-NY-11361/346604101_zpid/,FOR_SALE,"$256,000","215-30 47th Avenue UNIT 2D, Bayside, NY 11361",11361,1,1,700
+CONDO,84,https://www.zillow.com/homedetails/529-W-42nd-St-1-C-New-York-NY-10036/321906213_zpid/,FOR_SALE,"$1,250,000","529 W 42nd St #1-C, New York, NY 10036",10036,3,3,2500
+SINGLE_FAMILY,122,https://www.zillow.com/homedetails/37-26-63rd-St-Woodside-NY-11377/2060306154_zpid/,FOR_SALE,$599K,"37-26 63rd Street, Woodside, NY 11377",11377,3,2,
+SINGLE_FAMILY,21,https://www.zillow.com/homedetails/201-Bryant-Ave-Staten-Island-NY-10306/32330373_zpid/,FOR_SALE,"$695,000","201 Bryant Ave, Staten Island, NY 10306",10306,2,1,1056
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/32-Brunswick-St-Staten-Island-NY-10314/32313994_zpid/,FOR_SALE,"$999,900","32 Brunswick St, Staten Island, NY 10314",10314,3,3,2800
+CONDO,42,https://www.zillow.com/homedetails/100-Remsen-St-APT-5H-Brooklyn-NY-11201/82235111_zpid/,FOR_SALE,"$449,000","100 Remsen St APT 5H, Brooklyn, NY 11201",11201,1,1,0
+CONDO,83,https://www.zillow.com/homedetails/230B-7th-St-APT-C-Brooklyn-NY-11215/439561852_zpid/,FOR_SALE,"$2,195,000","230B 7th St APT C, Brooklyn, NY 11215",11215,3,3,1651
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/7620-11th-Ave-Brooklyn-NY-11228/30696161_zpid/,FOR_SALE,"$1,250,000","7620 11th Ave, Brooklyn, NY 11228",11228,3,2,1344
+CONDO,11,https://www.zillow.com/homedetails/210-50-41st-Ave-APT-5D-Bayside-NY-11361/72650883_zpid/,FOR_SALE,"$368,000","210-50 41st Ave APT 5D, Bayside, NY 11361",11361,2,1,900
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/706-E-81st-St-Brooklyn-NY-11236/30768506_zpid/,FOR_SALE,"$885,000","706 E 81st St, Brooklyn, NY 11236",11236,6,3,1920
+CONDO,136,https://www.zillow.com/homedetails/65-15-Alderton-St-1A-Rego-Park-NY-11374/2075340435_zpid/,FOR_SALE,"$198,000","65-15 Alderton St #1A, Rego Park, NY 11374",11374,1,1,0
+APARTMENT,150,https://www.zillow.com/homedetails/3105-Avenue-V-APT-1F-Brooklyn-NY-11229/245019998_zpid/,FOR_SALE,"$250,000","3105 Avenue V APT 1F, Brooklyn, NY 11229",11229,3,1,1000
+CONDO,76,https://www.zillow.com/homedetails/4-74-48th-Ave-APT-31F-Long-Island-City-NY-11109/80379806_zpid/,FOR_SALE,"$639,900","4-74 48th Ave APT 31F, Long Island City, NY 11109",11109,1,1,865
+CONDO,116,https://www.zillow.com/homedetails/1070-Park-Ave-APT-1A-New-York-NY-10128/244833117_zpid/,FOR_SALE,"$400,000","1070 Park Ave APT 1A, New York, NY 10128",10128,2,2,0
+SINGLE_FAMILY,41,https://www.zillow.com/homedetails/92-52-219th-St-Queens-Village-NY-11428/2056774155_zpid/,FOR_SALE,"$999,999","92-52 219th Street, Queens Village, NY 11428",11428,4,2,
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/5609-Clearview-Expy-Flushing-NY-11364/32084632_zpid/,FOR_SALE,"$888,000","5609 Clearview Expy, Flushing, NY 11364",11364,3,2,0
+CONDO,59,https://www.zillow.com/homedetails/14-Prospect-Park-SW-APT-45-Brooklyn-NY-11215/245042786_zpid/,FOR_SALE,"$850,000","14 Prospect Park SW APT 45, Brooklyn, NY 11215",11215,2,1,0
+SINGLE_FAMILY,3,https://www.zillow.com/homedetails/89-Ocean-Ter-Staten-Island-NY-10314/32288812_zpid/,FOR_SALE,"$1,299,000","89 Ocean Ter, Staten Island, NY 10314",10314,4,3,2542
+CONDO,127,https://www.zillow.com/homedetails/105-E-116th-St-APT-7-New-York-NY-10029/402048055_zpid/,FOR_SALE,"$389,000","105 E 116th Street UNIT 7, New York, NY 10029",10029,5,1,950
+MULTI_FAMILY,88,https://www.zillow.com/homedetails/12-37-30th-Dr-Astoria-NY-11102/442437816_zpid/,FOR_SALE,"$1,295,000","12-37 30th Dr, Astoria, NY 11102",11102,6,6,3537
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/1574-208th-Pl-Flushing-NY-11360/32055389_zpid/,FOR_SALE,"$1,599,000","15-74 208th Place, Bayside, NY 11360",11360,7,5,2400
+CONDO,49,https://www.zillow.com/homedetails/222-E-80th-St-4AB-New-York-NY-10075/441592140_zpid/,FOR_SALE,"$999,000","222 E 80th St #4AB, New York, NY 10075",10075,3,2,1550
+SINGLE_FAMILY,102,https://www.zillow.com/homedetails/6820-65th-Pl-Flushing-NY-11385/32013553_zpid/,FOR_SALE,"$699,000","68-20 65th Place, Glendale, NY 11385",11385,3,2,1248
+SINGLE_FAMILY,12,https://www.zillow.com/homedetails/843-W-Fingerboard-Rd-Staten-Island-NY-10305/32323714_zpid/,FOR_SALE,"$620,000","843 W Fingerboard Rd, Staten Island, NY 10305",10305,3,2,1256
+CONDO,273,https://www.zillow.com/homedetails/1430-Seagirt-Blvd-APT-2G-Far-Rockaway-NY-11691/323055827_zpid/,FOR_SALE,"$89,999","1430 Seagirt Boulevard UNIT 2G, Far Rockaway, NY 11691",11691,,1,
+TOWNHOUSE,56,https://www.zillow.com/homedetails/12-17-Estates-Ln-226-U-Bayside-NY-11360/440975477_zpid/,FOR_SALE,"$769,000","12-17 Estates Lane UNIT 226U, Bayside, NY 11360",11360,3,2,1250
+TOWNHOUSE,21,https://www.zillow.com/homedetails/99-Debbie-St-Staten-Island-NY-10314/32303856_zpid/,FOR_SALE,"$524,999","99 Debbie St, Staten Island, NY 10314",10314,3,2,1142
+CONDO,18,https://www.zillow.com/homedetails/611-W-239th-St-APT-4E-Bronx-NY-10463/244429969_zpid/,FOR_SALE,"$379,000","611 W 239th St APT 4E, Bronx, NY 10463",10463,2,2,1250
+SINGLE_FAMILY,188,https://www.zillow.com/homedetails/84-Jane-St-New-York-NY-10014/31501878_zpid/,FOR_SALE,"$30,000,000","84 Jane St, New York, NY 10014",10014,6,8,6000
+SINGLE_FAMILY,90,https://www.zillow.com/homedetails/28-Colfax-Ave-Staten-Island-NY-10306/32329573_zpid/,FOR_SALE,"$769,000","28 Colfax Ave, Staten Island, NY 10306",10306,3,4,1938
+CONDO,119,https://www.zillow.com/homedetails/130-Lenox-Ave-904-New-York-NY-10026/2062228264_zpid/,FOR_SALE,"$499,000","130 Lenox Ave #904, New York, NY 10026",10026,3,2,1160
+CONDO,158,https://www.zillow.com/homedetails/29-King-St-APT-3I-New-York-NY-10014/31497736_zpid/,FOR_SALE,"$2,599,990","29 King St APT 3I, New York, NY 10014",10014,3,2,1200
+MULTI_FAMILY,32,https://www.zillow.com/homedetails/4219-De-Reimer-Ave-4219A2-Bronx-NY-10466/441843795_zpid/,FOR_SALE,"$659,999","4219 De Reimer Ave #4219A2, Bronx, NY 10466",10466,4,2,1481
+CONDO,83,https://www.zillow.com/homedetails/153-West-80th-Street-2D1D-New-York-NY-10024/2094373212_zpid/,FOR_SALE,"$1,895,000","153 West 80th Street #2D1D, New York, NY 10024",10024,3,3,1950
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/1837-Stuart-St-Brooklyn-NY-11229/30729210_zpid/,FOR_SALE,"$998,000","1837 Stuart Street, Sheepshead Bay, NY 11229",11229,4,3,1900
+SINGLE_FAMILY,20,https://www.zillow.com/homedetails/1698-Lexington-Ave-New-York-NY-10029/2080347189_zpid/,FOR_SALE,"$2,490,000","1698 Lexington Ave, New York, NY 10029",10029,8,7,2944
+TOWNHOUSE,188,https://www.zillow.com/homedetails/144-W-80th-St-New-York-NY-10024/350221862_zpid/,FOR_SALE,"$5,595,000","144 W 80th St, New York, NY 10024",10024,9,10,7120
+CONDO,320,https://www.zillow.com/homedetails/15-Central-Park-W-UNIT-PENTHOUSE-New-York-NY-10023/442156374_zpid/,FOR_SALE,"$48,000,000","15 Central Park W UNIT PENTHOUSE, New York, NY 10023",10023,5,7,5417
+SINGLE_FAMILY,60,https://www.zillow.com/homedetails/352-E-69th-St-New-York-NY-10021/31538112_zpid/,FOR_SALE,"$4,695,000","352 E 69th St, New York, NY 10021",10021,4,5,2880
+MULTI_FAMILY,12,https://www.zillow.com/homedetails/30-07-34th-Ave-1-Astoria-NY-11106/442579452_zpid/,FOR_SALE,"$1,100,000","30-07 34th Ave #1, Astoria, NY 11106",11106,4,2,1410
+MULTI_FAMILY,54,https://www.zillow.com/homedetails/2537-Cruger-Ave-Bronx-NY-10467/29820483_zpid/,FOR_SALE,"$799,000","2537 Cruger Avenue, Bronx, NY 10467",10467,6,3,
+CONDO,71,https://www.zillow.com/homedetails/649-2nd-Ave-APT-2B-New-York-NY-10016/321905488_zpid/,FOR_SALE,"$349,000","649 2nd Ave APT 2B, New York, NY 10016",10016,1,1,515
+CONDO,75,https://www.zillow.com/homedetails/67-Vestry-St-UNIT-PENTHOUSE-A-New-York-NY-10013/402691857_zpid/,FOR_SALE,"$48,000,000","67 Vestry St UNIT PENTHOUSE A, New York, NY 10013",10013,4,6,6207
+CONDO,73,https://www.zillow.com/homedetails/36-W-88th-St-APT-4-New-York-NY-10024/219714759_zpid/,FOR_SALE,"$1,450,000","36 W 88th St APT 4, New York, NY 10024",10024,2,2,0
+CONDO,117,https://www.zillow.com/homedetails/4-W-109th-St-APT-1D-New-York-NY-10025/123120850_zpid/,FOR_SALE,"$850,000","4 W 109th St APT 1D, New York, NY 10025",10025,3,2,1000
+SINGLE_FAMILY,97,https://www.zillow.com/homedetails/1714-E-32nd-St-Brooklyn-NY-11234/30757353_zpid/,FOR_SALE,"$969,000","1714 E 32nd St, Brooklyn, NY 11234",11234,4,3,1700
+MULTI_FAMILY,35,https://www.zillow.com/homedetails/22-Luke-Ct-Staten-Island-NY-10306/32340523_zpid/,FOR_SALE,"$769,900","22 Luke Ct, Staten Island, NY 10306",10306,3,2,2106
+CONDO,42,https://www.zillow.com/homedetails/210-W-85th-St-APT-5W-New-York-NY-10024/80379519_zpid/,FOR_SALE,"$1,245,000","210 W 85th St APT 5W, New York, NY 10024",10024,2,2,0
+MULTI_FAMILY,63,https://www.zillow.com/homedetails/268-78th-St-Brooklyn-NY-11209/30696815_zpid/,FOR_SALE,"$1,288,000","268 78th St, Brooklyn, NY 11209",11209,3,3,1816
+SINGLE_FAMILY,125,https://www.zillow.com/homedetails/10967-203rd-St-Jamaica-NY-11412/32156212_zpid/,FOR_SALE,"$350,000","10967 203rd St, Jamaica, NY 11412",11412,5,2,1549
+CONDO,70,https://www.zillow.com/homedetails/119-W-85th-St-APT-2F-Manhattan-NY-10024/72522789_zpid/,FOR_SALE,"$470,000","119 W 85th St APT 2F, Manhattan, NY 10024",10024,0,1,0
+CONDO,76,https://www.zillow.com/homedetails/234-E-23rd-St-18B-New-York-NY-10010/219657925_zpid/,FOR_SALE,"$3,150,000","234 E 23rd St #18B, New York, NY 10010",10010,2,2,1212
+SINGLE_FAMILY,18,https://www.zillow.com/homedetails/5808-219th-St-Bayside-Hills-NY-11364/32085560_zpid/,FOR_SALE,"$1,080,000","58-08 219 Street, Bayside, NY 11364",11364,3,1,1365
+SINGLE_FAMILY,35,https://www.zillow.com/homedetails/9007-68th-Ave-Flushing-NY-11375/32002247_zpid/,FOR_SALE,"$1,348,000","9007 68th Ave, Flushing, NY 11375",11375,3,3,1580
+TOWNHOUSE,26,https://www.zillow.com/homedetails/14-E-63rd-St-New-York-NY-10065/442165777_zpid/,FOR_SALE,"$26,950,000","14 E 63rd St, New York, NY 10065",10065,7,7,8500
+MULTI_FAMILY,69,https://www.zillow.com/homedetails/1610-Francis-Lewis-Blvd-Flushing-NY-11357/32032045_zpid/,FOR_SALE,"$1,329,000","16-10 Francis Lewis Boulevard, Whitestone, NY 11357",11357,4,3,2440
+MULTI_FAMILY,7,https://www.zillow.com/homedetails/79-Sinclair-Ave-Staten-Island-NY-10312/2055105881_zpid/,FOR_SALE,"$1,549,900","79 Sinclair Ave, Staten Island, NY 10312",10312,4,5,4075
+CONDO,74,https://www.zillow.com/homedetails/151-31-88th-St-2F-Howard-Beach-NY-11414/2059548603_zpid/,FOR_SALE,"$169,499","151-31 88th St #2F, Howard Beach, NY 11414",11414,1,1,750
+CONDO,164,https://www.zillow.com/homedetails/8770-173rd-St-APT-6H-Jamaica-NY-11432/92344448_zpid/,FOR_SALE,"$216,000","87-70 173 Street UNIT 6H, Jamaica, NY 11432",11432,2,1,
+SINGLE_FAMILY,23,https://www.zillow.com/homedetails/682-Argyle-Rd-Brooklyn-NY-11230/30669749_zpid/,FOR_SALE,"$1,700,000","682 Argyle Rd, Brooklyn, NY 11230",11230,8,4,2064
+CONDO,382,https://www.zillow.com/homedetails/1177-Anderson-Ave-APT-2D-Bronx-NY-10452/215948651_zpid/,FOR_SALE,"$95,000","1177 Anderson Avenue UNIT 2D, Bronx, NY 10452",10452,1,1,850
+SINGLE_FAMILY,0,https://www.zillow.com/homedetails/1053-Swinton-Ave-Bronx-NY-10465/29847774_zpid/,FOR_SALE,"$500,000","1053 Swinton Ave, Bronx, NY 10465",10465,3,2,3742
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/423-Hamden-Ave-Staten-Island-NY-10306/32332467_zpid/,FOR_SALE,"$599,999","423 Hamden Ave, Staten Island, NY 10306",10306,2,2,1890
+SINGLE_FAMILY,101,https://www.zillow.com/homedetails/1882-Richmond-Rd-Staten-Island-NY-10306/32329009_zpid/,FOR_SALE,"$1,072,000","1882 Richmond Rd, Staten Island, NY 10306",10306,3,3,1408
+CONDO,39,https://www.zillow.com/homedetails/237-Eldridge-St-APT-34-New-York-NY-10002/72511685_zpid/,FOR_SALE,"$500,000","237 Eldridge St APT 34, New York, NY 10002",10002,0,1,0
+CONDO,13,https://www.zillow.com/homedetails/1925-Ocean-Ave-APT-5A-Brooklyn-NY-11230/245003430_zpid/,FOR_SALE,"$399,990","1925 Ocean Avenue UNIT 5A, Midwood, NY 11230",11230,2,1,
+TOWNHOUSE,19,https://www.zillow.com/homedetails/203-Halsey-St-Brooklyn-NY-11216/30610485_zpid/,FOR_SALE,"$2,995,000","203 Halsey St, Brooklyn, NY 11216",11216,7,6,3778
+CONDO,68,https://www.zillow.com/homedetails/730-5th-Ave-18A-New-York-NY-10019/338881256_zpid/,FOR_SALE,"$39,995,000","730 5th Ave #18A, New York, NY 10019",10019,3,4,3746
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/534-E-87th-St-New-York-NY-10128/31546116_zpid/,FOR_SALE,"$3,950,000","534 E 87th St, New York, NY 10128",10128,3,3,3232
+SINGLE_FAMILY,122,https://www.zillow.com/homedetails/56-05-Oceania-St-Oakland-Gardens-NY-11364/2060700246_zpid/,FOR_SALE,"$974,900","56-05 Oceania Street, Oakland Gardens, NY 11364",11364,4,3,1850
+SINGLE_FAMILY,417,https://www.zillow.com/homedetails/16-Mickardan-Ct-Staten-Island-NY-10304/62723224_zpid/,FOR_SALE,"$488,888","16 Mickardan Ct, Staten Island, NY 10304",10304,3,3,1200
+SINGLE_FAMILY,21,https://www.zillow.com/homedetails/111-Croak-Ave-Staten-Island-NY-10314/32288834_zpid/,FOR_SALE,"$1,449,999","111 Croak Ave, Staten Island, NY 10314",10314,3,4,3360
+CONDO,65,https://www.zillow.com/homedetails/283-E-4th-St-APT-1-New-York-NY-10009/2062937309_zpid/,FOR_SALE,"$435,000","283 E 4th St APT 1, New York, NY 10009",10009,1,1,
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/7505-176th-St-Flushing-NY-11366/32076209_zpid/,FOR_SALE,"$1,000,000","75-05 176th Street, Fresh Meadows, NY 11366",11366,3,2,
+CONDO,13,https://www.zillow.com/homedetails/67-38-108th-St-D05-Forest-Hills-NY-11375/442558454_zpid/,FOR_SALE,"$189,000","67-38 108th St #D05, Forest Hills, NY 11375",11375,1,1,0
+TOWNHOUSE,41,https://www.zillow.com/homedetails/111-W-123rd-St-New-York-NY-10027/31551775_zpid/,FOR_SALE,"$1,700,000","111 W 123rd St, New York, NY 10027",10027,11,10,
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/860-Grand-Concourse-APT-2R-Bronx-NY-10451/244435978_zpid/,FOR_SALE,"$225,000","860 Grand Concourse APT 2R, Bronx, NY 10451",10451,2,1,700
+CONDO,287,https://www.zillow.com/homedetails/12510-Queens-Blvd-APT-2601-Jamaica-NY-11415/245372530_zpid/,FOR_SALE,"$295,000","12510 Queens Blvd APT 2601, Jamaica, NY 11415",11415,2,1,1000
+SINGLE_FAMILY,10,https://www.zillow.com/homedetails/3323-161st-St-Flushing-NY-11358/32043354_zpid/,FOR_SALE,"$2,388,000","33-23 161st Street, Flushing, NY 11358",11358,4,5,4500
+CONDO,70,https://www.zillow.com/homedetails/99-05-63rd-Dr-11Q-Rego-Park-NY-11374/2058194255_zpid/,FOR_SALE,"$369,000","99-05 63rd Dr #11Q, Rego Park, NY 11374",11374,2,1,820
+CONDO,66,https://www.zillow.com/homedetails/340-W-11th-St-APT-2WR-New-York-NY-10014/124398240_zpid/,FOR_SALE,"$630,000","340 W 11th St APT 2WR, New York, NY 10014",10014,0,1,0
+CONDO,7,https://www.zillow.com/homedetails/7814-Austin-St-APT-1C-Flushing-NY-11375/79728332_zpid/,FOR_SALE,"$159,888","7814 Austin St APT 1C, Flushing, NY 11375",11375,0,1,0
+CONDO,141,https://www.zillow.com/homedetails/18-Kathy-Pl-APT-2A-Staten-Island-NY-10314/32315246_zpid/,FOR_SALE,"$450,000","18 Kathy Place UNIT 2A, Staten Island, NY 10314",10314,2,2,1086
+TOWNHOUSE,320,https://www.zillow.com/homedetails/18-Prospect-Park-W-Brooklyn-NY-11215/30587065_zpid/,FOR_SALE,"$12,995,000","18 Prospect Park W, Brooklyn, NY 11215",11215,7,6,9026
+CONDO,31,https://www.zillow.com/homedetails/5803-Calloway-St-APT-6NN-Flushing-NY-11368/245464605_zpid/,FOR_SALE,"$275,000","5803 Calloway Street UNIT 6NN, Corona, NY 11368",11368,2,1,
+MULTI_FAMILY,108,https://www.zillow.com/homedetails/2807-E-27th-St-1-Brooklyn-NY-11235/423095870_zpid/,FOR_SALE,"$599,000","2807 E 27th St #1, Brooklyn, NY 11235",11235,3,2,1328
+CONDO,70,https://www.zillow.com/homedetails/476-Broome-St-UNIT-PENTHOUSE-New-York-NY-10013/442155899_zpid/,FOR_SALE,"$29,995,000","476 Broome St UNIT PENTHOUSE, New York, NY 10013",10013,6,7,6900
+CONDO,98,https://www.zillow.com/homedetails/214-E-88th-St-APT-5C-New-York-NY-10128/2101980871_zpid/,FOR_SALE,"$309,900","214 E 88th St APT 5C, New York, NY 10128",10128,1,1,0
+APARTMENT,207,https://www.zillow.com/homedetails/1935-Shore-Pkwy-APT-15A-Brooklyn-NY-11214/348988143_zpid/,FOR_SALE,"$269,900","1935 Shore Pkwy APT 15A, Brooklyn, NY 11214",11214,2,1,995
+CONDO,151,https://www.zillow.com/homedetails/7115-3rd-Ave-APT-3C-Brooklyn-NY-11209/245034301_zpid/,FOR_SALE,"$449,000","7115 3rd Ave APT 3C, Brooklyn, NY 11209",11209,2,1,850
+CONDO,320,https://www.zillow.com/homedetails/175-E-62nd-St-APT-15D-New-York-NY-10065/2078579875_zpid/,FOR_SALE,"$995,000","175 E 62nd St APT 15D, New York, NY 10065",10065,4,4,0
+TOWNHOUSE,7,https://www.zillow.com/homedetails/565-Quincy-Ave-Staten-Island-NY-10305/32328415_zpid/,FOR_SALE,"$479,999","565 Quincy Ave, Staten Island, NY 10305",10305,2,2,1215
+CONDO,6,https://www.zillow.com/homedetails/668-Broadway-APT-11-Brooklyn-NY-11206/2088005957_zpid/,FOR_SALE,"$399,999","668 Broadway UNIT 11, Williamsburg, NY 11206",11206,1,1,870
+CONDO,7,https://www.zillow.com/homedetails/1000-Clove-Rd-APT-4P-Staten-Island-NY-10301/244595853_zpid/,FOR_SALE,"$139,999","1000 Clove Rd APT 4P, Staten Island, NY 10301",10301,1,1,650
+CONDO,39,https://www.zillow.com/homedetails/417-Hicks-St-APT-4A-Brooklyn-NY-11201/116167186_zpid/,FOR_SALE,"$675,000","417 Hicks St APT 4A, Brooklyn, NY 11201",11201,1,1,0
+CONDO,12,https://www.zillow.com/homedetails/520-W-50th-St-APT-B4-New-York-NY-10019/72519817_zpid/,FOR_SALE,"$399,000","520 W 50th St APT B4, New York, NY 10019",10019,1,1,0
+CONDO,17,https://www.zillow.com/homedetails/2475-38th-Ave-UNIT-D6-Long-Island-City-NY-11101/442455209_zpid/,FOR_SALE,"$588,000","2475 38 Street UNIT D6, Astoria, NY 11101",11101,1,1,
+CONDO,17,https://www.zillow.com/homedetails/2475-38th-Ave-UNIT-D6-Long-Island-City-NY-11101/442455209_zpid/,FOR_SALE,"$588,000","2475 38 Street UNIT D6, Astoria, NY 11101",11101,1,1,
+CONDO,153,https://www.zillow.com/homedetails/425-Main-St-PH1C-New-York-NY-10044/402691577_zpid/,FOR_SALE,"$2,250,000","425 Main St #PH1C, New York, NY 10044",10044,3,2,1412
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/70-Herzl-St-Brooklyn-NY-11212/30631698_zpid/,FOR_SALE,"$770,000","70 Herzl St, Brooklyn, NY 11212",11212,5,3,0
+TOWNHOUSE,98,https://www.zillow.com/homedetails/243-E-52nd-St-New-York-NY-10022/31530665_zpid/,FOR_SALE,"$3,695,000","243 E 52nd St, New York, NY 10022",10022,5,4,3525
+TOWNHOUSE,114,https://www.zillow.com/homedetails/17-W-131st-St-UNIT-1A-New-York-NY-10037/408363285_zpid/,FOR_SALE,"$229,000","17 131st Street UNIT 1A, New York, NY 10037",10037,,1,
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/35-Garden-St-Staten-Island-NY-10314/32289310_zpid/,FOR_SALE,"$699,999","35 Garden St, Staten Island, NY 10314",10314,3,3,1584
+CONDO,92,https://www.zillow.com/homedetails/342-W-85th-St-APT-2C-New-York-NY-10024/2130871884_zpid/,FOR_SALE,"$1,849,000","342 W 85th St APT 2C, New York, NY 10024",10024,3,2,1350
+CONDO,13,https://www.zillow.com/homedetails/47-19-216th-St-APT-3B-Bayside-NY-11361/79737453_zpid/,FOR_SALE,"$265,000","47-19 216 St UNIT 3B, Bayside, NY 11361",11361,1,1,
+CONDO,41,https://www.zillow.com/homedetails/60-53-251st-St-UNIT-779-Little-Neck-NY-11362/441821445_zpid/,FOR_SALE,"$274,888","60-53 251st Street UNIT 779, Little Neck, NY 11362",11362,1,1,
+CONDO,40,https://www.zillow.com/homedetails/464-Columbus-Ave-APT-5A-New-York-NY-10024/244782500_zpid/,FOR_SALE,"$1,175,000","464 Columbus Ave APT 5A, New York, NY 10024",10024,2,2,0
+SINGLE_FAMILY,82,https://www.zillow.com/homedetails/85-05-Eliot-Ave-Middle-Village-NY-11379/2065723293_zpid/,FOR_SALE,"$799,000","85-05 Eliot Avenue, Middle Village, NY 11379",11379,3,2,1536
+CONDO,55,https://www.zillow.com/homedetails/1196-Metropolitan-Ave-2L-Brooklyn-NY-11237/440983681_zpid/,FOR_SALE,"$699,000","1196 Metropolitan Ave #2L, Brooklyn, NY 11237",11237,1,1,937
+SINGLE_FAMILY,76,https://www.zillow.com/homedetails/330-Clermont-Ave-Brooklyn-NY-11205/30615793_zpid/,FOR_SALE,"$3,215,000","330 Clermont Ave, Brooklyn, NY 11205",11205,4,4,2339
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/77-19-169th-St-5-Fresh-Meadows-NY-11366/442774662_zpid/,FOR_SALE,"$1,199,000","77-19 169th St #5, Fresh Meadows, NY 11366",11366,3,3,0
+SINGLE_FAMILY,124,https://www.zillow.com/homedetails/235-W-136th-St-New-York-NY-10030/2103182043_zpid/,FOR_SALE,"$1,950,000","235 W 136th St, New York, NY 10030",10030,10,4,3100
+SINGLE_FAMILY,29,https://www.zillow.com/homedetails/7203-160th-St-Flushing-NY-11365/32072780_zpid/,FOR_SALE,"$799,000","7203 160th St, Flushing, NY 11365",11365,3,2,2850
+SINGLE_FAMILY,53,https://www.zillow.com/homedetails/412-13th-St-Brooklyn-NY-11215/30588391_zpid/,FOR_SALE,"$2,900,000","412 13th St, Brooklyn, NY 11215",11215,3,3,2148
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/1618-E-35th-St-1-Brooklyn-NY-11234/442693907_zpid/,FOR_SALE,"$838,000","1618 E 35th St #1, Brooklyn, NY 11234",11234,3,3,1568
+SINGLE_FAMILY,68,https://www.zillow.com/homedetails/2922-218th-St-Flushing-NY-11360/32059422_zpid/,FOR_SALE,"$1,088,000","29-22 218th Street, Bayside, NY 11360",11360,3,2,
+SINGLE_FAMILY,12,https://www.zillow.com/homedetails/20936-45th-Rd-Flushing-NY-11361/32081514_zpid/,FOR_SALE,"$839,000","209-36 45 Road, Bayside, NY 11361",11361,2,1,760
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/32-Norwich-St-Staten-Island-NY-10314/32307502_zpid/,FOR_SALE,"$959,900","32 Norwich Street, Staten Island, NY 10314",10314,5,2,
+CONDO,161,https://www.zillow.com/homedetails/1250-Ocean-Pkwy-FLOOR-2-Brooklyn-NY-11230/352344930_zpid/,FOR_SALE,"$425,000","1250 Ocean Pkwy FLOOR 2, Brooklyn, NY 11230",11230,2,2,1321
+CONDO,76,https://www.zillow.com/homedetails/223-E-4th-St-APT-12-New-York-NY-10009/72511609_zpid/,FOR_SALE,"$595,000","223 E 4th St APT 12, New York, NY 10009",10009,1,1,0
+CONDO,46,https://www.zillow.com/homedetails/2166-Broadway-APT-11F-New-York-NY-10024/2054226233_zpid/,FOR_SALE,"$759,000","2166 Broadway APT 11F, New York, NY 10024",10024,2,2,0
+CONDO,76,https://www.zillow.com/homedetails/4508-40th-St-APT-C44-Long-Island-City-NY-11104/72648614_zpid/,FOR_SALE,"$569,000","4508 40th St APT C44, Long Island City, NY 11104",11104,2,2,0
+CONDO,3,https://www.zillow.com/homedetails/457-W-57th-St-608-New-York-NY-10019/111038459_zpid/,FOR_SALE,"$300,000","457 W 57th St #608, New York, NY 10019",10019,0,1,0
+TOWNHOUSE,76,https://www.zillow.com/homedetails/233-W-11th-St-New-York-NY-10014/31500529_zpid/,FOR_SALE,"$13,500,000","233 W 11th St, New York, NY 10014",10014,6,4,0
+SINGLE_FAMILY,50,https://www.zillow.com/homedetails/118-29-205th-St-Saint-Albans-NY-11412/2056679033_zpid/,FOR_SALE,"$300,000","118-29 205th Street, St. Albans, NY 11412",11412,3,2,1125
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/13720-Westgate-St-Jamaica-NY-11413/32201982_zpid/,FOR_SALE,"$649,000","137-20 Westgate Street, Springfield Gardens, NY 11413",11413,3,2,1440
+SINGLE_FAMILY,65,https://www.zillow.com/homedetails/45-39-171st-Pl-Flushing-NY-11358/2067440710_zpid/,FOR_SALE,"$1,100,000","45-39 171 Place, Flushing, NY 11358",11358,4,5,2340
+SINGLE_FAMILY,129,https://www.zillow.com/homedetails/12248-Grayson-St-Jamaica-NY-11413/32195613_zpid/,FOR_SALE,"$414,900","122-48 Grayson Street, Springfield Gardens, NY 11413",11413,3,3,
+SINGLE_FAMILY,33,https://www.zillow.com/homedetails/3920-46th-St-Long-Island-City-NY-11104/31934619_zpid/,FOR_SALE,"$1,268,000","3920 46th St, Long Island City, NY 11104",11104,3,2,0
+SINGLE_FAMILY,7,https://www.zillow.com/homedetails/32-19-204th-St-Bayside-NY-11361/32059094_zpid/,FOR_SALE,"$829,000","32-19 204th Street, Bayside, NY 11361",11361,3,2,
+CONDO,11,https://www.zillow.com/homedetails/8449-168th-St-APT-6N-Jamaica-NY-11432/245429132_zpid/,FOR_SALE,"$295,000","84-49 168 Street UNIT 6N, Jamaica Estates, NY 11432",11432,2,2,1200
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/3449-64th-St-Flushing-NY-11377/31955726_zpid/,FOR_SALE,"$1,050,000","3449 64th St, Flushing, NY 11377",11377,3,2,1320
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/78-04-86th-St-Ridgewood-NY-11385/2080048648_zpid/,FOR_SALE,"$849,900","78-04 86th St, Ridgewood, NY 11385",11385,3,2,1500
+CONDO,132,https://www.zillow.com/homedetails/80-Knolls-Cres-APT-10J-Bronx-NY-10463/400819872_zpid/,FOR_SALE,"$232,029","80 Knolls Cres APT 10J, Bronx, NY 10463",10463,3,1,1000
+CONDO,76,https://www.zillow.com/homedetails/234-W-16th-St-APT-4C-New-York-NY-10011/72515400_zpid/,FOR_SALE,"$499,000","234 W 16th St APT 4C, New York, NY 10011",10011,1,1,0
+SINGLE_FAMILY,83,https://www.zillow.com/homedetails/1251-Hobart-Ave-Bronx-NY-10461/29841430_zpid/,FOR_SALE,"$495,000","1251 Hobart Avenue, Bronx, NY 10461",10461,2,1,1090
+CONDO,320,https://www.zillow.com/homedetails/20-Plaza-St-E-A16-Brooklyn-NY-11238/2055447364_zpid/,FOR_SALE,"$1,450,000","20 Plaza St E #A16, Brooklyn, NY 11238",11238,3,3,2050
+MULTI_FAMILY,4,https://www.zillow.com/homedetails/50-29-48th-St-2-Woodside-NY-11377/442769643_zpid/,FOR_SALE,"$899,900","50-29 48th St #2, Woodside, NY 11377",11377,4,2,0
+CONDO,76,https://www.zillow.com/homedetails/71-W-Washington-Pl-UNIT-GARDEN-1A-New-York-NY-10011/440008026_zpid/,FOR_SALE,"$2,999,000","71 W Washington Pl UNIT GARDEN 1A, New York, NY 10011",10011,3,3,0
+SINGLE_FAMILY,33,https://www.zillow.com/homedetails/7740-162nd-St-Flushing-NY-11366/32072923_zpid/,FOR_SALE,"$998,000","77-40 162 Street, Fresh Meadows, NY 11366",11366,3,2,
+SINGLE_FAMILY,139,https://www.zillow.com/homedetails/2711-Edgehill-Ave-Bronx-NY-10463/29851638_zpid/,FOR_SALE,"$1,350,000","2711 Edgehill Ave, Bronx, NY 10463",10463,4,3,2000
+CONDO,75,https://www.zillow.com/homedetails/55-Berry-St-APT-1F-Brooklyn-NY-11249/68313627_zpid/,FOR_SALE,"$2,500,000","55 Berry St APT 1F, Brooklyn, NY 11249",11249,2,3,2367
+CONDO,10,https://www.zillow.com/homedetails/280-W-End-Ave-APT-2A-New-York-NY-10023/244700387_zpid/,FOR_SALE,"$839,000","280 W End Ave APT 2A, New York, NY 10023",10023,1,1,0
+SINGLE_FAMILY,83,https://www.zillow.com/homedetails/91-25-79th-St-1-Woodhaven-NY-11421/439925364_zpid/,FOR_SALE,"$648,000","91-25 79th St #1, Woodhaven, NY 11421",11421,3,2,0
+CONDO,11,https://www.zillow.com/homedetails/6495-Broadway-APT-2R-Bronx-NY-10471/2139478289_zpid/,FOR_SALE,"$275,000","6495 Broadway UNIT 2R, Bronx, NY 10471",10471,2,1,900
+CONDO,17,https://www.zillow.com/homedetails/343-E-74th-St-UNIT-PH-3-4D-New-York-NY-10021/442462646_zpid/,FOR_SALE,"$1,749,000","343 E 74th St UNIT PH-3-4D, New York, NY 10021",10021,3,4,2200
+SINGLE_FAMILY,154,https://www.zillow.com/homedetails/234-Slater-Blvd-Staten-Island-NY-10305/32332279_zpid/,FOR_SALE,"$625,000","234 Slater Blvd, Staten Island, NY 10305",10305,3,2,1872
+SINGLE_FAMILY,33,https://www.zillow.com/homedetails/6760-73rd-Pl-Flushing-NY-11379/32014422_zpid/,FOR_SALE,"$559,000","67-60 73rd Place, Middle Village, NY 11379",11379,2,1,780
+APARTMENT,13,https://www.zillow.com/homedetails/6-Arc-Pl-APT-A6-Staten-Island-NY-10306/94662615_zpid/,FOR_SALE,"$479,900","6 Arc Pl APT A6, Staten Island, NY 10306",10306,2,2,849
+MULTI_FAMILY,5,https://www.zillow.com/homedetails/5029-48th-St-Flushing-NY-11377/31980313_zpid/,FOR_SALE,"$899,900","50-29 48th Street, Woodside, NY 11377",11377,4,2,
+CONDO,22,https://www.zillow.com/homedetails/60-Knolls-Cres-APT-7L-Bronx-NY-10463/244440137_zpid/,FOR_SALE,"$178,728","60 Knolls Cres APT 7L, Bronx, NY 10463",10463,2,1,850
+CONDO,59,https://www.zillow.com/homedetails/130-W-30th-St-APT-11C-New-York-NY-10001/65317303_zpid/,FOR_SALE,"$2,330,000","130 W 30th St APT 11C, New York, NY 10001",10001,3,3,2055
+SINGLE_FAMILY,30,https://www.zillow.com/homedetails/16339-21st-Ave-Flushing-NY-11357/32053524_zpid/,FOR_SALE,"$1,099,990","16339 21st Ave, Flushing, NY 11357",11357,5,2,1192
+SINGLE_FAMILY,74,https://www.zillow.com/homedetails/60-Tyrrell-St-Staten-Island-NY-10307/32376948_zpid/,FOR_SALE,"$679,000","60 Tyrrell St, Staten Island, NY 10307",10307,4,2,1848
+SINGLE_FAMILY,12,https://www.zillow.com/homedetails/3723-Rombouts-Ave-Bronx-NY-10466/29835036_zpid/,FOR_SALE,"$449,000","3723 Rombouts Avenue, Bronx, NY 10466",10466,3,2,1364
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/9312-Ditmars-Blvd-Flushing-NY-11369/31952040_zpid/,FOR_SALE,"$918,000","9312 Ditmars Blvd, Flushing, NY 11369",11369,4,2,0
+MULTI_FAMILY,11,https://www.zillow.com/homedetails/1814-Bussing-Ave-Bronx-NY-10466/29837058_zpid/,FOR_SALE,"$903,000","1814 Bussing Ave, Bronx, NY 10466",10466,7,4,3400
+SINGLE_FAMILY,123,https://www.zillow.com/homedetails/1743-Victory-Blvd-Staten-Island-NY-10314/442258175_zpid/,FOR_SALE,"$29,900","1743 Victory Blvd, Staten Island, NY 10314",10314,,0,900
+CONDO,87,https://www.zillow.com/homedetails/84-164th-Ave-Howard-Beach-NY-11414/439807803_zpid/,FOR_SALE,"$125,000","84 164th Ave, Howard Beach, NY 11414",11414,0,1,0
+CONDO,18,https://www.zillow.com/homedetails/282A-Nassau-Ave-1B-Brooklyn-NY-11222/320252915_zpid/,FOR_SALE,"$1,345,000","282A Nassau Ave #1B, Brooklyn, NY 11222",11222,3,3,1565
+CONDO,73,https://www.zillow.com/homedetails/628-E-14th-St-APT-5-New-York-NY-10009/126319505_zpid/,FOR_SALE,"$565,000","628 E 14th St APT 5, New York, NY 10009",10009,1,1,600
+CONDO,83,https://www.zillow.com/homedetails/813-8th-Ave-APT-2F-Brooklyn-NY-11215/244998578_zpid/,FOR_SALE,"$770,000","813 8th Ave APT 2F, Brooklyn, NY 11215",11215,2,1,0
+MULTI_FAMILY,237,https://www.zillow.com/homedetails/491-Manhattan-Avenue-New-York-NY-10027/2091602480_zpid/,FOR_SALE,"$1,475,000","491 Manhattan Avenue, New York, NY 10027",10027,4,6,2520
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/1657-Bath-Ave-Brooklyn-NY-11214/30713072_zpid/,FOR_SALE,"$845,000","1657 Bath Ave, Brooklyn, NY 11214",11214,3,2,1440
+CONDO,40,https://www.zillow.com/homedetails/649-2nd-Ave-APT-3G-New-York-NY-10016/321905501_zpid/,FOR_SALE,"$245,000","649 2nd Ave APT 3G, New York, NY 10016",10016,0,1,0
+CONDO,76,https://www.zillow.com/homedetails/559-Warren-St-APT-4R-Brooklyn-NY-11217/123349407_zpid/,FOR_SALE,"$900,000","559 Warren St APT 4R, Brooklyn, NY 11217",11217,2,1,0
+SINGLE_FAMILY,59,https://www.zillow.com/homedetails/100-09B-Rockaway-Beach-Blvd-Rockaway-Park-NY-11694/2056678587_zpid/,FOR_SALE,"$294,000","100-09 B Rockaway Bch Blv, Rockaway Park, NY 11694",11694,1,1,
+CONDO,90,https://www.zillow.com/homedetails/303-E-57th-St-APT-35G-New-York-NY-10022/96768632_zpid/,FOR_SALE,"$1,275,000","303 E 57th St APT 35G, New York, NY 10022",10022,3,3,3400
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/1262-Leland-Ave-Bronx-NY-10472/29795553_zpid/,FOR_SALE,"$999,999","1262 Leland Avenue, Bronx, NY 10472",10472,4,3,2280
+SINGLE_FAMILY,24,https://www.zillow.com/homedetails/2701-Goethals-Rd-N-APT-D11-Staten-Island-NY-10303/2102603505_zpid/,FOR_SALE,"$180,000","2701 Goethals Rd N APT D11, Staten Island, NY 10303",10303,2,1,910
+MULTI_FAMILY,59,https://www.zillow.com/homedetails/167-Sterling-St-Brooklyn-NY-11225/30594984_zpid/,FOR_SALE,"$1,500,000","167 Sterling St, Brooklyn, NY 11225",11225,4,3,2128
+CONDO,67,https://www.zillow.com/homedetails/156-W-73rd-St-APT-2F-New-York-NY-10023/72520841_zpid/,FOR_SALE,"$425,000","156 W 73rd St APT 2F, New York, NY 10023",10023,0,1,0
+SINGLE_FAMILY,68,https://www.zillow.com/homedetails/35A-Prospect-Pl-1-Brooklyn-NY-11217/440534254_zpid/,FOR_SALE,"$2,495,000","35A Prospect Pl #1, Brooklyn, NY 11217",11217,9,5,3400
+CONDO,157,https://www.zillow.com/homedetails/1947-C-Adam-C-Powell-Blvd-UNIT-9-New-York-NY-10026/442155609_zpid/,FOR_SALE,"$979,000","1947-C Adam C Powell Blvd UNIT 9, New York, NY 10026",10026,3,2,0
+CONDO,7,https://www.zillow.com/homedetails/21-66-33rd-Rd-APT-7C-Astoria-NY-11106/72648679_zpid/,FOR_SALE,"$529,000","21-66 33rd Rd APT 7C, Astoria, NY 11106",11106,2,1,850
+CONDO,11,https://www.zillow.com/homedetails/85-8th-Ave-APT-5W-New-York-NY-10011/321903112_zpid/,FOR_SALE,"$650,000","85 8th Ave APT 5W, New York, NY 10011",10011,1,1,585
+CONDO,76,https://www.zillow.com/homedetails/812-5th-Ave-New-York-NY-10065/31533294_zpid/,FOR_SALE,"$7,750,000","812 5th Ave, New York, NY 10065",10065,5,5,4500
+MULTI_FAMILY,12,https://www.zillow.com/homedetails/1440-81st-St-Brooklyn-NY-11228/142971705_zpid/,FOR_SALE,"$1,888,000","1440 81st St, Brooklyn, NY 11228",11228,3,4,2035
+CONDO,53,https://www.zillow.com/homedetails/3345-92nd-St-APT-4A-Queens-NY-11372/115826827_zpid/,FOR_SALE,"$279,000","3345 92nd St APT 4A, Queens, NY 11372",11372,2,2,0
+SINGLE_FAMILY,146,https://www.zillow.com/homedetails/60-70-Woodhaven-Blvd-3F-Elmhurst-NY-11373/89067111_zpid/,FOR_SALE,"$590,000","60-70 Woodhaven Blvd #3F, Elmhurst, NY 11373",11373,2,2,812
+CONDO,123,https://www.zillow.com/homedetails/847-Fox-St-APT-7-Bronx-NY-10459/347308035_zpid/,FOR_SALE,"$145,000","847 Fox St APT 7, Bronx, NY 10459",10459,3,1,724
+SINGLE_FAMILY,83,https://www.zillow.com/homedetails/46-Seafoam-St-Staten-Island-NY-10306/32335864_zpid/,FOR_SALE,"$310,000","46 Seafoam St, Staten Island, NY 10306",10306,3,1,524
+CONDO,63,https://www.zillow.com/homedetails/601-Crown-St-B3-Brooklyn-NY-11213/338704408_zpid/,FOR_SALE,"$450,000","601 Crown St #B3, Brooklyn, NY 11213",11213,2,1,760
+CONDO,320,https://www.zillow.com/homedetails/955-Lexington-Ave-1-C-New-York-NY-10021/72528024_zpid/,FOR_SALE,"$749,000","955 Lexington Ave #1-C, New York, NY 10021",10021,2,2,0
+MULTI_FAMILY,7,https://www.zillow.com/homedetails/3653-Marolla-Pl-Bronx-NY-10466/29834625_zpid/,FOR_SALE,"$995,000","3653 Marolla Place, Bronx, NY 10466",10466,6,4,
+CONDO,70,https://www.zillow.com/homedetails/418-1-2-E-9th-St-APT-1A-New-York-NY-10009/244867578_zpid/,FOR_SALE,"$999,900","418 1/2 E 9th St APT 1A, New York, NY 10009",10009,2,2,1000
+APARTMENT,12,https://www.zillow.com/homedetails/95-Essex-Dr-APT-1F-Staten-Island-NY-10314/32316747_zpid/,FOR_SALE,"$429,900","95 Essex Dr APT 1F, Staten Island, NY 10314",10314,2,2,1228
+SINGLE_FAMILY,14,https://www.zillow.com/homedetails/8-Tacoma-St-Staten-Island-NY-10304/2061602408_zpid/,FOR_SALE,"$1,499,888","8 Tacoma St, Staten Island, NY 10304",10304,4,4,2800
+TOWNHOUSE,320,https://www.zillow.com/homedetails/9-E-88th-St-New-York-NY-10128/31540731_zpid/,FOR_SALE,"$38,000,000","9 E 88th St, New York, NY 10128",10128,8,10,15950
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/32-Stonegate-Dr-Staten-Island-NY-10304/32324186_zpid/,FOR_SALE,"$779,800","32 Stonegate Dr, Staten Island, NY 10304",10304,3,3,2044
+CONDO,137,https://www.zillow.com/homedetails/135-W-115th-St-APT-5A-New-York-NY-10026/244708489_zpid/,FOR_SALE,"$225,000","135 W 115th St APT 5A, New York, NY 10026",10026,1,1,
+MULTI_FAMILY,47,https://www.zillow.com/homedetails/404-2nd-St-Brooklyn-NY-11215/442424113_zpid/,FOR_SALE,"$3,200,000","404 2nd St, Brooklyn, NY 11215",11215,7,8,5600
+CONDO,24,https://www.zillow.com/homedetails/2654-E-18th-St-2D-Brooklyn-NY-11235/2060254450_zpid/,FOR_SALE,"$399,000","2654 E 18th St #2D, Brooklyn, NY 11235",11235,1,1,0
+SINGLE_FAMILY,126,https://www.zillow.com/homedetails/3061-Scenic-Pl-Bronx-NY-10463/29851879_zpid/,FOR_SALE,"$5,790,000","3061 Scenic Pl, Bronx, NY 10463",10463,5,5,6000
+SINGLE_FAMILY,193,https://www.zillow.com/homedetails/3451-74th-St-Flushing-NY-11372/31957116_zpid/,FOR_SALE,"$1,899,000","3451 74th St, Flushing, NY 11372",11372,5,4,2000
+SINGLE_FAMILY,143,https://www.zillow.com/homedetails/555-W-246th-St-Bronx-NY-10471/29854114_zpid/,FOR_SALE,"$1,295,000","555 W 246th St, Bronx, NY 10471",10471,4,3,2300
+TOWNHOUSE,56,https://www.zillow.com/homedetails/120-E-78th-St-New-York-NY-10075/31535611_zpid/,FOR_SALE,"$24,995,000","120 E 78th St, New York, NY 10075",10075,9,12,13000
+CONDO,18,https://www.zillow.com/homedetails/224-11-Manor-Rd-L-Queens-Village-NY-11427/442451190_zpid/,FOR_SALE,"$299,999","224-11 Manor Rd #L, Queens Village, NY 11427",11427,2,1,0
+MULTI_FAMILY,17,https://www.zillow.com/homedetails/8228-Penelope-Ave-Flushing-NY-11379/31996534_zpid/,FOR_SALE,"$920,000","82-28 Penelope Avenue, Middle Village, NY 11379",11379,3,2,1780
+CONDO,320,https://www.zillow.com/homedetails/648-Grand-St-APT-4B-Brooklyn-NY-11211/335699891_zpid/,FOR_SALE,"$499,000","648 Grand St APT 4B, Brooklyn, NY 11211",11211,2,1,0
+CONDO,153,https://www.zillow.com/homedetails/21-47-33rd-2B-Astoria-NY-11105/2092626289_zpid/,FOR_SALE,"$318,900","21-47 33rd #2B, Astoria, NY 11105",11105,2,1,0
+SINGLE_FAMILY,210,https://www.zillow.com/homedetails/127-Alaska-St-Staten-Island-NY-10310/32275920_zpid/,FOR_SALE,"$474,000","127 Alaska St, Staten Island, NY 10310",10310,3,3,1140
+CONDO,187,https://www.zillow.com/homedetails/941-Jerome-Ave-APT-3B-Bronx-NY-10452/244475283_zpid/,FOR_SALE,"$145,000","941 Jerome Avenue UNIT 3B, Bronx, NY 10452",10452,1,2,650
+CONDO,320,https://www.zillow.com/homedetails/414-61st-St-APT-4A-Brooklyn-NY-11220/2088421001_zpid/,FOR_SALE,"$330,000","414 61st St APT 4A, Brooklyn, NY 11220",11220,2,1,0
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/2866-Middletown-Rd-Bronx-NY-10461/29842609_zpid/,FOR_SALE,"$749,000","2866 Middletown Road, Bronx, NY 10461",10461,3,2,1320
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/208-Ilyssa-Way-Staten-Island-NY-10312/32360142_zpid/,FOR_SALE,"$549,888","208 Ilyssa Way, Staten Island, NY 10312",10312,3,4,1679
+SINGLE_FAMILY,91,https://www.zillow.com/homedetails/95-Montgomery-Ave-Staten-Island-NY-10301/2126506248_zpid/,FOR_SALE,"$160,000","95 Montgomery Ave, Staten Island, NY 10301",10301,,0,5000
+SINGLE_FAMILY,32,https://www.zillow.com/homedetails/1017-Rhinelander-Ave-Bronx-NY-10462/29817656_zpid/,FOR_SALE,"$749,000","1017 Rhinelander Avenue, Bronx, NY 10462",10462,3,3,1580
+MULTI_FAMILY,103,https://www.zillow.com/homedetails/280-Hancock-St-Brooklyn-NY-11216/30610462_zpid/,FOR_SALE,"$1,299,000","280 Hancock St, Brooklyn, NY 11216",11216,7,5,2700
+CONDO,68,https://www.zillow.com/homedetails/10-Leonard-St-APT-6S-New-York-NY-10013/122062652_zpid/,FOR_SALE,"$3,195,000","10 Leonard St APT 6S, New York, NY 10013",10013,3,3,1900
+TOWNHOUSE,70,https://www.zillow.com/homedetails/239-Finley-Ave-Staten-Island-NY-10306/32335185_zpid/,FOR_SALE,"$548,888","239 Finley Ave, Staten Island, NY 10306",10306,2,2,1080
+CONDO,157,https://www.zillow.com/homedetails/226-29-Manor-Rd-L-Queens-Village-NY-11427/2072485651_zpid/,FOR_SALE,"$269,999","226-29 Manor Rd #L, Queens Village, NY 11427",11427,2,1,0
+CONDO,14,https://www.zillow.com/homedetails/1480-Thieriot-Ave-APT-5L-Bronx-NY-10460/439603735_zpid/,FOR_SALE,"$320,000","1480 Thieriot Avenue UNIT 5L, Bronx, NY 10460",10460,3,2,1100
+SINGLE_FAMILY,24,https://www.zillow.com/homedetails/1562-Allerton-Ave-Bronx-NY-10469/29822266_zpid/,FOR_SALE,"$699,000","1562 Allerton Avenue, Bronx, NY 10469",10469,3,3,1408
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/80-24-Penelope-Ave-Middle-Village-NY-11379/2061245796_zpid/,FOR_SALE,"$1,349,000","80-24 Penelope Ave, Middle Village, NY 11379",11379,3,3,0
+CONDO,140,https://www.zillow.com/homedetails/235-E-49th-St-APT-1CD-New-York-NY-10017/72524350_zpid/,FOR_SALE,"$949,000","235 E 49th St APT 1CD, New York, NY 10017",10017,2,2,2316
+CONDO,41,https://www.zillow.com/homedetails/21-16-35th-St-1F-Astoria-NY-11105/2077592710_zpid/,FOR_SALE,"$345,000","21-16 35th St #1F, Astoria, NY 11105",11105,2,1,800
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/10921-167th-St-Jamaica-NY-11433/32139172_zpid/,FOR_SALE,"$795,000","109-21 167th Street, Jamaica, NY 11433",11433,3,3,
+SINGLE_FAMILY,25,https://www.zillow.com/homedetails/24120-83rd-Ave-Jamaica-NY-11426/32090367_zpid/,FOR_SALE,"$735,000","241-20 83rd Avenue, Bellerose, NY 11426",11426,3,2,948
+CONDO,320,https://www.zillow.com/homedetails/110-Cambridge-Pl-APT-3C-Brooklyn-NY-11238/245067516_zpid/,FOR_SALE,"$675,000","110 Cambridge Pl APT 3C, Brooklyn, NY 11238",11238,3,1,940
+CONDO,320,https://www.zillow.com/homedetails/110-Cambridge-Pl-APT-3C-Brooklyn-NY-11238/245067516_zpid/,FOR_SALE,"$675,000","110 Cambridge Pl APT 3C, Brooklyn, NY 11238",11238,3,1,940
+CONDO,55,https://www.zillow.com/homedetails/638-Warren-St-APT-4L-Brooklyn-NY-11217/440924779_zpid/,FOR_SALE,"$550,000","638 Warren St APT 4L, Brooklyn, NY 11217",11217,1,1,0
+CONDO,11,https://www.zillow.com/homedetails/2575-Palisade-Ave-APT-1L-Bronx-NY-10463/244467262_zpid/,FOR_SALE,"$595,000","2575 Palisade Ave APT 1L, Bronx, NY 10463",10463,3,2,1500
+CONDO,55,https://www.zillow.com/homedetails/1278-Saint-Marks-Ave-3-Brooklyn-NY-11213/120730006_zpid/,FOR_SALE,"$650,000","1278 Saint Marks Ave #3, Brooklyn, NY 11213",11213,3,1,1319
+CONDO,134,https://www.zillow.com/homedetails/120-Pulaski-St-2A-Brooklyn-NY-11206/245027060_zpid/,FOR_SALE,"$949,900","120 Pulaski St #2A, Brooklyn, NY 11206",11206,2,2,1150
+CONDO,7,https://www.zillow.com/homedetails/68-20-Burns-St-B2-Forest-Hills-NY-11375/2077138413_zpid/,FOR_SALE,"$439,000","68-20 Burns Street UNIT B2, Forest Hills, NY 11375",11375,2,1,
+CONDO,18,https://www.zillow.com/homedetails/92-Prospect-Park-W-APT-2C-Brooklyn-NY-11215/245050034_zpid/,FOR_SALE,"$825,000","92 Prospect Park W APT 2C, Brooklyn, NY 11215",11215,2,1,0
+CONDO,102,https://www.zillow.com/homedetails/907-Prospect-Ave-B-Bronx-NY-10459/29779781_zpid/,FOR_SALE,"$338,000","907 Prospect Avenue UNIT B, New York 10459",10459,3,2,1072
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/723-King-Ave-Bronx-NY-10464/29851269_zpid/,FOR_SALE,"$635,000","723 King Ave, Bronx, NY 10464",10464,3,2,1400
+CONDO,11,https://www.zillow.com/homedetails/410-Central-Park-W-1D2D-New-York-NY-10025/112561153_zpid/,FOR_SALE,"$1,795,000","410 Central Park W #1D2D, New York, NY 10025",10025,3,2,1700
+SINGLE_FAMILY,11,https://www.zillow.com/homedetails/16327-86th-St-Jamaica-NY-11414/32216260_zpid/,FOR_SALE,"$1,100,000","163-27 86th Street, Howard Beach, NY 11414",11414,4,4,
+MULTI_FAMILY,77,https://www.zillow.com/homedetails/21-Sprague-Ave-Staten-Island-NY-10307/32375141_zpid/,FOR_SALE,"$1,650,000","21 Sprague Ave, Staten Island, NY 10307",10307,6,4,5347
+MULTI_FAMILY,124,https://www.zillow.com/homedetails/1947-Hendrickson-St-Brooklyn-NY-11234/30785428_zpid/,FOR_SALE,"$928,000","1947 Hendrickson St, Brooklyn, NY 11234",11234,3,4,1600
+SINGLE_FAMILY,104,https://www.zillow.com/homedetails/6-32-150th-Pl-Whitestone-NY-11357/2080339355_zpid/,FOR_SALE,"$1,748,888","6-32 150th Place, Whitestone, NY 11357",11357,3,4,2224
+CONDO,11,https://www.zillow.com/homedetails/18-75-Corporal-Kennedy-St-UNIT-2F-Bayside-NY-11360/442611776_zpid/,FOR_SALE,"$355,000","18-75 Corporal Kennedy St UNIT 2F, Bayside, NY 11360",11360,2,2,1282
+MULTI_FAMILY,14,https://www.zillow.com/homedetails/3272-43rd-St-Long-Island-City-NY-11103/31941300_zpid/,FOR_SALE,"$1,149,000","3272 43rd St, Long Island City, NY 11103",11103,2,2,1500
+SINGLE_FAMILY,557,https://www.zillow.com/homedetails/267-Dover-St-Brooklyn-NY-11235/30790915_zpid/,FOR_SALE,"$2,600,000","267 Dover St, Brooklyn, NY 11235",11235,4,5,4300
+MULTI_FAMILY,13,https://www.zillow.com/homedetails/14626-25th-Dr-Flushing-NY-11354/32033188_zpid/,FOR_SALE,"$1,550,000","146-26 25th Drive, Flushing, NY 11354",11354,6,4,2140
+CONDO,76,https://www.zillow.com/homedetails/235-E-22nd-St-APT-4N-New-York-NY-10010/244794813_zpid/,FOR_SALE,"$385,000","235 E 22nd St APT 4N, New York, NY 10010",10010,0,1,0
+CONDO,55,https://www.zillow.com/homedetails/90-8th-Ave-SUITE-1B-Brooklyn-NY-11215/245001637_zpid/,FOR_SALE,"$850,000","90 8th Ave SUITE 1B, Brooklyn, NY 11215",11215,3,1,1200
+CONDO,7,https://www.zillow.com/homedetails/9411-69th-Ave-APT-307-Flushing-NY-11375/245468260_zpid/,FOR_SALE,"$399,000","9411 69th Ave APT 307, Flushing, NY 11375",11375,2,1,1000
+MULTI_FAMILY,11,https://www.zillow.com/homedetails/3402-Avenue-J-Brooklyn-NY-11210/30752796_zpid/,FOR_SALE,"$1,500,000","3402 Avenue J, Midwood, NY 11210",11210,8,4,2350
+CONDO,32,https://www.zillow.com/homedetails/220-E-82nd-St-APT-2RE-New-York-NY-10028/79506186_zpid/,FOR_SALE,"$425,000","220 E 82nd St APT 2RE, New York, NY 10028",10028,1,1,0
+SINGLE_FAMILY,14,https://www.zillow.com/homedetails/274-Gordon-St-Staten-Island-NY-10304/143699215_zpid/,FOR_SALE,"$688,888","274 Gordon St, Staten Island, NY 10304",10304,4,3,1600
+MULTI_FAMILY,21,https://www.zillow.com/homedetails/1174-Bay-Ridge-Pkwy-Brooklyn-NY-11228/30705857_zpid/,FOR_SALE,"$1,899,000","1174 Bay Ridge Pkwy, Brooklyn, NY 11228",11228,6,3,3120
+SINGLE_FAMILY,8,https://www.zillow.com/homedetails/113-Clawson-St-Staten-Island-NY-10306/32330344_zpid/,FOR_SALE,"$675,000","113 Clawson St, Staten Island, NY 10306",10306,2,1,1014
+APARTMENT,121,https://www.zillow.com/homedetails/1100-Clove-Rd-APT-3-D-Staten-Island-NY-10301/217911298_zpid/,FOR_SALE,"$175,000","1100 Clove Rd APT 3-D, Staten Island, NY 10301",10301,2,1,770
+MULTI_FAMILY,76,https://www.zillow.com/homedetails/362-Senator-St-Brooklyn-NY-11220/30691684_zpid/,FOR_SALE,"$1,750,000","362 Senator St, Brooklyn, NY 11220",11220,5,3,2880
+CONDO,48,https://www.zillow.com/homedetails/208-E-84th-St-APT-1A-New-York-NY-10028/244756869_zpid/,FOR_SALE,"$499,995","208 E 84th St APT 1A, New York, NY 10028",10028,1,1,0
+CONDO,18,https://www.zillow.com/homedetails/2011-Pearson-St-81F-Brooklyn-NY-11234/325791595_zpid/,FOR_SALE,"$230,000","2011 Pearson St #81F, Brooklyn, NY 11234",11234,2,1,750
+MULTI_FAMILY,221,https://www.zillow.com/homedetails/2427-Stuart-St-Brooklyn-NY-11229/30793113_zpid/,FOR_SALE,"$617,000","2427 Stuart Street, Brooklyn, NY 11229",11229,4,2,
+CONDO,13,https://www.zillow.com/homedetails/418-E-59th-St-PENTHOUSE-New-York-NY-10022/442558488_zpid/,FOR_SALE,"$2,995,000","418 E 59th St #PENTHOUSE, New York, NY 10022",10022,3,3,2100
+CONDO,11,https://www.zillow.com/homedetails/44-Garfield-Pl-3-Brooklyn-NY-11215/442610306_zpid/,FOR_SALE,"$1,995,000","44 Garfield Pl #3, Brooklyn, NY 11215",11215,3,2,1187
+MULTI_FAMILY,462,https://www.zillow.com/homedetails/2918-Brookhaven-Ave-Far-Rockaway-NY-11691/79743648_zpid/,FOR_SALE,"$320,000","2918 Brookhaven Ave, Far Rockaway, NY 11691",11691,6,2,0
+CONDO,70,https://www.zillow.com/homedetails/88-08-151st-Ave-1E-Queens-NY-11414/336857471_zpid/,FOR_SALE,"$269,000","88-08 151st Ave #1E, Queens, NY 11414",11414,2,1,0
+CONDO,27,https://www.zillow.com/homedetails/834-Riverside-Dr-APT-6C-New-York-NY-10032/244902003_zpid/,FOR_SALE,"$349,000","834 Riverside Dr APT 6C, New York, NY 10032",10032,2,1,750
+SINGLE_FAMILY,72,https://www.zillow.com/homedetails/470-Broome-St-4S-New-York-NY-10013/97537948_zpid/,FOR_SALE,"$5,495,000","470 Broome St #4S, New York, NY 10013",10013,2,3,2000
+SINGLE_FAMILY,18,https://www.zillow.com/homedetails/146-10th-St-Staten-Island-NY-10306/32337167_zpid/,FOR_SALE,"$738,000","146 10th Street, Staten Island, NY 10306",10306,3,1,1440
+CONDO,70,https://www.zillow.com/homedetails/138-E-36th-St-APT-9C-New-York-NY-10016/244751027_zpid/,FOR_SALE,"$975,000","138 E 36th St APT 9C, New York, NY 10016",10016,3,3,0
+CONDO,83,https://www.zillow.com/homedetails/1910-Pelham-Pkwy-S-APT-5C-Bronx-NY-10461/215952187_zpid/,FOR_SALE,"$279,500","1910 Pelham Parkway UNIT 5C, New York 10461",10461,2,2,1100
+CONDO,48,https://www.zillow.com/homedetails/6748-Springfield-Blvd-FLOOR-1-Oakland-Gardens-NY-11364/441674998_zpid/,FOR_SALE,"$285,000","6748 Springfield Boulevard 1 FL, Bayside, NY 11364",11364,2,1,
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/2242-Gleason-Ave-Bronx-NY-10462/29797237_zpid/,FOR_SALE,"$750,000","2242 Gleason Avenue, Bronx, NY 10462",10462,3,2,1820
+CONDO,10,https://www.zillow.com/homedetails/447-W-45th-St-New-York-NY-10036/442668524_zpid/,FOR_SALE,"$685,000","447 W 45th St, New York, NY 10036",10036,1,1,670
+MULTI_FAMILY,29,https://www.zillow.com/homedetails/3036-Coddington-Ave-Bronx-NY-10461/29842079_zpid/,FOR_SALE,"$879,000","3036 Coddington Avenue, Bronx, NY 10461",10461,5,3,
+CONDO,28,https://www.zillow.com/homedetails/159-W-24th-St-APT-5B-New-York-NY-10011/117451102_zpid/,FOR_SALE,"$1,399,000","159 W 24th St APT 5B, New York, NY 10011",10011,2,2,1093
+SINGLE_FAMILY,21,https://www.zillow.com/homedetails/1828-Narragansett-Ave-Bronx-NY-10461/29816361_zpid/,FOR_SALE,"$759,000","1828 Narragansett Avenue, Bronx, NY 10461",10461,3,2,1833
+SINGLE_FAMILY,73,https://www.zillow.com/homedetails/134-Montreal-Ave-Staten-Island-NY-10306/32343622_zpid/,FOR_SALE,"$664,900","134 Montreal Ave, Staten Island, NY 10306",10306,3,2,1384
+CONDO,48,https://www.zillow.com/homedetails/220-Central-Park-S-APT-55B-New-York-NY-10019/321906076_zpid/,FOR_SALE,"$37,500,000","220 Central Park S APT 55B, New York, NY 10019",10019,3,4,3211
+SINGLE_FAMILY,6,https://www.zillow.com/homedetails/2158-Beverly-Rd-Brooklyn-NY-11226/442730258_zpid/,FOR_SALE,"$799,950","2158 Beverly Rd, Brooklyn, NY 11226",11226,5,2,1900
+CONDO,31,https://www.zillow.com/homedetails/140-01-45th-Ave-UNIT-6G-Flushing-NY-11355/442154856_zpid/,FOR_SALE,"$409,998","140-01 45th Ave UNIT 6G, Flushing, NY 11355",11355,3,2,1150
+SINGLE_FAMILY,39,https://www.zillow.com/homedetails/104-Monahan-Ave-Staten-Island-NY-10314/339889552_zpid/,FOR_SALE,"$749,026","104 Monahan Ave, Staten Island, NY 10314",10314,3,3,1929
+CONDO,68,https://www.zillow.com/homedetails/169-Allen-St-APT-3B-New-York-NY-10002/244751155_zpid/,FOR_SALE,"$659,000","169 Allen St APT 3B, New York, NY 10002",10002,2,1,0
+CONDO,241,https://www.zillow.com/homedetails/328-E-94th-St-APT-4C-New-York-NY-10128/244818537_zpid/,FOR_SALE,"$425,000","328 E 94th St APT 4C, New York, NY 10128",10128,2,1,0
+CONDO,108,https://www.zillow.com/homedetails/154-W-77th-St-APT-4R-New-York-NY-10024/244857960_zpid/,FOR_SALE,"$499,000","154 W 77th St APT 4R, New York, NY 10024",10024,1,1,0
+SINGLE_FAMILY,45,https://www.zillow.com/homedetails/73-Whitman-Ave-Staten-Island-NY-10308/32346463_zpid/,FOR_SALE,"$549,999","73 Whitman Ave, Staten Island, NY 10308",10308,2,2,1144
+CONDO,66,https://www.zillow.com/homedetails/200-Rector-Pl-APT-35E-New-York-NY-10280/31492052_zpid/,FOR_SALE,"$1,818,181","200 Rector Pl UNIT 35E, New York, NY 10280",10280,2,3,1174
+CONDO,189,https://www.zillow.com/homedetails/631-Academy-St-APT-5A-New-York-NY-10034/2059137631_zpid/,FOR_SALE,"$349,000","631 Academy St APT 5A, New York, NY 10034",10034,2,1,850
+CONDO,131,https://www.zillow.com/homedetails/1800-Ocean-Pkwy-APT-14E-Brooklyn-NY-11223/324235664_zpid/,FOR_SALE,"$359,000","1800 Ocean Parkway UNIT 14E, Gravesend, NY 11223",11223,2,1,
+SINGLE_FAMILY,320,https://www.zillow.com/homedetails/10-E-64th-St-New-York-NY-10065/31533428_zpid/,FOR_SALE,"$19,500,000","10 E 64th St, New York, NY 10065",10065,5,6,8725
+SINGLE_FAMILY,31,https://www.zillow.com/homedetails/4428-Bedford-Ave-Brooklyn-NY-11229/30747165_zpid/,FOR_SALE,"$899,000","4428 Bedford Ave, Brooklyn, NY 11229",11229,4,3,1897
+TOWNHOUSE,133,https://www.zillow.com/homedetails/57-E-10th-St-Brooklyn-NY-11218/30665825_zpid/,FOR_SALE,"$1,995,000","57 E 10th St, Brooklyn, NY 11218",11218,4,2,3300
+MULTI_FAMILY,63,https://www.zillow.com/homedetails/99-59-Lockwood-Ct-Howard-Beach-NY-11414/440741596_zpid/,FOR_SALE,"$450,000","99-59 Lockwood Court, Howard Beach, NY 11414",11414,2,2,1408
+SINGLE_FAMILY,19,https://www.zillow.com/homedetails/32-Overhill-Rd-Forest-Hills-NY-11375/32005740_zpid/,FOR_SALE,"$1,998,000","32 Overhill Rd, Forest Hills, NY 11375",11375,4,4,0
+CONDO,104,https://www.zillow.com/homedetails/4901-Henry-Hudson-Pkwy-5J-Bronx-NY-10471/2068780599_zpid/,FOR_SALE,"$415,000","4901 Henry Hudson Parkway UNIT 5J, Bronx, NY 10471",10471,3,2,1200
+CONDO,159,https://www.zillow.com/homedetails/234-E-35th-St-APT-3-New-York-NY-10016/2066825711_zpid/,FOR_SALE,"$600,000","234 E 35th St APT 3, New York, NY 10016",10016,2,1,0
+SINGLE_FAMILY,126,https://www.zillow.com/homedetails/54-Bond-St-PENTHOUSE-New-York-NY-10012/401899171_zpid/,FOR_SALE,"$29,995,000","54 Bond St #PENTHOUSE, New York, NY 10012",10012,5,5,4863
+SINGLE_FAMILY,18,https://www.zillow.com/homedetails/68-Carlyle-Grn-Staten-Island-NY-10312/32362189_zpid/,FOR_SALE,"$700,000","68 Carlyle Grn, Staten Island, NY 10312",10312,4,2,1850
+MULTI_FAMILY,69,https://www.zillow.com/homedetails/499-E-23rd-St-Brooklyn-NY-11226/30669487_zpid/,FOR_SALE,"$1,500,000","499 E 23rd St, Brooklyn, NY 11226",11226,6,3,3240
+TOWNHOUSE,51,https://www.zillow.com/homedetails/110-19-64th-Rd-UNIT-1-Forest-Hills-NY-11375/441747272_zpid/,FOR_SALE,"$738,888","110-19 64th Road UNIT 1, Forest Hills, NY 11375",11375,3,2,
+CONDO,140,https://www.zillow.com/homedetails/149-Clinton-Ave-APT-2C-Brooklyn-NY-11205/83123012_zpid/,FOR_SALE,"$700,000","149 Clinton Ave APT 2C, Brooklyn, NY 11205",11205,2,1,0
+MULTI_FAMILY,139,https://www.zillow.com/homedetails/119A-Campbell-Ave-Staten-Island-NY-10310/350778165_zpid/,FOR_SALE,"$399,000","119A Campbell Ave, Staten Island, NY 10310",10310,3,2,1232
+MULTI_FAMILY,28,https://www.zillow.com/homedetails/135-Sommer-Ave-Staten-Island-NY-10314/442124468_zpid/,FOR_SALE,"$1,249,900","135 Sommer Ave, Staten Island, NY 10314",10314,4,5,2473
+SINGLE_FAMILY,81,https://www.zillow.com/homedetails/23-Savo-Ln-Staten-Island-NY-10305/32322799_zpid/,FOR_SALE,"$650,000","23 Savo Ln, Staten Island, NY 10305",10305,2,2,1232
+CONDO,126,https://www.zillow.com/homedetails/77-Perry-St-APT-3D-New-York-NY-10014/92344120_zpid/,FOR_SALE,"$775,000","77 Perry St APT 3D, New York, NY 10014",10014,0,1,0
+SINGLE_FAMILY,77,https://www.zillow.com/homedetails/37-Dreyer-Ave-A-Staten-Island-NY-10314/2064678948_zpid/,FOR_SALE,"$425,000","37 Dreyer Ave #A, Staten Island, NY 10314",10314,3,3,1887
+SINGLE_FAMILY,87,https://www.zillow.com/homedetails/625-Clarence-Ave-Bronx-NY-10465/29846444_zpid/,FOR_SALE,"$699,000","625 Clarence Ave, Bronx, NY 10465",10465,5,3,0
+CONDO,118,https://www.zillow.com/homedetails/89-15-Parsons-Blvd-4D-Jamaica-NY-11432/80390189_zpid/,FOR_SALE,"$199,000","89-15 Parsons Blvd #4D, Jamaica, NY 11432",11432,1,1,600
+TOWNHOUSE,39,https://www.zillow.com/homedetails/6415-78th-St-Flushing-NY-11379/31996390_zpid/,FOR_SALE,"$899,000","64-15 78th Street, Middle Village, NY 11379",11379,3,2,
+CONDO,110,https://www.zillow.com/homedetails/6712-Yellowstone-Blvd-APT-B1-Flushing-NY-11375/219851083_zpid/,FOR_SALE,"$315,000","6712 Yellowstone Blvd APT B1, Flushing, NY 11375",11375,2,1,0
+TOWNHOUSE,70,https://www.zillow.com/homedetails/133-Manhattan-Ave-New-York-NY-10025/2115271608_zpid/,FOR_SALE,"$3,750,000","133 Manhattan Ave, New York, NY 10025",10025,4,4,2750
+CONDO,151,https://www.zillow.com/homedetails/135-W-4th-St-APT-3E-New-York-NY-10012/80003765_zpid/,FOR_SALE,"$2,700,000","135 W 4th St APT 3E, New York, NY 10012",10012,2,2,2037
+CONDO,21,https://www.zillow.com/homedetails/9-05-162nd-St-APT-8A-Whitestone-NY-11357/89668952_zpid/,FOR_SALE,"$469,000","9-05 162 St. UNIT 8A, Beechhurst, NY 11357",11357,3,2,1300
+TOWNHOUSE,20,https://www.zillow.com/homedetails/800-W-231st-St-Bronx-NY-10463/29851884_zpid/,FOR_SALE,"$3,600,000","800 W 231st St, Bronx, NY 10463",10463,5,6,3225
+CONDO,105,https://www.zillow.com/homedetails/166-31-9th-Ave-4B-Whitestone-NY-11357/2067775397_zpid/,FOR_SALE,"$429,888","166-31 9th Ave #4B, Whitestone, NY 11357",11357,3,1,0
+TOWNHOUSE,11,https://www.zillow.com/homedetails/798-Tysens-Ln-Staten-Island-NY-10306/32336224_zpid/,FOR_SALE,"$749,800","798 Tysens Ln, Staten Island, NY 10306",10306,3,2,1248
+SINGLE_FAMILY,88,https://www.zillow.com/homedetails/211-Beverley-Rd-Brooklyn-NY-11218/30673156_zpid/,FOR_SALE,"$1,398,000","211 Beverley Rd, Brooklyn, NY 11218",11218,3,2,1435
+MULTI_FAMILY,102,https://www.zillow.com/homedetails/638-Hinsdale-St-Brooklyn-NY-11207/30636335_zpid/,FOR_SALE,"$437,500","638 Hinsdale St, Brooklyn, NY 11207",11207,6,2,2120
+CONDO,13,https://www.zillow.com/homedetails/132-03-Sanford-Ave-8-M-Flushing-NY-11355/79730438_zpid/,FOR_SALE,"$730,000","132-03 Sanford Avenue UNIT 8M, Flushing, NY 11355",11355,4,2,866
+CONDO,63,https://www.zillow.com/homedetails/406-Midwood-St-2A-Brooklyn-NY-11225/348245070_zpid/,FOR_SALE,"$799,000","406 Midwood St #2A, Brooklyn, NY 11225",11225,2,2,907
+CONDO,15,https://www.zillow.com/homedetails/530-E-76th-St-30AB-New-York-NY-10021/442521765_zpid/,FOR_SALE,"$1,995,000","530 E 76th St #30AB, New York, NY 10021",10021,3,4,1800
+CONDO,209,https://www.zillow.com/homedetails/125-W-56th-St-APT-4B-New-York-NY-10019/72519013_zpid/,FOR_SALE,"$499,000","125 W 56th St APT 4B, New York, NY 10019",10019,1,1,700
+TOWNHOUSE,39,https://www.zillow.com/homedetails/15127-12th-Ave-Flushing-NY-11357/32027751_zpid/,FOR_SALE,"$819,000","151-27 12th Avenue, Whitestone, NY 11357",11357,3,2,
+CONDO,91,https://www.zillow.com/homedetails/153-E-57th-St-APT-6L-New-York-NY-10022/244849732_zpid/,FOR_SALE,"$425,000","153 E 57th St APT 6L, New York, NY 10022",10022,1,1,0
+SINGLE_FAMILY,15,https://www.zillow.com/homedetails/7926-69th-Rd-Flushing-NY-11379/32017386_zpid/,FOR_SALE,"$850,000","7926 69th Road, Middle Village, NY 11379",11379,4,3,1152
+CONDO,133,https://www.zillow.com/homedetails/100-W-72nd-St-APT-5D-New-York-NY-10023/244717468_zpid/,FOR_SALE,"$595,000","100 W 72nd St APT 5D, New York, NY 10023",10023,1,1,0
+SINGLE_FAMILY,76,https://www.zillow.com/homedetails/49-16-Annadale-Ln-Little-Neck-NY-11362/32095760_zpid/,FOR_SALE,"$2,999,000","49-16 Annadale Lane, Little Neck, NY 11362",11362,5,6,6600
+CONDO,170,https://www.zillow.com/homedetails/217-W-57th-St-120-New-York-NY-10019/338594610_zpid/,FOR_SALE,"$59,500,000","217 W 57th St #120, New York, NY 10019",10019,5,6,7074
+SINGLE_FAMILY,76,https://www.zillow.com/homedetails/3007-Netherland-Ave-Bronx-NY-10463/29851708_zpid/,FOR_SALE,"$1,700,000","3007 Netherland Ave, Bronx, NY 10463",10463,3,4,2682
+CONDO,14,https://www.zillow.com/homedetails/305-W-18th-St-APT-6A-New-York-NY-10011/439968558_zpid/,FOR_SALE,"$799,000","305 W 18th St APT 6A, New York, NY 10011",10011,2,1,957
+TOWNHOUSE,87,https://www.zillow.com/homedetails/226-Kingsland-Ave-APT-1R-Brooklyn-NY-11222/439816261_zpid/,FOR_SALE,"$1,950,000","226 Kingsland Ave APT 1R, Brooklyn, NY 11222",11222,6,6,4875
+SINGLE_FAMILY,32,https://www.zillow.com/homedetails/35-59-222nd-St-Bayside-NY-11361/32061418_zpid/,FOR_SALE,"$1,218,000","35-59 222nd St, Bayside, NY 11361",11361,3,3,1200
+SINGLE_FAMILY,4,https://www.zillow.com/homedetails/76-Seaver-Ave-Staten-Island-NY-10306/32328583_zpid/,FOR_SALE,"$728,000","76 Seaver Ave, Staten Island, NY 10306",10306,3,3,1312
+CONDO,31,https://www.zillow.com/homedetails/30-Bay-29th-St-APT-6L-Brooklyn-NY-11214/111746678_zpid/,FOR_SALE,"$475,000","30 Bay 29th St APT 6L, Brooklyn, NY 11214",11214,2,2,1150
+MULTI_FAMILY,28,https://www.zillow.com/homedetails/17-S-Greenleaf-Ave-Staten-Island-NY-10314/32280791_zpid/,FOR_SALE,"$848,000","17 S Greenleaf Ave, Staten Island, NY 10314",10314,3,2,1520
+CONDO,320,https://www.zillow.com/homedetails/430-W-46th-St-5E-New-York-NY-10036/2078266158_zpid/,FOR_SALE,"$429,000","430 W 46th St #5E, New York, NY 10036",10036,1,1,686
+CONDO,200,https://www.zillow.com/homedetails/54-40-Little-Neck-Pkwy-6-L-Little-Neck-NY-11362/79735009_zpid/,FOR_SALE,"$258,000","54-40 Little Neck Pkwy UNIT 6L, Little Neck, NY 11362",11362,1,1,
+CONDO,4,https://www.zillow.com/homedetails/1271-51st-St-3W-Brooklyn-NY-11234/442769904_zpid/,FOR_SALE,"$250,000","1271 51st St #3W, Brooklyn, NY 11234",11234,1,1,0
+CONDO,69,https://www.zillow.com/homedetails/85-Livingston-St-16O-Brooklyn-NY-11201/79723156_zpid/,FOR_SALE,"$530,000","85 Livingston St #16O, Brooklyn, NY 11201",11201,1,1,0
+CONDO,200,https://www.zillow.com/homedetails/311-E-75th-St-APT-2-A-New-York-NY-10021/244705462_zpid/,FOR_SALE,"$279,000","311 E 75th St APT 2-A, New York, NY 10021",10021,0,1,0
+SINGLE_FAMILY,64,https://www.zillow.com/homedetails/3422-Jordan-St-Flushing-NY-11358/32059702_zpid/,FOR_SALE,"$899,000","34-22 Jordan Street, Flushing, NY 11358",11358,2,2,
+CONDO,41,https://www.zillow.com/homedetails/41-Perry-St-APT-6C-New-York-NY-10014/119980998_zpid/,FOR_SALE,"$750,000","41 Perry St APT 6C, New York, NY 10014",10014,0,1,0
+TOWNHOUSE,76,https://www.zillow.com/homedetails/114-Waverly-Pl-New-York-NY-10011/31498214_zpid/,FOR_SALE,"$22,850,000","114 Waverly Pl, New York, NY 10011",10011,5,7,6800
+SINGLE_FAMILY,18,https://www.zillow.com/homedetails/154-Summit-Pl-Bronx-NY-10463/29787218_zpid/,FOR_SALE,"$649,000","154 Summit Place, Bronx, NY 10463",10463,3,2,940
+CONDO,18,https://www.zillow.com/homedetails/421-Hudson-St-APT-606-New-York-NY-10014/31499649_zpid/,FOR_SALE,"$2,900,000","421 Hudson St APT 606, New York, NY 10014",10014,2,2,0
+SINGLE_FAMILY,26,https://www.zillow.com/homedetails/33-Loring-Ave-Staten-Island-NY-10312/32358688_zpid/,FOR_SALE,"$674,900","33 Loring Ave, Staten Island, NY 10312",10312,3,3,1368
+CONDO,193,https://www.zillow.com/homedetails/303-W-122nd-St-APT-46-New-York-NY-10027/244772837_zpid/,FOR_SALE,"$299,000","303 W 122nd St APT 46, New York, NY 10027",10027,2,1,0
+SINGLE_FAMILY,70,https://www.zillow.com/homedetails/64-Winham-Ave-Staten-Island-NY-10306/32334789_zpid/,FOR_SALE,"$568,000","64 Winham Ave, Staten Island, NY 10306",10306,3,2,836
+SINGLE_FAMILY,15,https://www.zillow.com/homedetails/7025-64th-Pl-Glendale-NY-11385/32013683_zpid/,FOR_SALE,"$799,000","70-25 64th Pl., Glendale, NY 11385",11385,3,2,
+SINGLE_FAMILY,27,https://www.zillow.com/homedetails/7328-53rd-Rd-Flushing-NY-11378/31984812_zpid/,FOR_SALE,"$880,000","7328 53rd Rd, Flushing, NY 11378",11378,3,2,0
+SINGLE_FAMILY,45,https://www.zillow.com/homedetails/11432-131st-St-Jamaica-NY-11420/32173428_zpid/,FOR_SALE,"$879,000","11432 131st St, Jamaica, NY 11420",11420,5,3,0
+CONDO,320,https://www.zillow.com/homedetails/76-01-113th-St-UNIT-PENTHOUSE-D-Forest-Hills-NY-11375/442154227_zpid/,FOR_SALE,"$940,000","76-01 113th St UNIT PENTHOUSE D, Forest Hills, NY 11375",11375,4,3,1600
+CONDO,59,https://www.zillow.com/homedetails/66-W-84th-St-APT-4A-New-York-NY-10024/244853050_zpid/,FOR_SALE,"$750,000","66 W 84th St APT 4A, New York, NY 10024",10024,2,1,0
+SINGLE_FAMILY,21,https://www.zillow.com/homedetails/102-27-216th-St-Queens-Village-NY-11429/2063063443_zpid/,FOR_SALE,"$589,900","102-27 216th Street, Queens Village, NY 11429",11429,4,2,1104
+SINGLE_FAMILY,28,https://www.zillow.com/homedetails/91-30-Park-Ln-S-Woodhaven-NY-11421/346759292_zpid/,FOR_SALE,"$768,000","91-30 Park Ln S, Woodhaven, NY 11421",11421,4,3,1230
+CONDO,10,https://www.zillow.com/homedetails/250-Seeley-St-APT-15-Brooklyn-NY-11218/113193903_zpid/,FOR_SALE,"$1,100,000","250 Seeley St APT 15, Brooklyn, NY 11218",11218,3,1,950
+CONDO,20,https://www.zillow.com/homedetails/7-E-13th-St-3F-New-York-NY-10003/244738569_zpid/,FOR_SALE,"$999,500","7 E 13th St #3F, New York, NY 10003",10003,1,1,1000
+CONDO,4,https://www.zillow.com/homedetails/37-32-89th-St-5B-Jackson-Heights-NY-11372/2066958704_zpid/,FOR_SALE,"$599,000","37-32 89th St #5B, Jackson Heights, NY 11372",11372,2,1,0
+SINGLE_FAMILY,129,https://www.zillow.com/homedetails/4662-Grosvenor-Ave-Bronx-NY-10471/29852764_zpid/,FOR_SALE,"$2,950,000","4662 Grosvenor Ave, Bronx, NY 10471",10471,4,4,0
+CONDO,55,https://www.zillow.com/homedetails/105-E-38th-St-FLOOR-PENTHOUSE-New-York-NY-10016/439968310_zpid/,FOR_SALE,"$2,450,000","105 E 38th St FLOOR PENTHOUSE, New York, NY 10016",10016,4,5,3000
+CONDO,3,https://www.zillow.com/homedetails/39-Hemlock-Ct-39-Staten-Island-NY-10309/442780603_zpid/,FOR_SALE,"$678,000","39 Hemlock Ct #39, Staten Island, NY 10309",10309,3,4,1661
+MULTI_FAMILY,0,https://www.zillow.com/homedetails/73-24-71st-Pl-Ridgewood-NY-11385/2056789879_zpid/,FOR_SALE,"$888,000","73-24 71st Pl, Ridgewood, NY 11385",11385,5,3,0
+MULTI_FAMILY,145,https://www.zillow.com/homedetails/19317-Station-Rd-Flushing-NY-11358/32045026_zpid/,FOR_SALE,"$750,000","193-17 Station Road, Flushing, NY 11358",11358,2,2,
+SINGLE_FAMILY,39,https://www.zillow.com/homedetails/76-Foch-Ave-Staten-Island-NY-10305/32325734_zpid/,FOR_SALE,"$698,000","76 Foch Ave, Staten Island, NY 10305",10305,3,2,1680
+CONDO,74,https://www.zillow.com/homedetails/36-Hamilton-Ave-APT-3D-Staten-Island-NY-10301/244596965_zpid/,FOR_SALE,"$324,999","36 Hamilton Ave APT 3D, Staten Island, NY 10301",10301,2,2,1000
+SINGLE_FAMILY,40,https://www.zillow.com/homedetails/146-Major-Ave-Staten-Island-NY-10305/32322757_zpid/,FOR_SALE,"$950,000","146 Major Ave, Staten Island, NY 10305",10305,4,2,2192
+SINGLE_FAMILY,22,https://www.zillow.com/homedetails/988-Schenectady-Ave-E-Brooklyn-NY-11203/442327245_zpid/,FOR_SALE,"$774,900","988 Schenectady Avenue, East Flatbush, NY 11203",11203,4,2,1536
+CONDO,70,https://www.zillow.com/homedetails/2090-Madison-Ave-APT-1D-New-York-NY-10037/244872641_zpid/,FOR_SALE,"$290,000","2090 Madison Ave APT 1D, New York, NY 10037",10037,2,1,0
+CONDO,76,https://www.zillow.com/homedetails/735-Bergen-St-APT-1B-Brooklyn-NY-11238/216116089_zpid/,FOR_SALE,"$1,295,000","735 Bergen St APT 1B, Brooklyn, NY 11238",11238,2,2,1100
+TOWNHOUSE,13,https://www.zillow.com/homedetails/105-W-118th-St-New-York-NY-10026/31551659_zpid/,FOR_SALE,"$3,495,000","105 W 118th St, New York, NY 10026",10026,5,6,5648
+MULTI_FAMILY,47,https://www.zillow.com/homedetails/732-Union-St-Brooklyn-NY-11215/30582997_zpid/,FOR_SALE,"$3,100,000","732 Union St, Brooklyn, NY 11215",11215,3,3,2160
+SINGLE_FAMILY,17,https://www.zillow.com/homedetails/16135-90th-St-Jamaica-NY-11414/32215925_zpid/,FOR_SALE,"$999,999","161-35 90th Street, Howard Beach, NY 11414",11414,4,3,2504
+SINGLE_FAMILY,73,https://www.zillow.com/homedetails/5243-Sycamore-Ave-Bronx-NY-10471/29854451_zpid/,FOR_SALE,"$3,200,000","5243 Sycamore Ave, Bronx, NY 10471",10471,5,6,0
+SINGLE_FAMILY,658,https://www.zillow.com/homedetails/120-46-238th-St-Cambria-Heights-NY-11411/2078213815_zpid/,FOR_SALE,"$425,000","120-46 238th Street, Cambria Heights, NY 11411",11411,3,1,882
+CONDO,181,https://www.zillow.com/homedetails/2041-5th-Ave-APT-5F-New-York-NY-10035/2053413054_zpid/,FOR_SALE,"$550,000","2041 5th Ave APT 5F, New York, NY 10035",10035,3,2,0
+CONDO,5,https://www.zillow.com/homedetails/2400-Davidson-Ave-APT-B22-Bronx-NY-10468/122189964_zpid/,FOR_SALE,"$120,000","2400 Davidson Avenue UNIT B22, Bronx, NY 10468",10468,1,1,0
+CONDO,11,https://www.zillow.com/homedetails/38-W-9th-St-APT-1-New-York-NY-10011/244868679_zpid/,FOR_SALE,"$2,545,000","38 W 9th St APT 1, New York, NY 10011",10011,3,4,2100
+SINGLE_FAMILY,13,https://www.zillow.com/homedetails/539-Lexington-Ave-Brooklyn-NY-11221/30608593_zpid/,FOR_SALE,"$1,625,000","539 Lexington Ave, Brooklyn, NY 11221",11221,3,2,2134
+MULTI_FAMILY,6,https://www.zillow.com/homedetails/223-Exeter-St-Brooklyn-NY-11235/30790954_zpid/,FOR_SALE,"$2,500,000","223 Exeter St, Brooklyn, NY 11235",11235,5,4,2268
+CONDO,2,https://www.zillow.com/homedetails/1502-W-1st-St-UNIT-PENTHOUSE-6-Brooklyn-NY-11204/442166348_zpid/,FOR_SALE,"$788,000","1502 W 1st St UNIT PENTHOUSE 6, Brooklyn, NY 11204",11204,2,2,1049
+SINGLE_FAMILY,5,https://www.zillow.com/homedetails/91-Robin-Rd-Staten-Island-NY-10305/442743565_zpid/,FOR_SALE,"$788,000","91 Robin Rd, Staten Island, NY 10305",10305,3,3,1806
+TOWNHOUSE,67,https://www.zillow.com/homedetails/85-Charles-St-New-York-NY-10014/31500855_zpid/,FOR_SALE,"$12,995,000","85 Charles St, New York, NY 10014",10014,5,6,4928
+CONDO,24,https://www.zillow.com/homedetails/55-Hicks-St-APT-42-Brooklyn-NY-11201/245035965_zpid/,FOR_SALE,"$999,000","55 Hicks St APT 42, Brooklyn, NY 11201",11201,2,1,0
+MULTI_FAMILY,64,https://www.zillow.com/homedetails/461-47th-St-Brooklyn-NY-11220/30575863_zpid/,FOR_SALE,"$1,495,000","461 47th St, Brooklyn, NY 11220",11220,8,4,2772
+CONDO,27,https://www.zillow.com/homedetails/357-E-57th-St-APT-20C-New-York-NY-10022/114345096_zpid/,FOR_SALE,"$555,000","357 E 57th St APT 20C, New York, NY 10022",10022,2,1,0
+TOWNHOUSE,6,https://www.zillow.com/homedetails/2907-Utopia-Pkwy-Flushing-NY-11358/32058518_zpid/,FOR_SALE,"$899,000","29-07 Utopia Parkway, Flushing, NY 11358",11358,3,1,
+CONDO,14,https://www.zillow.com/homedetails/2640-Marion-Ave-APT-5D-Bronx-NY-10458/215950910_zpid/,FOR_SALE,"$150,000","2640 Marion UNIT 5D, Bronx, NY 10458",10458,1,1,800
+SINGLE_FAMILY,67,https://www.zillow.com/homedetails/150-Robinson-Ave-Staten-Island-NY-10312/32348584_zpid/,FOR_SALE,"$838,000","150 Robinson Ave, Staten Island, NY 10312",10312,4,3,1794
+CONDO,178,https://www.zillow.com/homedetails/215-E-96th-St-APT-27C-New-York-NY-10128/321915225_zpid/,FOR_SALE,"$949,000","215 E 96th St APT 27C, New York, NY 10128",10128,2,2,1077
+CONDO,320,https://www.zillow.com/homedetails/130-William-St-UNIT-PENTHOUSE-65-New-York-NY-10038/442156327_zpid/,FOR_SALE,"$20,000,000","130 William St UNIT PENTHOUSE 65, New York, NY 10038",10038,4,5,4665
+CONDO,181,https://www.zillow.com/homedetails/40-E-80th-St-APT-4-B-New-York-NY-10075/120560867_zpid/,FOR_SALE,"$550,000","40 E 80th St APT 4-B, New York, NY 10075",10075,1,2,0
+MULTI_FAMILY,60,https://www.zillow.com/homedetails/103-28-104th-St-Ozone-Park-NY-11417/440870573_zpid/,FOR_SALE,"$1,949,000","103-28 104th Street, Ozone Park, NY 11417",11417,10,6,3876
+CONDO,25,https://www.zillow.com/homedetails/103-25-68th-Ave-7O-Forest-Hills-NY-11375/79733141_zpid/,FOR_SALE,"$825,000","103-25 68th Ave #7O, Forest Hills, NY 11375",11375,3,2,1300
+SINGLE_FAMILY,277,https://www.zillow.com/homedetails/1415-Chandler-St-Far-Rockaway-NY-11691/32221308_zpid/,FOR_SALE,"$250,000","1415 Chandler St, Far Rockaway, NY 11691",11691,4,2,1764
+CONDO,89,https://www.zillow.com/homedetails/920-E-17th-St-APT-103-Brooklyn-NY-11230/245065651_zpid/,FOR_SALE,"$335,000","920 E 17th St APT 103, Brooklyn, NY 11230",11230,2,1,1100
